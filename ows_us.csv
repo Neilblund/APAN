@@ -1,0 +1,21 @@
+Country,Town/city,country_iso,adminCode1,lng,geonameId,toponymName,countryId,fcl,population,countryCode,name,fclName,adminCodes1.ISO3166_2,countryName,fcodeName,adminName1,lat,fcode
+United States,"Akron, OH",US,OH,-81.51901,5145476,Akron,6252001,P,197542,US,Akron,"city, village,...",OH,United States,seat of a second-order administrative division,Ohio,41.08144,PPLA2
+USA,"Albuquerque, New Mexico",US,NM,-106.65114,5454711,Albuquerque,6252001,P,559121,US,Albuquerque,"city, village,...",NM,United States,seat of a second-order administrative division,New Mexico,35.08449,PPLA2
+USA,"Anaheim, California",US,CA,-118.18076,12213683,"Los Angeles-Long Beach-Anaheim, CA Metro Area",6252001,L,12830000,US,"Los Angeles-Long Beach-Anaheim, CA","parks,area, ...",CA,United States,economic region,California,34.11176,RGNE
+United States,Appleton,US,WI,-88.41538,5244080,Appleton,6252001,P,74139,US,Appleton,"city, village,...",WI,United States,seat of a second-order administrative division,Wisconsin,44.26193,PPLA2
+usa,arcata,US,CA,-124.08284,5558953,Arcata,6252001,P,17843,US,Arcata,"city, village,...",CA,United States,populated place,California,40.86652,PPL
+USA,Arcata,US,CA,-124.08284,5558953,Arcata,6252001,P,17843,US,Arcata,"city, village,...",CA,United States,populated place,California,40.86652,PPL
+USA,"Arcata, California",US,CA,-124.08284,5558953,Arcata,6252001,P,17843,US,Arcata,"city, village,...",CA,United States,populated place,California,40.86652,PPL
+USA,"arnold, MO",US,MO,-90.37762,4375087,Arnold,6252001,P,21357,US,Arnold,"city, village,...",MO,United States,populated place,Missouri,38.43283,PPL
+USA,"Asheville, NC",US,NC,-82.55402,4453066,Asheville,6252001,P,88512,US,Asheville,"city, village,...",NC,United States,seat of a second-order administrative division,North Carolina,35.60095,PPLA2
+USA,Aspen,US,CO,-106.81754,5412230,Aspen,6252001,P,6882,US,Aspen,"city, village,...",CO,United States,seat of a second-order administrative division,Colorado,39.1911,PPLA2
+USA,"Austin, TX",US,TX,-97.74306,4671654,Austin,6252001,P,931830,US,Austin,"city, village,...",TX,United States,seat of a first-order administrative division,Texas,30.26715,PPLA
+United States,Bangor,US,ME,-68.77265,4957280,Bangor,6252001,P,32391,US,Bangor,"city, village,...",ME,United States,seat of a second-order administrative division,Maine,44.79884,PPLA2
+USA,"Baton Rouge, Louisiana",US,LA,-91.18747,4315588,Baton Rouge,6252001,P,228590,US,Baton Rouge,"city, village,...",LA,United States,seat of a first-order administrative division,Louisiana,30.44332,PPLA
+United States,"Bellingham, WA",US,WA,-122.48822,5786899,Bellingham,6252001,P,85146,US,Bellingham,"city, village,...",WA,United States,seat of a second-order administrative division,Washington,48.75955,PPLA2
+United States,Bentonville,US,AR,-94.20882,4101260,Bentonville,6252001,P,44499,US,Bentonville,"city, village,...",AR,United States,seat of a second-order administrative division,Arkansas,36.37285,PPLA2
+United States,Bismarck,US,ND,-100.78374,5688025,Bismarck,6252001,P,71167,US,Bismarck,"city, village,...",ND,United States,seat of a first-order administrative division,North Dakota,46.80833,PPLA
+US,"Bowling Green, Ohio",US,OH,-83.65132,5147968,Bowling Green,6252001,P,31246,US,Bowling Green,"city, village,...",OH,United States,seat of a second-order administrative division,Ohio,41.37477,PPLA2
+USA,"Bozeman, MT",US,MT,-111.03856,5641727,Bozeman,6252001,P,43405,US,Bozeman,"city, village,...",MT,United States,seat of a second-order administrative division,Montana,45.67965,PPLA2
+US,"Buckhannon, WV",US,WV,-80.23203,4800587,Buckhannon,6252001,P,5657,US,Buckhannon,"city, village,...",WV,United States,seat of a second-order administrative division,West Virginia,38.99399,PPLA2
+USA,"Burlington, Vermont",US,VT,-73.21207,5234372,Burlington,6252001,P,42452,US,Burlington,"city, village,...",VT,United States,seat of a second-order administrative division,Vermont,44.47588,PPLA2
