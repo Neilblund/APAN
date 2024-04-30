@@ -1,6 +1,7 @@
 library(rpart)
 library(caret)
 library(rattle)
+library(tidyverse)
 
 # the training data
 gtd_2019 = read_csv('https://raw.githubusercontent.com/Neilblund/APAN/main/gtd_2019.csv')%>%
