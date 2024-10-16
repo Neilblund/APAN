@@ -1,0 +1,169 @@
+country,democracy_score,oil,terrorist_attacks
+Afghanistan,0.197,oil production,terrorist attacks
+Albania,0.417,oil production,terrorist attacks
+Algeria,0.152,oil production,terrorist attacks
+Angola,0.177,oil production,terrorist attacks
+Argentina,0.667,oil production,terrorist attacks
+Armenia,0.587,no oil,no terrorist attacks
+Australia,0.81,oil production,terrorist attacks
+Austria,0.756,oil production,terrorist attacks
+Azerbaijan,0.066,oil production,no terrorist attacks
+Bahrain,0.052,oil production,no terrorist attacks
+Bangladesh,0.097,oil production,terrorist attacks
+Barbados,0.685,oil production,no terrorist attacks
+Belarus,0.048,oil production,terrorist attacks
+Belgium,0.818,oil production,terrorist attacks
+Benin,0.293,oil production,terrorist attacks
+Bhutan,0.51,no oil,no terrorist attacks
+Bolivia,0.234,oil production,terrorist attacks
+Bosnia & Herzegovina,0.362,no oil,no terrorist attacks
+Botswana,0.493,no oil,no terrorist attacks
+Brazil,0.523,oil production,terrorist attacks
+Bulgaria,0.508,oil production,terrorist attacks
+Burkina Faso,0.468,no oil,terrorist attacks
+Burundi,0.047,no oil,terrorist attacks
+Cambodia,0.064,oil production,terrorist attacks
+Cameroon,0.123,oil production,terrorist attacks
+Canada,0.741,oil production,terrorist attacks
+Cape Verde,0.714,no oil,no terrorist attacks
+Central African Republic,0.202,no oil,terrorist attacks
+Chad,0.091,oil production,terrorist attacks
+Chile,0.764,oil production,terrorist attacks
+China,0.039,oil production,terrorist attacks
+Colombia,0.483,oil production,terrorist attacks
+Comoros,0.115,no oil,no terrorist attacks
+Congo - Brazzaville,0.115,oil production,no terrorist attacks
+Congo - Kinshasa,0.159,oil production,terrorist attacks
+Costa Rica,0.852,oil production,no terrorist attacks
+Croatia,0.655,oil production,terrorist attacks
+Cuba,0.062,oil production,no terrorist attacks
+Cyprus,0.691,no oil,terrorist attacks
+Czechia,0.728,oil production,no terrorist attacks
+Côte d’Ivoire,0.269,oil production,terrorist attacks
+Denmark,0.882,oil production,no terrorist attacks
+Djibouti,0.125,no oil,no terrorist attacks
+Dominican Republic,0.417,no oil,no terrorist attacks
+Ecuador,0.482,oil production,terrorist attacks
+Egypt,0.12,oil production,terrorist attacks
+El Salvador,0.347,oil production,no terrorist attacks
+Equatorial Guinea,0.054,oil production,no terrorist attacks
+Estonia,0.841,oil production,no terrorist attacks
+Eswatini,0.114,no oil,no terrorist attacks
+Ethiopia,0.163,no oil,terrorist attacks
+Fiji,0.276,no oil,no terrorist attacks
+Finland,0.835,oil production,terrorist attacks
+France,0.794,oil production,terrorist attacks
+Gabon,0.204,oil production,no terrorist attacks
+Gambia,0.408,no oil,no terrorist attacks
+Georgia,0.493,oil production,terrorist attacks
+Germany,0.828,oil production,terrorist attacks
+Ghana,0.62,oil production,terrorist attacks
+Greece,0.704,oil production,terrorist attacks
+Guatemala,0.384,oil production,terrorist attacks
+Guinea,0.119,no oil,no terrorist attacks
+Guinea-Bissau,0.337,no oil,no terrorist attacks
+Guyana,0.405,oil production,terrorist attacks
+Haiti,0.223,no oil,terrorist attacks
+Honduras,0.235,oil production,terrorist attacks
+Hong Kong SAR China,0.203,oil production,no terrorist attacks
+Hungary,0.356,oil production,no terrorist attacks
+Iceland,0.779,no oil,no terrorist attacks
+India,0.31,oil production,terrorist attacks
+Indonesia,0.429,oil production,terrorist attacks
+Iran,0.143,oil production,terrorist attacks
+Iraq,0.211,oil production,terrorist attacks
+Ireland,0.824,oil production,terrorist attacks
+Israel,0.645,oil production,terrorist attacks
+Italy,0.774,oil production,terrorist attacks
+Jamaica,0.708,oil production,no terrorist attacks
+Japan,0.74,oil production,no terrorist attacks
+Jordan,0.241,oil production,no terrorist attacks
+Kazakhstan,0.12,oil production,terrorist attacks
+Kenya,0.379,no oil,terrorist attacks
+Kuwait,0.297,oil production,no terrorist attacks
+Kyrgyzstan,0.262,oil production,terrorist attacks
+Laos,0.085,no oil,no terrorist attacks
+Latvia,0.739,oil production,no terrorist attacks
+Lebanon,0.269,no oil,terrorist attacks
+Lesotho,0.502,no oil,no terrorist attacks
+Liberia,0.472,no oil,no terrorist attacks
+Libya,0.148,oil production,terrorist attacks
+Lithuania,0.753,oil production,no terrorist attacks
+Luxembourg,0.794,no oil,no terrorist attacks
+Madagascar,0.267,oil production,no terrorist attacks
+Malawi,0.474,no oil,no terrorist attacks
+Malaysia,0.298,oil production,terrorist attacks
+Maldives,0.443,no oil,terrorist attacks
+Mali,0.247,no oil,terrorist attacks
+Malta,0.632,no oil,no terrorist attacks
+Mauritania,0.183,no oil,no terrorist attacks
+Mauritius,0.458,no oil,no terrorist attacks
+Mexico,0.406,oil production,terrorist attacks
+Moldova,0.502,oil production,no terrorist attacks
+Mongolia,0.523,oil production,no terrorist attacks
+Montenegro,0.38,no oil,no terrorist attacks
+Morocco,0.238,oil production,no terrorist attacks
+Mozambique,0.24,oil production,terrorist attacks
+Myanmar (Burma),0.273,oil production,terrorist attacks
+Namibia,0.527,no oil,no terrorist attacks
+Nepal,0.465,no oil,terrorist attacks
+Netherlands,0.814,oil production,terrorist attacks
+New Zealand,0.837,oil production,terrorist attacks
+Nicaragua,0.048,oil production,terrorist attacks
+Niger,0.396,oil production,terrorist attacks
+Nigeria,0.362,oil production,terrorist attacks
+North Macedonia,0.405,no oil,no terrorist attacks
+Norway,0.856,oil production,terrorist attacks
+Oman,0.136,oil production,no terrorist attacks
+Pakistan,0.267,oil production,terrorist attacks
+Palestinian Territories,0.163,no oil,terrorist attacks
+Palestinian Territories,0.054,no oil,terrorist attacks
+Panama,0.554,no oil,no terrorist attacks
+Papua New Guinea,0.345,oil production,no terrorist attacks
+Paraguay,0.424,oil production,terrorist attacks
+Peru,0.708,oil production,terrorist attacks
+Philippines,0.284,oil production,terrorist attacks
+Poland,0.458,oil production,terrorist attacks
+Portugal,0.813,oil production,terrorist attacks
+Qatar,0.089,oil production,no terrorist attacks
+Romania,0.672,oil production,no terrorist attacks
+Russia,0.104,oil production,terrorist attacks
+Rwanda,0.126,no oil,terrorist attacks
+Saudi Arabia,0.046,oil production,terrorist attacks
+Senegal,0.576,no oil,no terrorist attacks
+Serbia,0.251,oil production,no terrorist attacks
+Sierra Leone,0.417,no oil,no terrorist attacks
+Singapore,0.332,no oil,no terrorist attacks
+Slovakia,0.776,oil production,no terrorist attacks
+Slovenia,0.646,oil production,no terrorist attacks
+Solomon Islands,0.467,no oil,no terrorist attacks
+Somalia,0.1,no oil,terrorist attacks
+South Africa,0.575,oil production,terrorist attacks
+South Korea,0.797,oil production,no terrorist attacks
+Spain,0.793,oil production,no terrorist attacks
+Sri Lanka,0.361,no oil,terrorist attacks
+Sudan,0.083,oil production,terrorist attacks
+Suriname,0.64,oil production,no terrorist attacks
+Sweden,0.873,oil production,terrorist attacks
+Switzerland,0.857,oil production,terrorist attacks
+Syria,0.034,oil production,terrorist attacks
+São Tomé & Príncipe,0.589,no oil,no terrorist attacks
+Tajikistan,0.045,oil production,no terrorist attacks
+Tanzania,0.347,no oil,terrorist attacks
+Thailand,0.172,oil production,terrorist attacks
+Timor-Leste,0.483,oil production,no terrorist attacks
+Togo,0.258,no oil,no terrorist attacks
+Trinidad & Tobago,0.646,oil production,terrorist attacks
+Tunisia,0.625,oil production,terrorist attacks
+Turkey,0.123,oil production,terrorist attacks
+Uganda,0.221,no oil,terrorist attacks
+Ukraine,0.314,oil production,terrorist attacks
+United Arab Emirates,0.089,oil production,no terrorist attacks
+United Kingdom,0.808,oil production,terrorist attacks
+United States,0.721,oil production,terrorist attacks
+Uruguay,0.794,oil production,no terrorist attacks
+Uzbekistan,0.087,oil production,no terrorist attacks
+Vanuatu,0.633,no oil,no terrorist attacks
+Vietnam,0.097,oil production,no terrorist attacks
+Zambia,0.266,no oil,no terrorist attacks
+Zimbabwe,0.196,oil production,terrorist attacks
