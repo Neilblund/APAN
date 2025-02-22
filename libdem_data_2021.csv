@@ -1,4 +1,4 @@
-country_name,country_id,liberal_democracy
+country,country_id,liberal_democracy
 Mexico,3,0.368
 Suriname,4,0.631
 Sweden,5,0.869
