@@ -1,0 +1,23 @@
+[
+  {
+    "total": "2",
+    "data": [
+      {
+        "id": "FEDA3DF8-B871-4C1A-BB96-32823860B174",
+        "name": "Arts and Culture",
+        "parks": [
+          {
+            "states": "KY",
+            "fullName": "Abraham Lincoln Birthplace National Historical Park",
+            "url": "https://www.nps.gov/abli/index.htm",
+            "parkCode": "abli",
+            "designation": "National Historical Park",
+            "name": "Abraham Lincoln Birthplace"
+          }
+        ]
+      }
+    ],
+    "limit": "50",
+    "start": "0"
+  }
+]
