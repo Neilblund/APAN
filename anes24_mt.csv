@@ -1,0 +1,2768 @@
+,age_group,partyid_3cat,libcon,trump_therm,harris_therm
+0,45-54,Republican,6. Conservative,85.0,0.0
+1,35-44,Independent,4. Moderate; middle of the road,50.0,50.0
+2,35-44,Democrat,2. Liberal,0.0,85.0
+6,35-44,Independent,4. Moderate; middle of the road,100.0,0.0
+10,55-64,Democrat,4. Moderate; middle of the road,0.0,60.0
+11,25-34,Republican,5. Slightly conservative,100.0,0.0
+12,35-44,Democrat,4. Moderate; middle of the road,0.0,70.0
+14,55-64,Democrat,3. Slightly liberal,0.0,60.0
+15,55-64,Democrat,3. Slightly liberal,0.0,70.0
+17,35-44,Republican,6. Conservative,100.0,0.0
+21,45-54,Republican,5. Slightly conservative,71.0,2.0
+24,45-54,Republican,4. Moderate; middle of the road,50.0,0.0
+25,45-54,Democrat,2. Liberal,0.0,85.0
+27,55-64,Democrat,3. Slightly liberal,0.0,80.0
+29,25-34,Democrat,2. Liberal,0.0,40.0
+33,45-54,Republican,7. Extremely conservative,100.0,0.0
+34,55-64,Republican,6. Conservative,85.0,0.0
+36,35-44,Democrat,3. Slightly liberal,15.0,70.0
+43,45-54,Democrat,4. Moderate; middle of the road,25.0,70.0
+45,55-64,Republican,7. Extremely conservative,85.0,60.0
+46,35-44,Democrat,4. Moderate; middle of the road,0.0,85.0
+48,35-44,Democrat,2. Liberal,0.0,70.0
+49,35-44,Democrat,3. Slightly liberal,60.0,30.0
+50,45-54,Democrat,5. Slightly conservative,0.0,70.0
+52,35-44,Democrat,1. Extremely liberal,0.0,85.0
+54,65+,Democrat,4. Moderate; middle of the road,0.0,70.0
+63,45-54,Democrat,4. Moderate; middle of the road,30.0,85.0
+64,45-54,Democrat,1. Extremely liberal,0.0,100.0
+65,45-54,Democrat,2. Liberal,0.0,85.0
+66,45-54,Democrat,4. Moderate; middle of the road,0.0,100.0
+67,35-44,Democrat,4. Moderate; middle of the road,30.0,85.0
+68,35-44,Democrat,3. Slightly liberal,0.0,40.0
+70,25-34,Republican,5. Slightly conservative,30.0,30.0
+71,35-44,Republican,5. Slightly conservative,60.0,15.0
+72,25-34,Republican,6. Conservative,70.0,0.0
+74,65+,Republican,5. Slightly conservative,100.0,0.0
+76,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+77,45-54,Democrat,3. Slightly liberal,0.0,100.0
+80,45-54,Democrat,1. Extremely liberal,0.0,100.0
+81,35-44,Republican,6. Conservative,80.0,0.0
+82,35-44,Republican,6. Conservative,85.0,1.0
+88,55-64,Republican,3. Slightly liberal,85.0,50.0
+89,35-44,Republican,4. Moderate; middle of the road,100.0,0.0
+90,65+,Democrat,4. Moderate; middle of the road,30.0,100.0
+91,55-64,Republican,6. Conservative,100.0,0.0
+92,25-34,Democrat,2. Liberal,0.0,70.0
+95,55-64,Independent,4. Moderate; middle of the road,70.0,30.0
+96,35-44,Democrat,4. Moderate; middle of the road,30.0,50.0
+97,25-34,Democrat,2. Liberal,0.0,85.0
+102,25-34,Republican,6. Conservative,75.0,15.0
+104,35-44,Democrat,2. Liberal,0.0,70.0
+106,55-64,Republican,4. Moderate; middle of the road,0.0,60.0
+110,55-64,Republican,3. Slightly liberal,85.0,15.0
+111,25-34,Democrat,2. Liberal,0.0,85.0
+112,35-44,Democrat,4. Moderate; middle of the road,0.0,100.0
+114,35-44,Democrat,2. Liberal,0.0,70.0
+115,45-54,Democrat,5. Slightly conservative,10.0,65.0
+116,35-44,Democrat,2. Liberal,0.0,95.0
+123,45-54,Republican,6. Conservative,100.0,0.0
+124,45-54,Independent,3. Slightly liberal,0.0,85.0
+126,25-34,Democrat,1. Extremely liberal,0.0,15.0
+128,55-64,Democrat,3. Slightly liberal,0.0,85.0
+129,25-34,Republican,4. Moderate; middle of the road,75.0,0.0
+131,25-34,Democrat,2. Liberal,0.0,80.0
+132,25-34,Democrat,5. Slightly conservative,30.0,85.0
+135,55-64,Republican,4. Moderate; middle of the road,100.0,0.0
+139,45-54,Democrat,3. Slightly liberal,0.0,90.0
+140,45-54,Democrat,2. Liberal,3.0,90.0
+146,25-34,Republican,6. Conservative,85.0,0.0
+147,65+,Democrat,2. Liberal,0.0,85.0
+148,55-64,Democrat,2. Liberal,10.0,60.0
+149,35-44,Republican,7. Extremely conservative,95.0,0.0
+152,45-54,Republican,6. Conservative,100.0,0.0
+155,25-34,Republican,5. Slightly conservative,50.0,50.0
+156,45-54,Democrat,2. Liberal,2.0,15.0
+159,55-64,Democrat,3. Slightly liberal,0.0,100.0
+160,45-54,Republican,5. Slightly conservative,60.0,15.0
+164,25-34,Republican,5. Slightly conservative,50.0,0.0
+165,25-34,Republican,5. Slightly conservative,30.0,15.0
+168,35-44,Democrat,2. Liberal,0.0,100.0
+171,55-64,Republican,4. Moderate; middle of the road,85.0,0.0
+172,35-44,Democrat,1. Extremely liberal,0.0,60.0
+173,55-64,Democrat,2. Liberal,30.0,70.0
+176,55-64,Republican,4. Moderate; middle of the road,0.0,60.0
+177,45-54,Democrat,4. Moderate; middle of the road,0.0,50.0
+179,35-44,Republican,5. Slightly conservative,90.0,0.0
+180,55-64,Republican,6. Conservative,85.0,15.0
+181,35-44,Democrat,2. Liberal,0.0,85.0
+183,45-54,Democrat,2. Liberal,30.0,60.0
+185,25-34,Democrat,3. Slightly liberal,72.0,33.0
+188,35-44,Democrat,5. Slightly conservative,100.0,0.0
+189,45-54,Republican,6. Conservative,100.0,0.0
+192,55-64,Democrat,5. Slightly conservative,0.0,70.0
+194,35-44,Republican,3. Slightly liberal,50.0,50.0
+199,25-34,Democrat,2. Liberal,15.0,60.0
+203,55-64,Democrat,1. Extremely liberal,0.0,100.0
+205,35-44,Democrat,2. Liberal,0.0,85.0
+208,25-34,Republican,6. Conservative,85.0,0.0
+209,25-34,Democrat,4. Moderate; middle of the road,0.0,85.0
+210,35-44,Democrat,3. Slightly liberal,65.0,10.0
+211,45-54,Democrat,4. Moderate; middle of the road,0.0,60.0
+213,55-64,Republican,6. Conservative,90.0,0.0
+215,55-64,Republican,6. Conservative,100.0,0.0
+216,25-34,Democrat,2. Liberal,0.0,85.0
+217,25-34,Democrat,4. Moderate; middle of the road,0.0,100.0
+218,35-44,Republican,6. Conservative,90.0,15.0
+219,35-44,Democrat,2. Liberal,0.0,85.0
+220,45-54,Republican,6. Conservative,55.0,15.0
+221,55-64,Republican,6. Conservative,66.0,1.0
+222,65+,Republican,4. Moderate; middle of the road,100.0,0.0
+223,55-64,Democrat,3. Slightly liberal,15.0,100.0
+224,55-64,Democrat,2. Liberal,0.0,100.0
+225,55-64,Republican,6. Conservative,15.0,15.0
+227,35-44,Democrat,2. Liberal,0.0,85.0
+231,45-54,Independent,4. Moderate; middle of the road,55.0,20.0
+233,45-54,Republican,6. Conservative,90.0,10.0
+234,55-64,Democrat,1. Extremely liberal,0.0,60.0
+235,25-34,Democrat,4. Moderate; middle of the road,50.0,50.0
+236,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+238,25-34,Democrat,3. Slightly liberal,15.0,85.0
+239,55-64,Democrat,3. Slightly liberal,0.0,85.0
+241,55-64,Democrat,2. Liberal,30.0,75.0
+242,35-44,Republican,6. Conservative,85.0,2.0
+243,45-54,Republican,5. Slightly conservative,70.0,15.0
+244,55-64,Republican,6. Conservative,75.0,10.0
+246,25-34,Republican,5. Slightly conservative,65.0,15.0
+247,35-44,Republican,6. Conservative,85.0,0.0
+249,55-64,Democrat,2. Liberal,0.0,70.0
+256,65+,Democrat,3. Slightly liberal,0.0,60.0
+262,45-54,Democrat,2. Liberal,0.0,85.0
+263,35-44,Democrat,2. Liberal,0.0,85.0
+267,45-54,Republican,5. Slightly conservative,100.0,0.0
+269,55-64,Democrat,1. Extremely liberal,0.0,100.0
+273,45-54,Republican,6. Conservative,90.0,0.0
+276,18-24,Democrat,4. Moderate; middle of the road,50.0,85.0
+278,35-44,Democrat,2. Liberal,30.0,50.0
+279,45-54,Republican,5. Slightly conservative,70.0,30.0
+281,25-34,Republican,4. Moderate; middle of the road,85.0,15.0
+282,45-54,Republican,7. Extremely conservative,60.0,50.0
+285,55-64,Republican,6. Conservative,85.0,0.0
+286,35-44,Democrat,2. Liberal,0.0,100.0
+287,45-54,Republican,5. Slightly conservative,70.0,15.0
+288,55-64,Democrat,4. Moderate; middle of the road,0.0,85.0
+289,55-64,Republican,5. Slightly conservative,100.0,0.0
+290,25-34,Democrat,4. Moderate; middle of the road,30.0,30.0
+293,25-34,Republican,4. Moderate; middle of the road,0.0,85.0
+297,25-34,Republican,7. Extremely conservative,100.0,15.0
+300,35-44,Democrat,4. Moderate; middle of the road,0.0,40.0
+301,25-34,Republican,5. Slightly conservative,70.0,15.0
+302,55-64,Democrat,5. Slightly conservative,0.0,85.0
+303,35-44,Democrat,2. Liberal,0.0,85.0
+309,35-44,Republican,6. Conservative,70.0,0.0
+311,25-34,Democrat,4. Moderate; middle of the road,60.0,50.0
+312,45-54,Democrat,2. Liberal,0.0,65.0
+313,55-64,Democrat,4. Moderate; middle of the road,0.0,85.0
+317,35-44,Republican,6. Conservative,95.0,0.0
+318,45-54,Democrat,2. Liberal,0.0,100.0
+319,35-44,Democrat,2. Liberal,0.0,100.0
+320,45-54,Democrat,4. Moderate; middle of the road,40.0,40.0
+321,25-34,Republican,7. Extremely conservative,90.0,0.0
+324,45-54,Independent,6. Conservative,100.0,0.0
+325,25-34,Republican,6. Conservative,70.0,0.0
+328,55-64,Democrat,4. Moderate; middle of the road,20.0,50.0
+330,35-44,Independent,4. Moderate; middle of the road,50.0,0.0
+334,45-54,Republican,6. Conservative,70.0,30.0
+337,35-44,Republican,3. Slightly liberal,50.0,70.0
+338,65+,Democrat,6. Conservative,60.0,0.0
+339,55-64,Democrat,4. Moderate; middle of the road,0.0,75.0
+341,35-44,Republican,7. Extremely conservative,100.0,0.0
+343,35-44,Republican,6. Conservative,60.0,15.0
+345,45-54,Independent,4. Moderate; middle of the road,0.0,100.0
+346,45-54,Democrat,4. Moderate; middle of the road,0.0,100.0
+349,35-44,Independent,5. Slightly conservative,80.0,0.0
+350,45-54,Republican,6. Conservative,100.0,0.0
+355,45-54,Democrat,2. Liberal,0.0,100.0
+358,25-34,Republican,6. Conservative,85.0,0.0
+364,35-44,Republican,5. Slightly conservative,60.0,0.0
+365,35-44,Democrat,3. Slightly liberal,0.0,60.0
+366,45-54,Republican,5. Slightly conservative,35.0,15.0
+367,45-54,Independent,4. Moderate; middle of the road,0.0,100.0
+368,45-54,Republican,5. Slightly conservative,85.0,15.0
+369,35-44,Republican,7. Extremely conservative,100.0,0.0
+370,65+,Democrat,3. Slightly liberal,10.0,85.0
+372,55-64,Republican,7. Extremely conservative,100.0,0.0
+376,45-54,Republican,6. Conservative,85.0,0.0
+377,55-64,Republican,6. Conservative,85.0,15.0
+383,35-44,Republican,4. Moderate; middle of the road,55.0,25.0
+384,25-34,Republican,7. Extremely conservative,100.0,0.0
+386,45-54,Democrat,1. Extremely liberal,0.0,70.0
+387,35-44,Democrat,3. Slightly liberal,0.0,85.0
+390,35-44,Republican,4. Moderate; middle of the road,90.0,0.0
+391,55-64,Democrat,2. Liberal,0.0,90.0
+392,35-44,Democrat,2. Liberal,0.0,85.0
+393,35-44,Democrat,2. Liberal,0.0,85.0
+394,55-64,Republican,6. Conservative,85.0,0.0
+396,55-64,Democrat,4. Moderate; middle of the road,15.0,75.0
+397,55-64,Republican,6. Conservative,100.0,0.0
+398,35-44,Democrat,4. Moderate; middle of the road,10.0,40.0
+400,55-64,Republican,4. Moderate; middle of the road,85.0,0.0
+402,45-54,Republican,5. Slightly conservative,60.0,30.0
+403,55-64,Republican,6. Conservative,100.0,15.0
+404,35-44,Democrat,4. Moderate; middle of the road,0.0,100.0
+405,55-64,Democrat,4. Moderate; middle of the road,50.0,15.0
+407,45-54,Republican,5. Slightly conservative,70.0,30.0
+408,35-44,Republican,4. Moderate; middle of the road,50.0,50.0
+410,35-44,Republican,5. Slightly conservative,100.0,5.0
+411,35-44,Republican,5. Slightly conservative,40.0,30.0
+415,45-54,Republican,6. Conservative,85.0,10.0
+416,35-44,Republican,4. Moderate; middle of the road,50.0,15.0
+420,35-44,Democrat,2. Liberal,0.0,45.0
+424,35-44,Independent,4. Moderate; middle of the road,0.0,40.0
+425,55-64,Republican,6. Conservative,100.0,15.0
+427,35-44,Independent,4. Moderate; middle of the road,60.0,50.0
+428,35-44,Democrat,1. Extremely liberal,0.0,75.0
+429,45-54,Republican,4. Moderate; middle of the road,85.0,15.0
+430,55-64,Republican,4. Moderate; middle of the road,65.0,0.0
+435,25-34,Democrat,3. Slightly liberal,0.0,30.0
+436,35-44,Democrat,1. Extremely liberal,50.0,50.0
+438,45-54,Republican,4. Moderate; middle of the road,15.0,10.0
+439,35-44,Democrat,1. Extremely liberal,0.0,80.0
+440,25-34,Democrat,1. Extremely liberal,0.0,70.0
+441,45-54,Democrat,2. Liberal,0.0,85.0
+443,25-34,Republican,6. Conservative,7.0,4.0
+444,45-54,Democrat,2. Liberal,0.0,70.0
+445,45-54,Democrat,3. Slightly liberal,0.0,85.0
+446,55-64,Democrat,4. Moderate; middle of the road,0.0,85.0
+449,35-44,Republican,4. Moderate; middle of the road,15.0,75.0
+450,25-34,Republican,6. Conservative,85.0,0.0
+452,45-54,Democrat,3. Slightly liberal,0.0,95.0
+454,55-64,Republican,6. Conservative,90.0,0.0
+457,35-44,Democrat,3. Slightly liberal,0.0,50.0
+460,45-54,Democrat,2. Liberal,0.0,95.0
+461,45-54,Republican,4. Moderate; middle of the road,0.0,90.0
+462,35-44,Republican,2. Liberal,100.0,5.0
+463,35-44,Democrat,4. Moderate; middle of the road,60.0,40.0
+464,55-64,Republican,4. Moderate; middle of the road,85.0,0.0
+465,45-54,Republican,4. Moderate; middle of the road,85.0,0.0
+467,25-34,Democrat,1. Extremely liberal,0.0,100.0
+470,25-34,Republican,6. Conservative,85.0,10.0
+471,45-54,Democrat,2. Liberal,0.0,100.0
+472,45-54,Democrat,2. Liberal,0.0,100.0
+473,55-64,Democrat,2. Liberal,0.0,100.0
+477,55-64,Republican,4. Moderate; middle of the road,100.0,15.0
+479,55-64,Democrat,2. Liberal,0.0,75.0
+480,35-44,Democrat,1. Extremely liberal,70.0,70.0
+484,35-44,Independent,3. Slightly liberal,0.0,70.0
+486,35-44,Democrat,2. Liberal,0.0,80.0
+488,55-64,Republican,4. Moderate; middle of the road,85.0,30.0
+489,55-64,Democrat,3. Slightly liberal,0.0,95.0
+490,45-54,Democrat,4. Moderate; middle of the road,0.0,100.0
+492,35-44,Democrat,2. Liberal,0.0,85.0
+494,45-54,Democrat,3. Slightly liberal,0.0,75.0
+495,25-34,Republican,5. Slightly conservative,65.0,10.0
+496,55-64,Republican,4. Moderate; middle of the road,0.0,85.0
+497,25-34,Democrat,4. Moderate; middle of the road,0.0,40.0
+500,35-44,Democrat,1. Extremely liberal,0.0,80.0
+502,55-64,Republican,4. Moderate; middle of the road,0.0,85.0
+506,55-64,Republican,7. Extremely conservative,100.0,0.0
+507,45-54,Republican,5. Slightly conservative,75.0,40.0
+508,25-34,Democrat,1. Extremely liberal,0.0,70.0
+509,25-34,Democrat,5. Slightly conservative,40.0,50.0
+510,45-54,Republican,3. Slightly liberal,60.0,0.0
+513,35-44,Democrat,2. Liberal,0.0,100.0
+519,55-64,Independent,5. Slightly conservative,40.0,60.0
+521,45-54,Republican,4. Moderate; middle of the road,30.0,40.0
+524,35-44,Republican,6. Conservative,90.0,0.0
+528,55-64,Republican,6. Conservative,85.0,0.0
+532,35-44,Republican,7. Extremely conservative,100.0,0.0
+534,25-34,Republican,6. Conservative,70.0,15.0
+535,35-44,Democrat,4. Moderate; middle of the road,0.0,70.0
+536,55-64,Democrat,3. Slightly liberal,0.0,85.0
+538,35-44,Democrat,3. Slightly liberal,10.0,55.0
+539,45-54,Republican,5. Slightly conservative,40.0,40.0
+540,25-34,Republican,6. Conservative,100.0,0.0
+541,35-44,Democrat,3. Slightly liberal,0.0,100.0
+545,45-54,Republican,4. Moderate; middle of the road,85.0,5.0
+546,55-64,Republican,6. Conservative,100.0,0.0
+547,45-54,Democrat,4. Moderate; middle of the road,19.0,69.0
+548,35-44,Republican,7. Extremely conservative,100.0,0.0
+551,45-54,Democrat,4. Moderate; middle of the road,40.0,50.0
+555,55-64,Democrat,4. Moderate; middle of the road,15.0,85.0
+557,55-64,Republican,7. Extremely conservative,100.0,0.0
+558,55-64,Democrat,2. Liberal,0.0,85.0
+562,55-64,Republican,7. Extremely conservative,100.0,0.0
+563,35-44,Republican,6. Conservative,60.0,15.0
+564,65+,Democrat,4. Moderate; middle of the road,0.0,85.0
+565,25-34,Democrat,4. Moderate; middle of the road,30.0,60.0
+566,55-64,Republican,6. Conservative,85.0,0.0
+567,45-54,Democrat,3. Slightly liberal,0.0,90.0
+570,45-54,Republican,4. Moderate; middle of the road,85.0,0.0
+573,25-34,Democrat,1. Extremely liberal,0.0,40.0
+575,35-44,Republican,1. Extremely liberal,85.0,0.0
+578,45-54,Republican,5. Slightly conservative,80.0,0.0
+579,55-64,Republican,6. Conservative,85.0,15.0
+580,25-34,Democrat,2. Liberal,0.0,60.0
+583,35-44,Republican,4. Moderate; middle of the road,30.0,30.0
+584,25-34,Republican,3. Slightly liberal,40.0,60.0
+587,55-64,Republican,6. Conservative,90.0,0.0
+590,45-54,Republican,6. Conservative,85.0,15.0
+591,55-64,Democrat,1. Extremely liberal,0.0,90.0
+593,35-44,Democrat,3. Slightly liberal,0.0,75.0
+596,35-44,Democrat,2. Liberal,0.0,85.0
+597,45-54,Republican,6. Conservative,100.0,0.0
+599,65+,Democrat,3. Slightly liberal,0.0,95.0
+600,35-44,Republican,6. Conservative,100.0,0.0
+601,45-54,Democrat,3. Slightly liberal,0.0,60.0
+602,35-44,Democrat,3. Slightly liberal,0.0,90.0
+603,35-44,Republican,6. Conservative,70.0,15.0
+604,55-64,Republican,4. Moderate; middle of the road,40.0,40.0
+606,45-54,Democrat,3. Slightly liberal,70.0,30.0
+607,25-34,Republican,4. Moderate; middle of the road,15.0,0.0
+608,35-44,Independent,4. Moderate; middle of the road,80.0,0.0
+609,45-54,Democrat,2. Liberal,0.0,100.0
+610,35-44,Democrat,2. Liberal,0.0,100.0
+613,65+,Republican,6. Conservative,100.0,0.0
+615,55-64,Republican,4. Moderate; middle of the road,85.0,10.0
+622,35-44,Republican,5. Slightly conservative,85.0,5.0
+624,45-54,Republican,6. Conservative,100.0,0.0
+629,55-64,Democrat,2. Liberal,0.0,85.0
+630,25-34,Republican,6. Conservative,100.0,0.0
+632,45-54,Democrat,2. Liberal,0.0,100.0
+633,35-44,Democrat,4. Moderate; middle of the road,40.0,60.0
+635,55-64,Republican,6. Conservative,85.0,10.0
+636,55-64,Democrat,3. Slightly liberal,0.0,70.0
+637,25-34,Democrat,1. Extremely liberal,0.0,70.0
+638,45-54,Democrat,2. Liberal,0.0,85.0
+642,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+643,35-44,Democrat,2. Liberal,15.0,85.0
+644,35-44,Republican,6. Conservative,100.0,0.0
+645,45-54,Democrat,2. Liberal,0.0,70.0
+646,35-44,Republican,2. Liberal,100.0,30.0
+647,55-64,Democrat,2. Liberal,0.0,85.0
+649,55-64,Republican,6. Conservative,100.0,0.0
+650,25-34,Independent,4. Moderate; middle of the road,70.0,50.0
+651,35-44,Democrat,2. Liberal,0.0,70.0
+656,55-64,Democrat,4. Moderate; middle of the road,30.0,50.0
+657,55-64,Republican,6. Conservative,80.0,10.0
+659,55-64,Democrat,2. Liberal,0.0,85.0
+660,35-44,Republican,6. Conservative,100.0,0.0
+665,35-44,Republican,6. Conservative,100.0,0.0
+666,25-34,Democrat,2. Liberal,15.0,85.0
+667,45-54,Democrat,4. Moderate; middle of the road,0.0,60.0
+668,35-44,Republican,7. Extremely conservative,70.0,0.0
+670,45-54,Democrat,2. Liberal,0.0,80.0
+671,25-34,Democrat,3. Slightly liberal,0.0,60.0
+672,35-44,Republican,6. Conservative,15.0,40.0
+673,35-44,Democrat,3. Slightly liberal,50.0,70.0
+675,55-64,Democrat,5. Slightly conservative,70.0,50.0
+678,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+679,45-54,Democrat,4. Moderate; middle of the road,0.0,85.0
+682,25-34,Republican,5. Slightly conservative,100.0,0.0
+685,65+,Democrat,5. Slightly conservative,30.0,85.0
+686,45-54,Republican,7. Extremely conservative,85.0,0.0
+688,55-64,Republican,6. Conservative,70.0,30.0
+690,55-64,Republican,6. Conservative,100.0,0.0
+692,55-64,Republican,7. Extremely conservative,95.0,10.0
+693,25-34,Democrat,2. Liberal,0.0,72.0
+696,55-64,Republican,6. Conservative,95.0,0.0
+697,55-64,Democrat,2. Liberal,0.0,70.0
+698,55-64,Democrat,2. Liberal,0.0,85.0
+699,55-64,Republican,6. Conservative,85.0,15.0
+700,45-54,Republican,5. Slightly conservative,60.0,0.0
+701,35-44,Republican,5. Slightly conservative,90.0,5.0
+705,35-44,Democrat,4. Moderate; middle of the road,40.0,70.0
+706,35-44,Democrat,4. Moderate; middle of the road,0.0,85.0
+711,25-34,Independent,5. Slightly conservative,50.0,0.0
+713,35-44,Republican,6. Conservative,85.0,0.0
+714,55-64,Democrat,5. Slightly conservative,0.0,50.0
+715,25-34,Democrat,3. Slightly liberal,15.0,70.0
+716,45-54,Democrat,5. Slightly conservative,15.0,40.0
+719,55-64,Democrat,4. Moderate; middle of the road,40.0,60.0
+720,25-34,Democrat,3. Slightly liberal,0.0,85.0
+721,45-54,Republican,6. Conservative,100.0,0.0
+725,55-64,Democrat,3. Slightly liberal,0.0,100.0
+727,25-34,Republican,5. Slightly conservative,70.0,15.0
+728,25-34,Republican,4. Moderate; middle of the road,70.0,0.0
+729,45-54,Democrat,2. Liberal,0.0,85.0
+731,45-54,Republican,5. Slightly conservative,100.0,0.0
+737,35-44,Democrat,4. Moderate; middle of the road,0.0,60.0
+738,55-64,Democrat,3. Slightly liberal,0.0,70.0
+741,35-44,Independent,4. Moderate; middle of the road,50.0,50.0
+744,45-54,Republican,6. Conservative,85.0,60.0
+745,45-54,Democrat,3. Slightly liberal,0.0,70.0
+749,25-34,Democrat,3. Slightly liberal,85.0,40.0
+750,35-44,Republican,3. Slightly liberal,50.0,50.0
+754,35-44,Democrat,2. Liberal,0.0,85.0
+755,35-44,Republican,4. Moderate; middle of the road,60.0,15.0
+757,45-54,Republican,5. Slightly conservative,70.0,0.0
+758,45-54,Democrat,4. Moderate; middle of the road,0.0,40.0
+759,55-64,Democrat,5. Slightly conservative,5.0,90.0
+760,55-64,Republican,6. Conservative,85.0,0.0
+765,35-44,Democrat,1. Extremely liberal,0.0,95.0
+767,45-54,Democrat,2. Liberal,2.0,85.0
+769,55-64,Republican,5. Slightly conservative,85.0,15.0
+771,55-64,Republican,5. Slightly conservative,60.0,0.0
+774,45-54,Democrat,3. Slightly liberal,0.0,85.0
+776,35-44,Democrat,2. Liberal,0.0,60.0
+778,45-54,Republican,6. Conservative,85.0,0.0
+782,45-54,Democrat,1. Extremely liberal,0.0,80.0
+783,35-44,Democrat,3. Slightly liberal,0.0,85.0
+787,35-44,Democrat,4. Moderate; middle of the road,0.0,70.0
+790,35-44,Democrat,2. Liberal,0.0,100.0
+791,45-54,Republican,6. Conservative,70.0,0.0
+793,35-44,Democrat,5. Slightly conservative,0.0,85.0
+794,45-54,Republican,6. Conservative,95.0,0.0
+795,25-34,Democrat,1. Extremely liberal,0.0,90.0
+796,35-44,Independent,4. Moderate; middle of the road,0.0,50.0
+800,35-44,Republican,6. Conservative,85.0,30.0
+801,25-34,Democrat,2. Liberal,0.0,40.0
+802,65+,Democrat,4. Moderate; middle of the road,10.0,75.0
+803,35-44,Democrat,2. Liberal,0.0,85.0
+804,45-54,Republican,7. Extremely conservative,100.0,0.0
+805,25-34,Independent,3. Slightly liberal,15.0,15.0
+807,35-44,Independent,4. Moderate; middle of the road,60.0,15.0
+809,35-44,Democrat,3. Slightly liberal,15.0,60.0
+811,45-54,Democrat,4. Moderate; middle of the road,15.0,100.0
+812,25-34,Democrat,2. Liberal,70.0,50.0
+813,55-64,Republican,6. Conservative,90.0,0.0
+815,35-44,Republican,5. Slightly conservative,70.0,10.0
+817,25-34,Democrat,1. Extremely liberal,0.0,70.0
+819,35-44,Democrat,3. Slightly liberal,30.0,60.0
+820,55-64,Democrat,3. Slightly liberal,0.0,70.0
+822,25-34,Democrat,1. Extremely liberal,0.0,100.0
+824,25-34,Independent,4. Moderate; middle of the road,5.0,10.0
+825,55-64,Republican,6. Conservative,70.0,0.0
+826,35-44,Republican,6. Conservative,30.0,50.0
+827,65+,Republican,6. Conservative,30.0,60.0
+831,55-64,Democrat,2. Liberal,0.0,75.0
+833,45-54,Republican,5. Slightly conservative,55.0,20.0
+835,25-34,Democrat,3. Slightly liberal,15.0,85.0
+836,45-54,Republican,3. Slightly liberal,60.0,30.0
+837,25-34,Democrat,2. Liberal,0.0,60.0
+838,35-44,Republican,6. Conservative,70.0,30.0
+839,55-64,Democrat,4. Moderate; middle of the road,0.0,60.0
+841,45-54,Republican,1. Extremely liberal,100.0,15.0
+842,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+843,55-64,Democrat,4. Moderate; middle of the road,15.0,85.0
+844,55-64,Republican,6. Conservative,100.0,0.0
+846,45-54,Democrat,2. Liberal,0.0,100.0
+847,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+849,35-44,Democrat,2. Liberal,0.0,100.0
+851,35-44,Democrat,1. Extremely liberal,0.0,70.0
+856,35-44,Democrat,4. Moderate; middle of the road,0.0,30.0
+857,45-54,Democrat,2. Liberal,0.0,75.0
+859,35-44,Democrat,3. Slightly liberal,0.0,85.0
+860,35-44,Democrat,3. Slightly liberal,0.0,49.0
+862,45-54,Republican,6. Conservative,100.0,0.0
+865,55-64,Democrat,5. Slightly conservative,0.0,85.0
+866,65+,Democrat,1. Extremely liberal,0.0,100.0
+867,35-44,Republican,4. Moderate; middle of the road,15.0,75.0
+871,45-54,Independent,4. Moderate; middle of the road,50.0,15.0
+874,25-34,Democrat,2. Liberal,0.0,85.0
+875,35-44,Democrat,1. Extremely liberal,15.0,85.0
+876,35-44,Republican,6. Conservative,85.0,15.0
+878,35-44,Republican,5. Slightly conservative,80.0,0.0
+880,25-34,Democrat,2. Liberal,0.0,85.0
+882,65+,Republican,6. Conservative,99.0,0.0
+883,55-64,Republican,4. Moderate; middle of the road,70.0,0.0
+884,35-44,Independent,4. Moderate; middle of the road,60.0,0.0
+885,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+888,45-54,Democrat,2. Liberal,0.0,85.0
+890,55-64,Democrat,2. Liberal,0.0,90.0
+891,35-44,Democrat,2. Liberal,0.0,85.0
+896,45-54,Democrat,4. Moderate; middle of the road,40.0,30.0
+898,35-44,Democrat,5. Slightly conservative,30.0,70.0
+900,25-34,Democrat,2. Liberal,1.0,75.0
+901,35-44,Democrat,2. Liberal,50.0,70.0
+902,25-34,Republican,5. Slightly conservative,60.0,15.0
+904,65+,Republican,1. Extremely liberal,70.0,0.0
+905,45-54,Democrat,4. Moderate; middle of the road,15.0,70.0
+906,55-64,Republican,5. Slightly conservative,100.0,15.0
+909,35-44,Republican,6. Conservative,90.0,15.0
+910,45-54,Republican,5. Slightly conservative,90.0,0.0
+911,55-64,Democrat,3. Slightly liberal,0.0,95.0
+913,35-44,Republican,6. Conservative,93.0,0.0
+917,55-64,Democrat,4. Moderate; middle of the road,0.0,60.0
+918,35-44,Independent,1. Extremely liberal,0.0,15.0
+920,35-44,Republican,6. Conservative,90.0,30.0
+921,35-44,Democrat,2. Liberal,40.0,55.0
+923,45-54,Republican,7. Extremely conservative,100.0,0.0
+928,55-64,Republican,6. Conservative,0.0,85.0
+929,25-34,Democrat,6. Conservative,0.0,85.0
+930,45-54,Democrat,4. Moderate; middle of the road,0.0,70.0
+931,55-64,Democrat,3. Slightly liberal,0.0,60.0
+935,55-64,Democrat,2. Liberal,0.0,85.0
+937,45-54,Democrat,6. Conservative,0.0,80.0
+938,55-64,Republican,4. Moderate; middle of the road,90.0,20.0
+940,25-34,Democrat,4. Moderate; middle of the road,50.0,85.0
+941,25-34,Democrat,4. Moderate; middle of the road,0.0,60.0
+944,45-54,Democrat,3. Slightly liberal,20.0,70.0
+945,35-44,Democrat,3. Slightly liberal,0.0,55.0
+948,35-44,Democrat,3. Slightly liberal,40.0,30.0
+951,35-44,Democrat,4. Moderate; middle of the road,0.0,75.0
+955,45-54,Democrat,5. Slightly conservative,0.0,90.0
+956,45-54,Republican,6. Conservative,30.0,50.0
+957,25-34,Republican,5. Slightly conservative,100.0,0.0
+960,55-64,Republican,4. Moderate; middle of the road,85.0,70.0
+962,55-64,Republican,6. Conservative,100.0,0.0
+963,45-54,Democrat,2. Liberal,0.0,100.0
+965,55-64,Republican,4. Moderate; middle of the road,75.0,15.0
+968,35-44,Democrat,4. Moderate; middle of the road,30.0,85.0
+970,25-34,Republican,6. Conservative,90.0,0.0
+973,55-64,Republican,5. Slightly conservative,35.0,20.0
+974,45-54,Democrat,6. Conservative,0.0,100.0
+975,45-54,Democrat,2. Liberal,0.0,100.0
+978,35-44,Democrat,3. Slightly liberal,15.0,60.0
+979,45-54,Democrat,3. Slightly liberal,0.0,85.0
+983,35-44,Democrat,2. Liberal,0.0,80.0
+984,35-44,Republican,5. Slightly conservative,90.0,0.0
+987,25-34,Democrat,4. Moderate; middle of the road,0.0,65.0
+990,25-34,Democrat,2. Liberal,0.0,95.0
+991,65+,Democrat,2. Liberal,0.0,75.0
+992,45-54,Democrat,1. Extremely liberal,0.0,85.0
+994,35-44,Republican,6. Conservative,100.0,0.0
+995,65+,Republican,5. Slightly conservative,100.0,0.0
+996,35-44,Democrat,2. Liberal,0.0,60.0
+999,18-24,Democrat,1. Extremely liberal,0.0,65.0
+1000,25-34,Democrat,3. Slightly liberal,0.0,85.0
+1002,25-34,Democrat,1. Extremely liberal,0.0,40.0
+1004,55-64,Republican,6. Conservative,100.0,0.0
+1006,35-44,Republican,5. Slightly conservative,85.0,15.0
+1007,25-34,Republican,5. Slightly conservative,40.0,30.0
+1008,45-54,Democrat,2. Liberal,0.0,75.0
+1011,35-44,Democrat,2. Liberal,0.0,90.0
+1012,45-54,Democrat,5. Slightly conservative,30.0,75.0
+1013,55-64,Democrat,3. Slightly liberal,0.0,70.0
+1014,25-34,Democrat,4. Moderate; middle of the road,0.0,50.0
+1015,35-44,Democrat,3. Slightly liberal,2.0,60.0
+1016,25-34,Republican,6. Conservative,100.0,0.0
+1018,45-54,Democrat,3. Slightly liberal,0.0,85.0
+1021,55-64,Independent,5. Slightly conservative,0.0,50.0
+1022,45-54,Democrat,2. Liberal,0.0,75.0
+1023,45-54,Republican,2. Liberal,85.0,0.0
+1024,55-64,Democrat,5. Slightly conservative,0.0,50.0
+1027,35-44,Democrat,4. Moderate; middle of the road,0.0,85.0
+1028,65+,Democrat,2. Liberal,0.0,100.0
+1034,35-44,Democrat,4. Moderate; middle of the road,50.0,70.0
+1036,25-34,Republican,6. Conservative,0.0,85.0
+1037,35-44,Republican,5. Slightly conservative,85.0,5.0
+1039,45-54,Republican,4. Moderate; middle of the road,70.0,0.0
+1040,45-54,Republican,4. Moderate; middle of the road,40.0,15.0
+1041,35-44,Republican,6. Conservative,70.0,15.0
+1042,55-64,Democrat,2. Liberal,0.0,85.0
+1043,25-34,Republican,5. Slightly conservative,70.0,0.0
+1048,55-64,Democrat,4. Moderate; middle of the road,0.0,3.0
+1050,35-44,Democrat,4. Moderate; middle of the road,0.0,50.0
+1051,35-44,Republican,6. Conservative,85.0,15.0
+1053,55-64,Democrat,2. Liberal,0.0,100.0
+1056,35-44,Republican,6. Conservative,85.0,30.0
+1057,55-64,Democrat,2. Liberal,0.0,100.0
+1058,55-64,Democrat,3. Slightly liberal,5.0,75.0
+1061,35-44,Republican,5. Slightly conservative,85.0,40.0
+1064,35-44,Republican,5. Slightly conservative,55.0,45.0
+1066,25-34,Democrat,1. Extremely liberal,0.0,70.0
+1067,25-34,Democrat,3. Slightly liberal,0.0,70.0
+1068,55-64,Republican,6. Conservative,100.0,0.0
+1069,45-54,Democrat,2. Liberal,0.0,100.0
+1073,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+1078,35-44,Republican,4. Moderate; middle of the road,50.0,50.0
+1079,35-44,Democrat,4. Moderate; middle of the road,0.0,75.0
+1081,55-64,Republican,5. Slightly conservative,100.0,15.0
+1082,35-44,Democrat,2. Liberal,0.0,100.0
+1083,55-64,Republican,5. Slightly conservative,85.0,15.0
+1084,35-44,Republican,4. Moderate; middle of the road,0.0,60.0
+1085,55-64,Democrat,4. Moderate; middle of the road,0.0,85.0
+1086,65+,Democrat,3. Slightly liberal,0.0,70.0
+1087,45-54,Democrat,2. Liberal,0.0,85.0
+1090,35-44,Democrat,3. Slightly liberal,30.0,70.0
+1091,55-64,Republican,5. Slightly conservative,30.0,60.0
+1092,45-54,Republican,5. Slightly conservative,90.0,10.0
+1094,65+,Democrat,5. Slightly conservative,0.0,70.0
+1096,45-54,Republican,4. Moderate; middle of the road,85.0,0.0
+1097,55-64,Democrat,6. Conservative,15.0,85.0
+1100,35-44,Republican,6. Conservative,100.0,0.0
+1101,55-64,Republican,6. Conservative,100.0,0.0
+1102,45-54,Republican,6. Conservative,75.0,0.0
+1104,55-64,Republican,5. Slightly conservative,85.0,0.0
+1107,35-44,Democrat,2. Liberal,0.0,100.0
+1108,35-44,Republican,6. Conservative,85.0,30.0
+1110,65+,Republican,7. Extremely conservative,100.0,0.0
+1111,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+1112,35-44,Democrat,2. Liberal,0.0,100.0
+1113,45-54,Republican,5. Slightly conservative,60.0,0.0
+1114,45-54,Democrat,2. Liberal,0.0,100.0
+1115,45-54,Democrat,4. Moderate; middle of the road,15.0,60.0
+1117,25-34,Republican,6. Conservative,100.0,0.0
+1119,45-54,Republican,1. Extremely liberal,100.0,0.0
+1122,25-34,Democrat,4. Moderate; middle of the road,0.0,60.0
+1124,65+,Democrat,2. Liberal,0.0,100.0
+1126,35-44,Republican,6. Conservative,100.0,0.0
+1127,35-44,Republican,7. Extremely conservative,75.0,0.0
+1129,25-34,Independent,4. Moderate; middle of the road,50.0,50.0
+1130,45-54,Democrat,2. Liberal,5.0,90.0
+1133,25-34,Democrat,5. Slightly conservative,80.0,35.0
+1134,45-54,Democrat,1. Extremely liberal,0.0,30.0
+1136,35-44,Republican,6. Conservative,70.0,0.0
+1137,45-54,Democrat,2. Liberal,0.0,100.0
+1138,35-44,Republican,6. Conservative,60.0,40.0
+1139,35-44,Republican,7. Extremely conservative,100.0,0.0
+1140,55-64,Republican,6. Conservative,60.0,0.0
+1142,55-64,Republican,7. Extremely conservative,100.0,0.0
+1144,25-34,Democrat,3. Slightly liberal,60.0,30.0
+1151,55-64,Democrat,3. Slightly liberal,0.0,95.0
+1152,35-44,Democrat,2. Liberal,0.0,75.0
+1153,55-64,Republican,6. Conservative,85.0,15.0
+1154,45-54,Republican,4. Moderate; middle of the road,50.0,0.0
+1155,35-44,Democrat,4. Moderate; middle of the road,0.0,50.0
+1158,45-54,Democrat,6. Conservative,0.0,100.0
+1159,35-44,Republican,7. Extremely conservative,100.0,0.0
+1161,35-44,Democrat,3. Slightly liberal,0.0,40.0
+1162,45-54,Democrat,2. Liberal,15.0,85.0
+1164,35-44,Republican,6. Conservative,0.0,70.0
+1165,55-64,Republican,6. Conservative,40.0,0.0
+1167,25-34,Democrat,4. Moderate; middle of the road,0.0,70.0
+1168,35-44,Republican,6. Conservative,70.0,15.0
+1169,45-54,Democrat,2. Liberal,0.0,100.0
+1171,35-44,Republican,7. Extremely conservative,100.0,0.0
+1172,45-54,Republican,5. Slightly conservative,60.0,30.0
+1176,35-44,Republican,6. Conservative,85.0,0.0
+1177,55-64,Republican,5. Slightly conservative,70.0,40.0
+1179,35-44,Independent,1. Extremely liberal,0.0,85.0
+1182,55-64,Republican,6. Conservative,100.0,0.0
+1187,25-34,Democrat,3. Slightly liberal,0.0,70.0
+1188,35-44,Republican,6. Conservative,100.0,0.0
+1189,45-54,Republican,3. Slightly liberal,70.0,30.0
+1190,35-44,Republican,6. Conservative,70.0,30.0
+1192,65+,Democrat,3. Slightly liberal,0.0,70.0
+1195,55-64,Republican,5. Slightly conservative,40.0,100.0
+1197,45-54,Republican,5. Slightly conservative,80.0,30.0
+1198,25-34,Democrat,3. Slightly liberal,10.0,70.0
+1200,35-44,Democrat,2. Liberal,15.0,70.0
+1201,35-44,Republican,6. Conservative,70.0,0.0
+1202,25-34,Republican,5. Slightly conservative,55.0,35.0
+1203,25-34,Democrat,3. Slightly liberal,0.0,85.0
+1204,35-44,Democrat,2. Liberal,60.0,40.0
+1206,45-54,Democrat,3. Slightly liberal,0.0,70.0
+1207,55-64,Democrat,3. Slightly liberal,0.0,85.0
+1211,35-44,Democrat,2. Liberal,15.0,80.0
+1213,35-44,Republican,2. Liberal,70.0,45.0
+1214,35-44,Republican,6. Conservative,85.0,40.0
+1215,25-34,Independent,4. Moderate; middle of the road,60.0,40.0
+1217,55-64,Democrat,3. Slightly liberal,0.0,70.0
+1218,35-44,Democrat,3. Slightly liberal,5.0,70.0
+1219,45-54,Democrat,3. Slightly liberal,0.0,85.0
+1220,35-44,Republican,4. Moderate; middle of the road,20.0,50.0
+1226,45-54,Democrat,4. Moderate; middle of the road,15.0,40.0
+1228,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+1229,25-34,Democrat,4. Moderate; middle of the road,0.0,85.0
+1231,45-54,Democrat,2. Liberal,5.0,80.0
+1232,45-54,Democrat,3. Slightly liberal,5.0,70.0
+1236,35-44,Republican,6. Conservative,95.0,0.0
+1238,25-34,Republican,5. Slightly conservative,10.0,70.0
+1239,45-54,Democrat,6. Conservative,0.0,85.0
+1242,45-54,Democrat,4. Moderate; middle of the road,0.0,70.0
+1243,35-44,Democrat,2. Liberal,0.0,90.0
+1245,55-64,Republican,5. Slightly conservative,100.0,0.0
+1246,35-44,Republican,5. Slightly conservative,20.0,20.0
+1250,35-44,Republican,6. Conservative,100.0,1.0
+1252,35-44,Democrat,2. Liberal,0.0,60.0
+1254,55-64,Republican,6. Conservative,100.0,0.0
+1255,25-34,Democrat,2. Liberal,0.0,72.0
+1258,25-34,Democrat,4. Moderate; middle of the road,30.0,60.0
+1260,65+,Democrat,5. Slightly conservative,0.0,85.0
+1262,25-34,Democrat,2. Liberal,0.0,75.0
+1263,35-44,Democrat,3. Slightly liberal,15.0,85.0
+1264,35-44,Democrat,4. Moderate; middle of the road,85.0,0.0
+1265,35-44,Democrat,3. Slightly liberal,0.0,90.0
+1268,65+,Democrat,4. Moderate; middle of the road,0.0,90.0
+1269,55-64,Republican,3. Slightly liberal,70.0,0.0
+1274,25-34,Democrat,2. Liberal,0.0,100.0
+1275,55-64,Republican,4. Moderate; middle of the road,100.0,15.0
+1278,45-54,Republican,7. Extremely conservative,90.0,0.0
+1280,55-64,Republican,7. Extremely conservative,95.0,0.0
+1281,45-54,Republican,7. Extremely conservative,98.0,15.0
+1283,45-54,Republican,4. Moderate; middle of the road,85.0,0.0
+1285,55-64,Republican,5. Slightly conservative,5.0,85.0
+1286,55-64,Republican,5. Slightly conservative,30.0,40.0
+1287,35-44,Republican,6. Conservative,60.0,0.0
+1288,45-54,Democrat,4. Moderate; middle of the road,10.0,85.0
+1290,55-64,Democrat,4. Moderate; middle of the road,15.0,85.0
+1291,25-34,Republican,6. Conservative,100.0,0.0
+1292,55-64,Democrat,3. Slightly liberal,0.0,85.0
+1296,45-54,Democrat,2. Liberal,3.0,85.0
+1297,55-64,Democrat,2. Liberal,0.0,85.0
+1298,35-44,Democrat,1. Extremely liberal,0.0,100.0
+1299,35-44,Republican,5. Slightly conservative,60.0,10.0
+1300,45-54,Republican,5. Slightly conservative,90.0,30.0
+1303,35-44,Republican,6. Conservative,100.0,0.0
+1305,35-44,Democrat,2. Liberal,0.0,100.0
+1306,45-54,Republican,6. Conservative,70.0,20.0
+1307,55-64,Republican,6. Conservative,85.0,15.0
+1310,45-54,Democrat,3. Slightly liberal,0.0,80.0
+1313,55-64,Independent,4. Moderate; middle of the road,0.0,60.0
+1317,55-64,Republican,6. Conservative,60.0,50.0
+1318,35-44,Democrat,2. Liberal,0.0,70.0
+1320,45-54,Democrat,5. Slightly conservative,100.0,50.0
+1321,55-64,Democrat,7. Extremely conservative,15.0,30.0
+1322,45-54,Democrat,2. Liberal,0.0,100.0
+1325,25-34,Democrat,2. Liberal,0.0,90.0
+1326,45-54,Republican,6. Conservative,100.0,0.0
+1327,35-44,Republican,6. Conservative,60.0,15.0
+1331,25-34,Republican,6. Conservative,85.0,15.0
+1332,55-64,Democrat,2. Liberal,0.0,80.0
+1336,45-54,Democrat,4. Moderate; middle of the road,0.0,100.0
+1339,65+,Republican,6. Conservative,85.0,30.0
+1340,25-34,Democrat,1. Extremely liberal,0.0,60.0
+1342,55-64,Republican,7. Extremely conservative,85.0,30.0
+1344,25-34,Democrat,4. Moderate; middle of the road,0.0,100.0
+1350,55-64,Republican,7. Extremely conservative,90.0,0.0
+1351,45-54,Democrat,4. Moderate; middle of the road,0.0,85.0
+1355,45-54,Republican,5. Slightly conservative,50.0,15.0
+1356,55-64,Democrat,6. Conservative,0.0,70.0
+1359,25-34,Republican,5. Slightly conservative,60.0,30.0
+1360,55-64,Democrat,2. Liberal,0.0,100.0
+1364,35-44,Republican,6. Conservative,100.0,0.0
+1365,45-54,Democrat,2. Liberal,15.0,85.0
+1367,55-64,Democrat,3. Slightly liberal,0.0,100.0
+1371,55-64,Democrat,4. Moderate; middle of the road,0.0,90.0
+1372,55-64,Republican,7. Extremely conservative,99.0,0.0
+1373,45-54,Republican,7. Extremely conservative,80.0,10.0
+1375,45-54,Republican,2. Liberal,100.0,0.0
+1377,45-54,Independent,4. Moderate; middle of the road,15.0,90.0
+1378,55-64,Republican,6. Conservative,100.0,0.0
+1379,55-64,Republican,5. Slightly conservative,85.0,0.0
+1380,25-34,Republican,7. Extremely conservative,100.0,0.0
+1384,45-54,Independent,4. Moderate; middle of the road,60.0,15.0
+1386,55-64,Democrat,3. Slightly liberal,0.0,70.0
+1388,45-54,Republican,6. Conservative,85.0,15.0
+1390,35-44,Republican,6. Conservative,85.0,40.0
+1391,35-44,Republican,6. Conservative,85.0,0.0
+1395,55-64,Republican,6. Conservative,40.0,40.0
+1396,45-54,Democrat,2. Liberal,0.0,90.0
+1397,25-34,Republican,6. Conservative,100.0,0.0
+1398,55-64,Democrat,4. Moderate; middle of the road,85.0,100.0
+1400,55-64,Republican,6. Conservative,60.0,0.0
+1401,25-34,Republican,4. Moderate; middle of the road,50.0,50.0
+1402,35-44,Democrat,3. Slightly liberal,0.0,60.0
+1404,35-44,Democrat,2. Liberal,0.0,60.0
+1405,45-54,Democrat,4. Moderate; middle of the road,0.0,100.0
+1408,45-54,Republican,5. Slightly conservative,85.0,40.0
+1409,25-34,Republican,4. Moderate; middle of the road,100.0,0.0
+1414,55-64,Republican,4. Moderate; middle of the road,60.0,15.0
+1415,55-64,Democrat,5. Slightly conservative,85.0,15.0
+1417,45-54,Republican,5. Slightly conservative,85.0,0.0
+1419,35-44,Democrat,3. Slightly liberal,0.0,60.0
+1420,35-44,Democrat,6. Conservative,0.0,100.0
+1422,45-54,Democrat,3. Slightly liberal,0.0,70.0
+1424,55-64,Republican,4. Moderate; middle of the road,60.0,50.0
+1425,45-54,Democrat,3. Slightly liberal,0.0,85.0
+1426,55-64,Republican,4. Moderate; middle of the road,0.0,40.0
+1427,45-54,Republican,6. Conservative,15.0,10.0
+1432,45-54,Republican,4. Moderate; middle of the road,40.0,60.0
+1433,35-44,Independent,4. Moderate; middle of the road,30.0,15.0
+1434,55-64,Democrat,3. Slightly liberal,0.0,90.0
+1437,45-54,Democrat,2. Liberal,0.0,75.0
+1438,25-34,Republican,6. Conservative,92.0,0.0
+1440,45-54,Republican,4. Moderate; middle of the road,40.0,60.0
+1443,55-64,Independent,4. Moderate; middle of the road,50.0,60.0
+1445,25-34,Democrat,1. Extremely liberal,0.0,77.0
+1446,25-34,Democrat,3. Slightly liberal,30.0,45.0
+1447,55-64,Republican,5. Slightly conservative,0.0,60.0
+1448,35-44,Democrat,3. Slightly liberal,0.0,75.0
+1451,55-64,Democrat,5. Slightly conservative,50.0,85.0
+1452,35-44,Democrat,2. Liberal,0.0,70.0
+1453,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+1457,55-64,Democrat,3. Slightly liberal,0.0,85.0
+1460,25-34,Republican,5. Slightly conservative,73.0,33.0
+1461,25-34,Republican,4. Moderate; middle of the road,70.0,30.0
+1463,55-64,Republican,7. Extremely conservative,100.0,0.0
+1464,35-44,Democrat,4. Moderate; middle of the road,15.0,60.0
+1465,45-54,Republican,4. Moderate; middle of the road,85.0,0.0
+1471,35-44,Democrat,3. Slightly liberal,0.0,100.0
+1473,55-64,Republican,6. Conservative,90.0,10.0
+1475,25-34,Republican,4. Moderate; middle of the road,100.0,0.0
+1479,45-54,Republican,6. Conservative,95.0,0.0
+1480,55-64,Republican,4. Moderate; middle of the road,0.0,70.0
+1481,45-54,Democrat,2. Liberal,0.0,30.0
+1483,45-54,Democrat,4. Moderate; middle of the road,40.0,100.0
+1484,55-64,Democrat,3. Slightly liberal,15.0,70.0
+1489,45-54,Democrat,5. Slightly conservative,70.0,50.0
+1494,45-54,Democrat,2. Liberal,40.0,50.0
+1497,25-34,Democrat,3. Slightly liberal,0.0,100.0
+1499,35-44,Republican,3. Slightly liberal,85.0,0.0
+1503,55-64,Republican,6. Conservative,85.0,0.0
+1508,25-34,Democrat,2. Liberal,0.0,70.0
+1509,45-54,Democrat,3. Slightly liberal,0.0,80.0
+1510,25-34,Republican,5. Slightly conservative,60.0,50.0
+1513,35-44,Democrat,2. Liberal,0.0,95.0
+1517,35-44,Republican,6. Conservative,80.0,15.0
+1519,45-54,Democrat,3. Slightly liberal,0.0,85.0
+1520,55-64,Republican,4. Moderate; middle of the road,70.0,40.0
+1521,65+,Democrat,4. Moderate; middle of the road,15.0,85.0
+1522,35-44,Republican,5. Slightly conservative,15.0,60.0
+1525,25-34,Republican,4. Moderate; middle of the road,60.0,0.0
+1529,25-34,Republican,5. Slightly conservative,70.0,0.0
+1531,35-44,Democrat,2. Liberal,0.0,90.0
+1532,25-34,Republican,5. Slightly conservative,70.0,15.0
+1535,45-54,Democrat,3. Slightly liberal,0.0,100.0
+1538,65+,Republican,6. Conservative,40.0,40.0
+1539,35-44,Independent,4. Moderate; middle of the road,40.0,40.0
+1541,35-44,Democrat,1. Extremely liberal,0.0,100.0
+1544,45-54,Republican,5. Slightly conservative,80.0,20.0
+1546,55-64,Republican,6. Conservative,85.0,15.0
+1549,45-54,Republican,6. Conservative,70.0,10.0
+1550,55-64,Republican,6. Conservative,85.0,30.0
+1552,45-54,Democrat,4. Moderate; middle of the road,0.0,50.0
+1553,35-44,Republican,5. Slightly conservative,85.0,85.0
+1556,45-54,Republican,5. Slightly conservative,100.0,0.0
+1557,45-54,Democrat,2. Liberal,40.0,30.0
+1558,45-54,Republican,4. Moderate; middle of the road,50.0,15.0
+1559,45-54,Democrat,4. Moderate; middle of the road,0.0,70.0
+1560,35-44,Democrat,3. Slightly liberal,0.0,70.0
+1561,55-64,Democrat,2. Liberal,0.0,100.0
+1563,65+,Democrat,5. Slightly conservative,0.0,100.0
+1564,45-54,Democrat,3. Slightly liberal,0.0,65.0
+1567,45-54,Independent,3. Slightly liberal,100.0,0.0
+1569,35-44,Democrat,3. Slightly liberal,0.0,85.0
+1570,45-54,Democrat,4. Moderate; middle of the road,15.0,85.0
+1571,55-64,Republican,6. Conservative,40.0,80.0
+1574,55-64,Democrat,4. Moderate; middle of the road,0.0,85.0
+1575,25-34,Republican,4. Moderate; middle of the road,60.0,40.0
+1578,55-64,Republican,4. Moderate; middle of the road,85.0,10.0
+1579,65+,Democrat,3. Slightly liberal,0.0,85.0
+1581,55-64,Republican,3. Slightly liberal,0.0,85.0
+1582,45-54,Republican,6. Conservative,85.0,0.0
+1584,25-34,Democrat,2. Liberal,0.0,85.0
+1586,45-54,Democrat,1. Extremely liberal,0.0,95.0
+1587,45-54,Democrat,4. Moderate; middle of the road,0.0,85.0
+1588,35-44,Democrat,2. Liberal,0.0,95.0
+1590,35-44,Republican,7. Extremely conservative,90.0,0.0
+1591,35-44,Republican,6. Conservative,85.0,0.0
+1592,35-44,Republican,5. Slightly conservative,60.0,70.0
+1593,35-44,Republican,6. Conservative,95.0,0.0
+1595,25-34,Republican,5. Slightly conservative,80.0,0.0
+1598,45-54,Democrat,5. Slightly conservative,60.0,40.0
+1599,55-64,Republican,4. Moderate; middle of the road,70.0,15.0
+1602,25-34,Democrat,5. Slightly conservative,50.0,50.0
+1603,45-54,Democrat,4. Moderate; middle of the road,25.0,75.0
+1604,55-64,Republican,7. Extremely conservative,100.0,0.0
+1605,55-64,Democrat,2. Liberal,35.0,75.0
+1606,35-44,Democrat,1. Extremely liberal,0.0,60.0
+1607,25-34,Democrat,2. Liberal,0.0,85.0
+1608,35-44,Democrat,2. Liberal,0.0,70.0
+1610,35-44,Republican,6. Conservative,70.0,30.0
+1611,45-54,Democrat,2. Liberal,0.0,90.0
+1613,45-54,Democrat,1. Extremely liberal,0.0,100.0
+1614,35-44,Democrat,1. Extremely liberal,0.0,70.0
+1617,45-54,Republican,5. Slightly conservative,70.0,25.0
+1619,55-64,Democrat,3. Slightly liberal,0.0,85.0
+1620,35-44,Republican,6. Conservative,85.0,15.0
+1621,45-54,Republican,6. Conservative,85.0,0.0
+1623,45-54,Democrat,2. Liberal,0.0,88.0
+1628,45-54,Democrat,4. Moderate; middle of the road,40.0,40.0
+1629,45-54,Republican,6. Conservative,85.0,0.0
+1630,45-54,Republican,6. Conservative,70.0,0.0
+1631,55-64,Democrat,3. Slightly liberal,0.0,70.0
+1632,55-64,Republican,2. Liberal,40.0,60.0
+1633,35-44,Republican,5. Slightly conservative,70.0,15.0
+1635,55-64,Republican,6. Conservative,85.0,0.0
+1636,25-34,Republican,5. Slightly conservative,90.0,15.0
+1637,45-54,Republican,3. Slightly liberal,70.0,15.0
+1638,65+,Republican,7. Extremely conservative,100.0,15.0
+1641,25-34,Democrat,1. Extremely liberal,1.0,5.0
+1645,55-64,Republican,6. Conservative,95.0,0.0
+1647,65+,Democrat,1. Extremely liberal,0.0,85.0
+1653,35-44,Democrat,2. Liberal,0.0,100.0
+1654,35-44,Democrat,1. Extremely liberal,0.0,40.0
+1655,55-64,Republican,6. Conservative,100.0,0.0
+1657,35-44,Democrat,2. Liberal,50.0,40.0
+1659,45-54,Democrat,2. Liberal,0.0,60.0
+1662,35-44,Democrat,1. Extremely liberal,0.0,75.0
+1665,65+,Democrat,3. Slightly liberal,0.0,70.0
+1667,35-44,Democrat,2. Liberal,10.0,50.0
+1668,25-34,Democrat,2. Liberal,0.0,100.0
+1671,45-54,Democrat,2. Liberal,0.0,100.0
+1672,45-54,Republican,4. Moderate; middle of the road,40.0,15.0
+1674,55-64,Democrat,3. Slightly liberal,15.0,100.0
+1677,25-34,Democrat,2. Liberal,0.0,100.0
+1679,55-64,Democrat,1. Extremely liberal,0.0,100.0
+1681,55-64,Democrat,4. Moderate; middle of the road,15.0,85.0
+1682,35-44,Democrat,1. Extremely liberal,0.0,100.0
+1684,35-44,Republican,5. Slightly conservative,100.0,0.0
+1689,35-44,Democrat,3. Slightly liberal,30.0,70.0
+1691,45-54,Republican,7. Extremely conservative,85.0,2.0
+1692,45-54,Republican,6. Conservative,80.0,0.0
+1693,35-44,Republican,6. Conservative,100.0,15.0
+1694,55-64,Democrat,2. Liberal,0.0,100.0
+1695,35-44,Democrat,4. Moderate; middle of the road,0.0,40.0
+1696,55-64,Republican,6. Conservative,90.0,0.0
+1697,55-64,Democrat,3. Slightly liberal,0.0,85.0
+1698,45-54,Independent,4. Moderate; middle of the road,70.0,50.0
+1699,45-54,Republican,7. Extremely conservative,100.0,0.0
+1701,35-44,Republican,7. Extremely conservative,100.0,0.0
+1702,25-34,Republican,5. Slightly conservative,100.0,0.0
+1703,45-54,Republican,6. Conservative,60.0,15.0
+1704,35-44,Democrat,4. Moderate; middle of the road,0.0,0.0
+1705,35-44,Republican,6. Conservative,100.0,0.0
+1707,35-44,Democrat,4. Moderate; middle of the road,0.0,85.0
+1708,45-54,Democrat,2. Liberal,0.0,85.0
+1710,55-64,Democrat,1. Extremely liberal,0.0,60.0
+1711,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+1714,25-34,Republican,5. Slightly conservative,40.0,60.0
+1717,45-54,Democrat,3. Slightly liberal,0.0,60.0
+1720,55-64,Republican,7. Extremely conservative,100.0,0.0
+1721,45-54,Democrat,2. Liberal,1.0,85.0
+1722,35-44,Republican,6. Conservative,100.0,0.0
+1724,55-64,Democrat,5. Slightly conservative,0.0,60.0
+1726,35-44,Republican,6. Conservative,95.0,0.0
+1727,55-64,Republican,6. Conservative,85.0,0.0
+1728,65+,Republican,7. Extremely conservative,99.0,0.0
+1730,35-44,Republican,4. Moderate; middle of the road,60.0,40.0
+1731,45-54,Democrat,2. Liberal,0.0,100.0
+1732,25-34,Democrat,3. Slightly liberal,0.0,60.0
+1734,45-54,Republican,6. Conservative,85.0,15.0
+1738,35-44,Republican,6. Conservative,85.0,15.0
+1740,25-34,Republican,6. Conservative,70.0,15.0
+1743,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+1744,55-64,Republican,6. Conservative,85.0,0.0
+1747,55-64,Democrat,3. Slightly liberal,0.0,85.0
+1748,45-54,Democrat,2. Liberal,0.0,100.0
+1753,55-64,Republican,6. Conservative,100.0,10.0
+1755,35-44,Republican,4. Moderate; middle of the road,15.0,0.0
+1756,25-34,Democrat,1. Extremely liberal,0.0,100.0
+1761,55-64,Democrat,2. Liberal,0.0,100.0
+1762,35-44,Republican,7. Extremely conservative,95.0,0.0
+1767,25-34,Republican,4. Moderate; middle of the road,60.0,15.0
+1769,25-34,Democrat,1. Extremely liberal,0.0,60.0
+1772,35-44,Democrat,4. Moderate; middle of the road,0.0,100.0
+1773,55-64,Republican,7. Extremely conservative,95.0,0.0
+1775,45-54,Republican,6. Conservative,75.0,20.0
+1782,35-44,Republican,5. Slightly conservative,0.0,70.0
+1785,45-54,Republican,6. Conservative,100.0,0.0
+1787,45-54,Republican,4. Moderate; middle of the road,0.0,85.0
+1791,25-34,Republican,3. Slightly liberal,70.0,30.0
+1792,55-64,Republican,4. Moderate; middle of the road,70.0,40.0
+1797,55-64,Republican,6. Conservative,75.0,25.0
+1801,35-44,Democrat,4. Moderate; middle of the road,15.0,40.0
+1805,35-44,Republican,4. Moderate; middle of the road,100.0,0.0
+1807,55-64,Democrat,3. Slightly liberal,0.0,100.0
+1810,45-54,Republican,4. Moderate; middle of the road,40.0,0.0
+1811,55-64,Democrat,4. Moderate; middle of the road,30.0,50.0
+1812,35-44,Republican,5. Slightly conservative,30.0,60.0
+1814,45-54,Republican,4. Moderate; middle of the road,0.0,85.0
+1818,35-44,Republican,6. Conservative,15.0,70.0
+1819,55-64,Republican,5. Slightly conservative,85.0,0.0
+1821,35-44,Republican,4. Moderate; middle of the road,75.0,15.0
+1824,55-64,Democrat,3. Slightly liberal,0.0,70.0
+1825,35-44,Republican,6. Conservative,90.0,0.0
+1831,55-64,Democrat,3. Slightly liberal,0.0,70.0
+1833,45-54,Republican,5. Slightly conservative,70.0,40.0
+1836,35-44,Democrat,2. Liberal,0.0,85.0
+1838,45-54,Democrat,4. Moderate; middle of the road,0.0,70.0
+1839,35-44,Democrat,3. Slightly liberal,3.0,95.0
+1840,45-54,Republican,6. Conservative,85.0,0.0
+1841,55-64,Republican,4. Moderate; middle of the road,0.0,70.0
+1844,25-34,Democrat,4. Moderate; middle of the road,15.0,77.0
+1845,55-64,Democrat,2. Liberal,0.0,75.0
+1847,35-44,Republican,6. Conservative,65.0,0.0
+1848,55-64,Republican,7. Extremely conservative,100.0,0.0
+1849,45-54,Democrat,5. Slightly conservative,15.0,85.0
+1851,55-64,Republican,6. Conservative,90.0,0.0
+1853,55-64,Democrat,2. Liberal,0.0,85.0
+1857,45-54,Democrat,5. Slightly conservative,0.0,70.0
+1861,55-64,Republican,4. Moderate; middle of the road,15.0,40.0
+1863,35-44,Democrat,2. Liberal,0.0,100.0
+1864,35-44,Republican,6. Conservative,85.0,0.0
+1866,45-54,Democrat,3. Slightly liberal,15.0,75.0
+1867,45-54,Independent,4. Moderate; middle of the road,10.0,60.0
+1868,55-64,Democrat,3. Slightly liberal,0.0,60.0
+1872,25-34,Democrat,3. Slightly liberal,0.0,70.0
+1873,35-44,Democrat,4. Moderate; middle of the road,0.0,100.0
+1874,25-34,Republican,4. Moderate; middle of the road,75.0,0.0
+1878,35-44,Democrat,2. Liberal,0.0,100.0
+1879,25-34,Republican,7. Extremely conservative,60.0,0.0
+1881,35-44,Republican,3. Slightly liberal,0.0,100.0
+1882,25-34,Republican,5. Slightly conservative,40.0,50.0
+1885,45-54,Democrat,4. Moderate; middle of the road,30.0,60.0
+1893,55-64,Democrat,4. Moderate; middle of the road,15.0,85.0
+1895,25-34,Democrat,2. Liberal,0.0,100.0
+1898,45-54,Independent,4. Moderate; middle of the road,85.0,50.0
+1899,35-44,Republican,7. Extremely conservative,85.0,0.0
+1900,35-44,Democrat,2. Liberal,0.0,100.0
+1901,45-54,Democrat,3. Slightly liberal,0.0,70.0
+1903,25-34,Democrat,4. Moderate; middle of the road,70.0,0.0
+1904,55-64,Democrat,4. Moderate; middle of the road,100.0,0.0
+1906,35-44,Democrat,1. Extremely liberal,0.0,72.0
+1909,45-54,Republican,3. Slightly liberal,80.0,20.0
+1911,35-44,Republican,4. Moderate; middle of the road,30.0,75.0
+1914,55-64,Republican,2. Liberal,100.0,40.0
+1915,35-44,Democrat,2. Liberal,15.0,15.0
+1918,45-54,Republican,5. Slightly conservative,65.0,55.0
+1919,55-64,Democrat,2. Liberal,0.0,100.0
+1920,25-34,Democrat,4. Moderate; middle of the road,60.0,20.0
+1921,25-34,Democrat,2. Liberal,0.0,90.0
+1922,45-54,Democrat,4. Moderate; middle of the road,0.0,70.0
+1923,55-64,Democrat,4. Moderate; middle of the road,30.0,60.0
+1925,35-44,Democrat,2. Liberal,0.0,80.0
+1927,55-64,Republican,6. Conservative,85.0,15.0
+1928,55-64,Republican,5. Slightly conservative,100.0,0.0
+1930,55-64,Republican,6. Conservative,100.0,0.0
+1932,45-54,Democrat,1. Extremely liberal,0.0,75.0
+1935,45-54,Democrat,4. Moderate; middle of the road,0.0,50.0
+1936,35-44,Republican,6. Conservative,90.0,30.0
+1938,45-54,Republican,6. Conservative,70.0,15.0
+1939,25-34,Independent,5. Slightly conservative,60.0,40.0
+1940,55-64,Republican,6. Conservative,100.0,0.0
+1941,45-54,Democrat,2. Liberal,0.0,85.0
+1942,55-64,Republican,6. Conservative,70.0,0.0
+1943,55-64,Independent,4. Moderate; middle of the road,0.0,0.0
+1945,18-24,Republican,6. Conservative,95.0,0.0
+1946,55-64,Republican,6. Conservative,70.0,15.0
+1947,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+1949,55-64,Republican,6. Conservative,90.0,0.0
+1950,35-44,Democrat,1. Extremely liberal,0.0,100.0
+1951,45-54,Democrat,4. Moderate; middle of the road,40.0,40.0
+1954,55-64,Democrat,1. Extremely liberal,0.0,100.0
+1955,35-44,Republican,6. Conservative,80.0,25.0
+1956,35-44,Republican,6. Conservative,70.0,25.0
+1958,45-54,Republican,6. Conservative,99.0,0.0
+1959,45-54,Republican,5. Slightly conservative,70.0,40.0
+1960,35-44,Independent,4. Moderate; middle of the road,30.0,0.0
+1961,45-54,Democrat,2. Liberal,0.0,80.0
+1966,55-64,Democrat,2. Liberal,0.0,70.0
+1968,45-54,Republican,6. Conservative,60.0,15.0
+1969,35-44,Democrat,3. Slightly liberal,0.0,100.0
+1970,45-54,Republican,7. Extremely conservative,85.0,0.0
+1972,55-64,Republican,6. Conservative,85.0,85.0
+1973,35-44,Republican,5. Slightly conservative,85.0,0.0
+1974,35-44,Republican,5. Slightly conservative,100.0,30.0
+1975,65+,Republican,6. Conservative,100.0,0.0
+1976,25-34,Democrat,3. Slightly liberal,15.0,50.0
+1979,45-54,Republican,7. Extremely conservative,100.0,0.0
+1987,55-64,Democrat,3. Slightly liberal,0.0,100.0
+1988,35-44,Democrat,2. Liberal,0.0,60.0
+1991,65+,Democrat,4. Moderate; middle of the road,0.0,85.0
+1992,25-34,Independent,4. Moderate; middle of the road,0.0,59.0
+1994,45-54,Republican,6. Conservative,85.0,0.0
+1995,35-44,Democrat,3. Slightly liberal,15.0,70.0
+1996,35-44,Democrat,1. Extremely liberal,0.0,85.0
+1997,55-64,Democrat,3. Slightly liberal,0.0,85.0
+1998,55-64,Republican,5. Slightly conservative,30.0,40.0
+1999,35-44,Republican,6. Conservative,100.0,0.0
+2000,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+2002,55-64,Democrat,2. Liberal,0.0,100.0
+2003,45-54,Republican,5. Slightly conservative,100.0,0.0
+2006,55-64,Democrat,1. Extremely liberal,0.0,85.0
+2007,55-64,Democrat,6. Conservative,50.0,50.0
+2008,35-44,Republican,5. Slightly conservative,25.0,50.0
+2012,45-54,Republican,6. Conservative,85.0,0.0
+2013,35-44,Republican,6. Conservative,100.0,0.0
+2014,45-54,Republican,5. Slightly conservative,100.0,30.0
+2015,55-64,Republican,5. Slightly conservative,40.0,60.0
+2016,35-44,Republican,6. Conservative,100.0,0.0
+2017,35-44,Democrat,2. Liberal,0.0,90.0
+2018,45-54,Democrat,2. Liberal,0.0,93.0
+2019,45-54,Republican,5. Slightly conservative,85.0,15.0
+2020,35-44,Democrat,1. Extremely liberal,0.0,70.0
+2023,55-64,Republican,6. Conservative,50.0,0.0
+2024,45-54,Republican,4. Moderate; middle of the road,15.0,30.0
+2025,45-54,Democrat,3. Slightly liberal,1.0,70.0
+2028,45-54,Democrat,2. Liberal,0.0,100.0
+2031,25-34,Democrat,2. Liberal,0.0,100.0
+2037,55-64,Democrat,2. Liberal,0.0,100.0
+2038,35-44,Democrat,1. Extremely liberal,0.0,70.0
+2040,45-54,Democrat,3. Slightly liberal,100.0,0.0
+2041,35-44,Republican,5. Slightly conservative,48.0,35.0
+2042,55-64,Democrat,1. Extremely liberal,0.0,65.0
+2045,35-44,Democrat,3. Slightly liberal,0.0,50.0
+2049,55-64,Democrat,2. Liberal,0.0,85.0
+2050,35-44,Democrat,2. Liberal,0.0,88.0
+2051,55-64,Democrat,4. Moderate; middle of the road,60.0,30.0
+2055,35-44,Republican,6. Conservative,85.0,15.0
+2056,45-54,Democrat,3. Slightly liberal,0.0,70.0
+2057,45-54,Republican,6. Conservative,70.0,40.0
+2058,25-34,Republican,4. Moderate; middle of the road,50.0,15.0
+2059,35-44,Republican,5. Slightly conservative,70.0,15.0
+2061,55-64,Democrat,4. Moderate; middle of the road,60.0,60.0
+2063,35-44,Democrat,3. Slightly liberal,0.0,95.0
+2064,55-64,Republican,4. Moderate; middle of the road,40.0,39.0
+2065,35-44,Republican,6. Conservative,85.0,0.0
+2066,55-64,Democrat,5. Slightly conservative,40.0,50.0
+2067,45-54,Republican,2. Liberal,100.0,100.0
+2068,65+,Republican,6. Conservative,85.0,0.0
+2069,55-64,Democrat,2. Liberal,0.0,85.0
+2076,35-44,Democrat,4. Moderate; middle of the road,70.0,50.0
+2084,35-44,Republican,6. Conservative,100.0,40.0
+2088,55-64,Republican,4. Moderate; middle of the road,60.0,15.0
+2090,25-34,Democrat,2. Liberal,15.0,40.0
+2094,45-54,Democrat,3. Slightly liberal,10.0,85.0
+2095,45-54,Republican,6. Conservative,90.0,15.0
+2096,45-54,Democrat,1. Extremely liberal,0.0,100.0
+2097,55-64,Democrat,3. Slightly liberal,0.0,85.0
+2099,25-34,Democrat,3. Slightly liberal,0.0,85.0
+2100,35-44,Republican,6. Conservative,90.0,0.0
+2101,45-54,Democrat,4. Moderate; middle of the road,30.0,70.0
+2102,35-44,Democrat,2. Liberal,0.0,100.0
+2103,45-54,Democrat,4. Moderate; middle of the road,0.0,70.0
+2108,25-34,Republican,5. Slightly conservative,60.0,60.0
+2113,35-44,Democrat,1. Extremely liberal,0.0,70.0
+2114,35-44,Democrat,2. Liberal,0.0,70.0
+2115,65+,Republican,5. Slightly conservative,85.0,10.0
+2116,25-34,Democrat,2. Liberal,5.0,80.0
+2119,55-64,Republican,7. Extremely conservative,90.0,0.0
+2120,45-54,Republican,5. Slightly conservative,100.0,0.0
+2121,45-54,Democrat,1. Extremely liberal,0.0,100.0
+2122,45-54,Democrat,2. Liberal,50.0,60.0
+2125,35-44,Republican,6. Conservative,90.0,0.0
+2126,45-54,Democrat,1. Extremely liberal,0.0,100.0
+2127,55-64,Republican,7. Extremely conservative,100.0,15.0
+2128,25-34,Democrat,3. Slightly liberal,0.0,75.0
+2130,35-44,Democrat,3. Slightly liberal,0.0,85.0
+2133,25-34,Democrat,2. Liberal,0.0,70.0
+2138,45-54,Democrat,4. Moderate; middle of the road,70.0,100.0
+2141,35-44,Democrat,4. Moderate; middle of the road,40.0,25.0
+2142,55-64,Republican,6. Conservative,90.0,10.0
+2144,55-64,Democrat,4. Moderate; middle of the road,15.0,70.0
+2145,55-64,Republican,5. Slightly conservative,70.0,0.0
+2146,55-64,Democrat,2. Liberal,0.0,85.0
+2148,55-64,Republican,5. Slightly conservative,79.0,0.0
+2149,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+2151,55-64,Republican,6. Conservative,100.0,0.0
+2154,45-54,Republican,5. Slightly conservative,25.0,25.0
+2155,65+,Republican,6. Conservative,85.0,15.0
+2156,25-34,Republican,5. Slightly conservative,30.0,0.0
+2157,35-44,Republican,4. Moderate; middle of the road,85.0,0.0
+2159,25-34,Democrat,2. Liberal,0.0,85.0
+2160,55-64,Democrat,3. Slightly liberal,40.0,70.0
+2163,25-34,Republican,5. Slightly conservative,80.0,15.0
+2165,25-34,Democrat,4. Moderate; middle of the road,40.0,60.0
+2166,25-34,Democrat,2. Liberal,0.0,100.0
+2167,55-64,Republican,5. Slightly conservative,65.0,65.0
+2172,35-44,Democrat,3. Slightly liberal,10.0,90.0
+2173,25-34,Democrat,2. Liberal,0.0,60.0
+2175,35-44,Independent,1. Extremely liberal,50.0,15.0
+2177,55-64,Democrat,3. Slightly liberal,0.0,70.0
+2180,25-34,Democrat,2. Liberal,0.0,70.0
+2181,18-24,Democrat,1. Extremely liberal,0.0,5.0
+2184,55-64,Democrat,1. Extremely liberal,0.0,85.0
+2186,35-44,Democrat,4. Moderate; middle of the road,60.0,50.0
+2187,55-64,Democrat,5. Slightly conservative,0.0,90.0
+2189,45-54,Democrat,2. Liberal,0.0,90.0
+2190,55-64,Democrat,3. Slightly liberal,0.0,85.0
+2191,55-64,Democrat,2. Liberal,60.0,85.0
+2192,25-34,Republican,4. Moderate; middle of the road,50.0,60.0
+2196,35-44,Democrat,2. Liberal,15.0,85.0
+2197,25-34,Democrat,2. Liberal,15.0,50.0
+2198,35-44,Democrat,4. Moderate; middle of the road,0.0,70.0
+2199,25-34,Democrat,3. Slightly liberal,77.0,65.0
+2200,45-54,Democrat,4. Moderate; middle of the road,0.0,100.0
+2201,35-44,Democrat,3. Slightly liberal,0.0,95.0
+2202,45-54,Democrat,3. Slightly liberal,0.0,85.0
+2203,35-44,Democrat,2. Liberal,0.0,60.0
+2205,45-54,Democrat,4. Moderate; middle of the road,10.0,85.0
+2207,25-34,Democrat,2. Liberal,0.0,85.0
+2211,55-64,Democrat,2. Liberal,0.0,100.0
+2212,45-54,Democrat,3. Slightly liberal,0.0,100.0
+2213,55-64,Democrat,2. Liberal,0.0,85.0
+2217,45-54,Democrat,1. Extremely liberal,0.0,75.0
+2220,45-54,Democrat,2. Liberal,15.0,70.0
+2224,45-54,Democrat,3. Slightly liberal,0.0,80.0
+2225,55-64,Republican,4. Moderate; middle of the road,40.0,15.0
+2226,55-64,Republican,6. Conservative,100.0,0.0
+2228,25-34,Democrat,1. Extremely liberal,0.0,15.0
+2230,45-54,Independent,2. Liberal,85.0,100.0
+2231,45-54,Democrat,3. Slightly liberal,25.0,35.0
+2232,25-34,Democrat,1. Extremely liberal,0.0,60.0
+2233,65+,Republican,6. Conservative,40.0,0.0
+2234,45-54,Independent,7. Extremely conservative,60.0,60.0
+2237,45-54,Democrat,3. Slightly liberal,0.0,70.0
+2238,55-64,Democrat,3. Slightly liberal,60.0,60.0
+2240,45-54,Democrat,2. Liberal,0.0,90.0
+2241,35-44,Democrat,2. Liberal,0.0,85.0
+2242,25-34,Republican,4. Moderate; middle of the road,30.0,30.0
+2243,25-34,Democrat,4. Moderate; middle of the road,15.0,85.0
+2244,45-54,Democrat,4. Moderate; middle of the road,30.0,15.0
+2245,25-34,Republican,7. Extremely conservative,100.0,0.0
+2247,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+2248,35-44,Democrat,2. Liberal,15.0,50.0
+2249,45-54,Democrat,5. Slightly conservative,60.0,0.0
+2252,55-64,Republican,6. Conservative,100.0,0.0
+2254,35-44,Democrat,4. Moderate; middle of the road,0.0,85.0
+2255,55-64,Republican,6. Conservative,85.0,0.0
+2257,25-34,Democrat,2. Liberal,0.0,100.0
+2259,55-64,Republican,5. Slightly conservative,60.0,15.0
+2261,18-24,Democrat,2. Liberal,0.0,60.0
+2262,25-34,Democrat,2. Liberal,0.0,75.0
+2264,45-54,Democrat,2. Liberal,0.0,100.0
+2266,18-24,Democrat,1. Extremely liberal,0.0,50.0
+2268,55-64,Republican,5. Slightly conservative,50.0,20.0
+2269,25-34,Democrat,2. Liberal,0.0,85.0
+2271,35-44,Republican,4. Moderate; middle of the road,100.0,0.0
+2272,45-54,Democrat,2. Liberal,10.0,90.0
+2273,45-54,Democrat,1. Extremely liberal,0.0,100.0
+2275,25-34,Republican,5. Slightly conservative,65.0,0.0
+2276,35-44,Democrat,3. Slightly liberal,30.0,60.0
+2277,55-64,Republican,1. Extremely liberal,48.0,100.0
+2278,25-34,Republican,4. Moderate; middle of the road,100.0,0.0
+2279,45-54,Democrat,3. Slightly liberal,0.0,89.0
+2286,25-34,Independent,6. Conservative,15.0,15.0
+2289,25-34,Democrat,2. Liberal,0.0,85.0
+2291,45-54,Republican,2. Liberal,70.0,0.0
+2295,45-54,Democrat,2. Liberal,7.0,90.0
+2298,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+2301,55-64,Democrat,3. Slightly liberal,0.0,85.0
+2305,55-64,Republican,6. Conservative,40.0,50.0
+2306,35-44,Independent,2. Liberal,100.0,15.0
+2307,25-34,Republican,3. Slightly liberal,85.0,50.0
+2309,35-44,Republican,1. Extremely liberal,100.0,0.0
+2312,45-54,Democrat,4. Moderate; middle of the road,0.0,70.0
+2313,25-34,Democrat,1. Extremely liberal,0.0,85.0
+2314,25-34,Democrat,2. Liberal,0.0,80.0
+2316,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+2317,55-64,Democrat,4. Moderate; middle of the road,30.0,70.0
+2318,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+2320,35-44,Republican,5. Slightly conservative,30.0,30.0
+2321,55-64,Democrat,4. Moderate; middle of the road,0.0,90.0
+2323,25-34,Democrat,2. Liberal,15.0,50.0
+2325,55-64,Independent,4. Moderate; middle of the road,30.0,30.0
+2328,55-64,Republican,6. Conservative,100.0,0.0
+2334,45-54,Republican,6. Conservative,85.0,0.0
+2335,55-64,Democrat,2. Liberal,15.0,100.0
+2336,25-34,Republican,4. Moderate; middle of the road,100.0,40.0
+2337,45-54,Republican,4. Moderate; middle of the road,15.0,15.0
+2340,45-54,Democrat,7. Extremely conservative,0.0,80.0
+2343,25-34,Republican,6. Conservative,70.0,15.0
+2344,35-44,Democrat,3. Slightly liberal,0.0,100.0
+2345,45-54,Democrat,4. Moderate; middle of the road,0.0,60.0
+2346,65+,Republican,5. Slightly conservative,40.0,40.0
+2348,45-54,Democrat,2. Liberal,0.0,85.0
+2349,25-34,Democrat,2. Liberal,0.0,85.0
+2351,18-24,Democrat,1. Extremely liberal,0.0,85.0
+2361,25-34,Republican,6. Conservative,100.0,0.0
+2363,45-54,Democrat,4. Moderate; middle of the road,0.0,80.0
+2366,18-24,Democrat,4. Moderate; middle of the road,90.0,60.0
+2367,18-24,Democrat,2. Liberal,0.0,90.0
+2368,45-54,Democrat,2. Liberal,0.0,60.0
+2369,25-34,Republican,7. Extremely conservative,100.0,0.0
+2374,25-34,Republican,5. Slightly conservative,15.0,40.0
+2375,18-24,Republican,6. Conservative,30.0,60.0
+2376,45-54,Democrat,4. Moderate; middle of the road,5.0,40.0
+2378,45-54,Democrat,2. Liberal,0.0,85.0
+2379,45-54,Democrat,5. Slightly conservative,0.0,85.0
+2381,35-44,Democrat,1. Extremely liberal,0.0,85.0
+2383,45-54,Republican,5. Slightly conservative,100.0,0.0
+2389,65+,Democrat,3. Slightly liberal,15.0,85.0
+2390,25-34,Democrat,4. Moderate; middle of the road,70.0,50.0
+2393,55-64,Republican,6. Conservative,70.0,40.0
+2396,55-64,Republican,6. Conservative,100.0,0.0
+2406,55-64,Republican,6. Conservative,100.0,0.0
+2407,35-44,Republican,7. Extremely conservative,80.0,15.0
+2410,35-44,Republican,4. Moderate; middle of the road,100.0,0.0
+2413,25-34,Democrat,2. Liberal,0.0,85.0
+2415,45-54,Republican,5. Slightly conservative,85.0,30.0
+2416,25-34,Republican,6. Conservative,85.0,10.0
+2417,55-64,Democrat,1. Extremely liberal,0.0,100.0
+2418,55-64,Democrat,2. Liberal,0.0,60.0
+2420,18-24,Democrat,4. Moderate; middle of the road,15.0,60.0
+2421,55-64,Republican,4. Moderate; middle of the road,70.0,30.0
+2425,55-64,Democrat,2. Liberal,0.0,100.0
+2427,65+,Democrat,2. Liberal,0.0,85.0
+2430,25-34,Republican,5. Slightly conservative,60.0,30.0
+2433,45-54,Republican,6. Conservative,99.0,5.0
+2434,35-44,Republican,6. Conservative,100.0,30.0
+2439,18-24,Republican,4. Moderate; middle of the road,70.0,10.0
+2440,25-34,Republican,5. Slightly conservative,60.0,15.0
+2442,55-64,Democrat,4. Moderate; middle of the road,50.0,60.0
+2446,55-64,Democrat,4. Moderate; middle of the road,15.0,60.0
+2449,35-44,Democrat,2. Liberal,0.0,85.0
+2450,55-64,Republican,7. Extremely conservative,100.0,0.0
+2451,35-44,Democrat,4. Moderate; middle of the road,100.0,0.0
+2454,65+,Republican,6. Conservative,90.0,15.0
+2455,55-64,Republican,6. Conservative,95.0,5.0
+2458,35-44,Democrat,2. Liberal,30.0,100.0
+2461,18-24,Republican,5. Slightly conservative,85.0,0.0
+2462,35-44,Republican,6. Conservative,50.0,0.0
+2464,65+,Republican,6. Conservative,95.0,0.0
+2468,25-34,Independent,4. Moderate; middle of the road,0.0,0.0
+2473,35-44,Republican,6. Conservative,85.0,0.0
+2475,65+,Democrat,4. Moderate; middle of the road,85.0,15.0
+2477,35-44,Republican,5. Slightly conservative,75.0,0.0
+2478,25-34,Republican,6. Conservative,85.0,15.0
+2482,55-64,Republican,6. Conservative,100.0,0.0
+2484,35-44,Republican,7. Extremely conservative,80.0,15.0
+2486,65+,Republican,6. Conservative,100.0,0.0
+2488,25-34,Republican,6. Conservative,100.0,0.0
+2494,55-64,Republican,7. Extremely conservative,100.0,0.0
+2497,35-44,Independent,4. Moderate; middle of the road,0.0,85.0
+2498,45-54,Independent,4. Moderate; middle of the road,60.0,0.0
+2499,25-34,Democrat,5. Slightly conservative,15.0,85.0
+2501,55-64,Democrat,4. Moderate; middle of the road,30.0,60.0
+2502,35-44,Democrat,4. Moderate; middle of the road,70.0,65.0
+2504,55-64,Independent,4. Moderate; middle of the road,15.0,60.0
+2513,45-54,Republican,6. Conservative,100.0,0.0
+2515,45-54,Republican,6. Conservative,85.0,25.0
+2517,35-44,Republican,6. Conservative,90.0,0.0
+2520,25-34,Democrat,1. Extremely liberal,0.0,100.0
+2521,25-34,Democrat,2. Liberal,0.0,30.0
+2522,18-24,Democrat,4. Moderate; middle of the road,30.0,70.0
+2523,25-34,Democrat,1. Extremely liberal,0.0,90.0
+2525,25-34,Democrat,4. Moderate; middle of the road,40.0,60.0
+2526,25-34,Democrat,1. Extremely liberal,100.0,100.0
+2528,25-34,Republican,4. Moderate; middle of the road,70.0,30.0
+2529,65+,Democrat,5. Slightly conservative,30.0,70.0
+2532,25-34,Democrat,1. Extremely liberal,0.0,90.0
+2533,35-44,Democrat,6. Conservative,0.0,100.0
+2534,25-34,Republican,5. Slightly conservative,75.0,5.0
+2544,55-64,Democrat,4. Moderate; middle of the road,0.0,95.0
+2546,65+,Republican,6. Conservative,85.0,0.0
+2547,25-34,Democrat,2. Liberal,10.0,70.0
+2548,18-24,Democrat,3. Slightly liberal,30.0,70.0
+2551,25-34,Independent,4. Moderate; middle of the road,70.0,60.0
+2552,55-64,Democrat,3. Slightly liberal,0.0,60.0
+2553,35-44,Independent,4. Moderate; middle of the road,70.0,50.0
+2554,25-34,Democrat,2. Liberal,5.0,90.0
+2555,18-24,Republican,3. Slightly liberal,40.0,40.0
+2558,55-64,Democrat,2. Liberal,0.0,100.0
+2559,18-24,Democrat,4. Moderate; middle of the road,85.0,100.0
+2563,35-44,Democrat,3. Slightly liberal,20.0,70.0
+2564,55-64,Republican,7. Extremely conservative,85.0,0.0
+2565,55-64,Democrat,2. Liberal,1.0,60.0
+2568,45-54,Republican,4. Moderate; middle of the road,70.0,85.0
+2569,55-64,Democrat,1. Extremely liberal,10.0,65.0
+2572,35-44,Democrat,4. Moderate; middle of the road,0.0,40.0
+2574,55-64,Republican,4. Moderate; middle of the road,60.0,50.0
+2579,55-64,Democrat,2. Liberal,0.0,100.0
+2580,35-44,Democrat,2. Liberal,0.0,100.0
+2582,55-64,Independent,5. Slightly conservative,20.0,95.0
+2583,55-64,Independent,5. Slightly conservative,0.0,0.0
+2584,45-54,Democrat,4. Moderate; middle of the road,60.0,50.0
+2585,35-44,Republican,5. Slightly conservative,85.0,0.0
+2587,25-34,Democrat,2. Liberal,0.0,85.0
+2588,25-34,Republican,6. Conservative,100.0,0.0
+2590,55-64,Democrat,3. Slightly liberal,0.0,70.0
+2591,25-34,Independent,4. Moderate; middle of the road,15.0,30.0
+2593,25-34,Democrat,3. Slightly liberal,10.0,90.0
+2596,55-64,Democrat,4. Moderate; middle of the road,15.0,60.0
+2597,25-34,Democrat,4. Moderate; middle of the road,15.0,85.0
+2599,35-44,Independent,4. Moderate; middle of the road,0.0,40.0
+2600,55-64,Democrat,2. Liberal,0.0,70.0
+2601,18-24,Democrat,1. Extremely liberal,0.0,60.0
+2602,45-54,Democrat,2. Liberal,4.0,75.0
+2606,55-64,Republican,4. Moderate; middle of the road,70.0,0.0
+2607,55-64,Democrat,4. Moderate; middle of the road,0.0,40.0
+2609,25-34,Republican,4. Moderate; middle of the road,60.0,30.0
+2611,18-24,Democrat,2. Liberal,0.0,95.0
+2613,35-44,Republican,5. Slightly conservative,40.0,50.0
+2615,25-34,Democrat,3. Slightly liberal,0.0,70.0
+2616,35-44,Democrat,1. Extremely liberal,0.0,100.0
+2618,35-44,Democrat,3. Slightly liberal,0.0,60.0
+2620,55-64,Democrat,3. Slightly liberal,0.0,85.0
+2621,35-44,Democrat,4. Moderate; middle of the road,0.0,18.0
+2623,25-34,Democrat,3. Slightly liberal,0.0,75.0
+2624,45-54,Independent,4. Moderate; middle of the road,15.0,60.0
+2625,55-64,Democrat,2. Liberal,10.0,70.0
+2626,25-34,Republican,5. Slightly conservative,70.0,0.0
+2629,35-44,Republican,4. Moderate; middle of the road,100.0,100.0
+2635,25-34,Democrat,4. Moderate; middle of the road,15.0,85.0
+2636,35-44,Democrat,4. Moderate; middle of the road,0.0,85.0
+2638,35-44,Democrat,6. Conservative,85.0,0.0
+2643,25-34,Republican,5. Slightly conservative,30.0,0.0
+2645,25-34,Democrat,4. Moderate; middle of the road,40.0,85.0
+2646,25-34,Democrat,2. Liberal,0.0,85.0
+2649,35-44,Democrat,2. Liberal,0.0,85.0
+2651,35-44,Democrat,3. Slightly liberal,20.0,50.0
+2652,55-64,Democrat,3. Slightly liberal,0.0,70.0
+2653,45-54,Republican,5. Slightly conservative,85.0,15.0
+2656,45-54,Republican,5. Slightly conservative,85.0,15.0
+2657,55-64,Republican,5. Slightly conservative,100.0,0.0
+2660,45-54,Democrat,3. Slightly liberal,1.0,75.0
+2666,45-54,Republican,6. Conservative,100.0,0.0
+2667,25-34,Democrat,2. Liberal,0.0,100.0
+2668,55-64,Republican,6. Conservative,80.0,0.0
+2671,35-44,Republican,6. Conservative,90.0,0.0
+2672,25-34,Republican,6. Conservative,80.0,15.0
+2673,55-64,Republican,4. Moderate; middle of the road,70.0,0.0
+2676,45-54,Democrat,1. Extremely liberal,0.0,60.0
+2677,55-64,Democrat,2. Liberal,0.0,100.0
+2678,35-44,Democrat,4. Moderate; middle of the road,5.0,30.0
+2679,45-54,Democrat,4. Moderate; middle of the road,100.0,0.0
+2680,55-64,Democrat,1. Extremely liberal,0.0,85.0
+2681,25-34,Democrat,1. Extremely liberal,0.0,70.0
+2683,35-44,Republican,6. Conservative,70.0,0.0
+2684,35-44,Democrat,4. Moderate; middle of the road,0.0,85.0
+2686,45-54,Democrat,4. Moderate; middle of the road,30.0,50.0
+2688,35-44,Democrat,3. Slightly liberal,15.0,70.0
+2690,25-34,Democrat,2. Liberal,0.0,85.0
+2692,55-64,Republican,5. Slightly conservative,85.0,0.0
+2695,55-64,Republican,6. Conservative,100.0,5.0
+2696,55-64,Republican,6. Conservative,70.0,0.0
+2699,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+2701,35-44,Independent,4. Moderate; middle of the road,10.0,60.0
+2703,18-24,Republican,6. Conservative,0.0,40.0
+2704,55-64,Independent,4. Moderate; middle of the road,60.0,0.0
+2706,45-54,Republican,6. Conservative,35.0,0.0
+2707,25-34,Democrat,2. Liberal,30.0,40.0
+2711,25-34,Republican,4. Moderate; middle of the road,100.0,0.0
+2715,35-44,Republican,4. Moderate; middle of the road,60.0,0.0
+2720,45-54,Democrat,2. Liberal,15.0,70.0
+2721,25-34,Republican,6. Conservative,100.0,0.0
+2725,35-44,Democrat,2. Liberal,0.0,85.0
+2731,35-44,Democrat,2. Liberal,0.0,85.0
+2732,45-54,Democrat,3. Slightly liberal,0.0,100.0
+2733,65+,Republican,6. Conservative,100.0,0.0
+2734,45-54,Independent,4. Moderate; middle of the road,0.0,90.0
+2737,45-54,Democrat,4. Moderate; middle of the road,15.0,70.0
+2738,55-64,Republican,6. Conservative,85.0,0.0
+2741,35-44,Democrat,2. Liberal,0.0,70.0
+2743,25-34,Republican,5. Slightly conservative,85.0,5.0
+2745,45-54,Republican,6. Conservative,85.0,10.0
+2747,35-44,Republican,1. Extremely liberal,100.0,15.0
+2748,18-24,Democrat,1. Extremely liberal,0.0,75.0
+2749,18-24,Independent,4. Moderate; middle of the road,80.0,50.0
+2751,35-44,Republican,6. Conservative,70.0,0.0
+2752,18-24,Democrat,4. Moderate; middle of the road,0.0,70.0
+2755,25-34,Republican,5. Slightly conservative,15.0,70.0
+2758,55-64,Democrat,2. Liberal,0.0,100.0
+2759,18-24,Democrat,1. Extremely liberal,0.0,70.0
+2762,35-44,Democrat,2. Liberal,0.0,70.0
+2765,35-44,Independent,4. Moderate; middle of the road,86.0,0.0
+2769,25-34,Democrat,1. Extremely liberal,0.0,97.0
+2772,45-54,Democrat,4. Moderate; middle of the road,0.0,70.0
+2775,55-64,Democrat,4. Moderate; middle of the road,10.0,75.0
+2777,35-44,Independent,4. Moderate; middle of the road,30.0,30.0
+2780,25-34,Democrat,2. Liberal,0.0,100.0
+2782,55-64,Republican,6. Conservative,90.0,0.0
+2784,25-34,Republican,5. Slightly conservative,99.0,0.0
+2788,18-24,Democrat,7. Extremely conservative,15.0,100.0
+2792,45-54,Independent,3. Slightly liberal,85.0,50.0
+2796,55-64,Democrat,6. Conservative,0.0,60.0
+2797,45-54,Democrat,5. Slightly conservative,0.0,70.0
+2800,35-44,Independent,2. Liberal,15.0,50.0
+2801,35-44,Republican,3. Slightly liberal,70.0,0.0
+2802,25-34,Independent,4. Moderate; middle of the road,100.0,69.0
+2806,45-54,Democrat,1. Extremely liberal,0.0,100.0
+2807,35-44,Democrat,2. Liberal,0.0,100.0
+2808,25-34,Democrat,2. Liberal,0.0,85.0
+2815,35-44,Republican,6. Conservative,75.0,0.0
+2818,55-64,Democrat,2. Liberal,0.0,90.0
+2824,35-44,Republican,1. Extremely liberal,60.0,60.0
+2826,35-44,Republican,7. Extremely conservative,100.0,0.0
+2831,25-34,Democrat,3. Slightly liberal,0.0,50.0
+2832,55-64,Democrat,3. Slightly liberal,15.0,100.0
+2833,55-64,Independent,4. Moderate; middle of the road,50.0,51.0
+2835,25-34,Democrat,3. Slightly liberal,0.0,60.0
+2836,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+2839,25-34,Democrat,3. Slightly liberal,0.0,80.0
+2840,35-44,Republican,4. Moderate; middle of the road,60.0,0.0
+2846,35-44,Democrat,3. Slightly liberal,0.0,90.0
+2848,25-34,Democrat,1. Extremely liberal,0.0,95.0
+2852,35-44,Republican,6. Conservative,70.0,0.0
+2854,55-64,Republican,6. Conservative,100.0,0.0
+2856,35-44,Democrat,4. Moderate; middle of the road,85.0,15.0
+2860,25-34,Republican,7. Extremely conservative,85.0,0.0
+2861,35-44,Republican,5. Slightly conservative,60.0,20.0
+2863,35-44,Republican,6. Conservative,70.0,10.0
+2865,35-44,Democrat,2. Liberal,15.0,85.0
+2866,25-34,Republican,6. Conservative,85.0,0.0
+2867,25-34,Independent,4. Moderate; middle of the road,40.0,50.0
+2870,18-24,Democrat,4. Moderate; middle of the road,0.0,60.0
+2872,35-44,Republican,5. Slightly conservative,30.0,1.0
+2877,25-34,Democrat,3. Slightly liberal,0.0,70.0
+2878,35-44,Independent,4. Moderate; middle of the road,50.0,100.0
+2879,45-54,Republican,5. Slightly conservative,100.0,0.0
+2880,35-44,Republican,6. Conservative,100.0,0.0
+2881,25-34,Democrat,2. Liberal,50.0,85.0
+2882,25-34,Democrat,3. Slightly liberal,15.0,85.0
+2883,45-54,Republican,4. Moderate; middle of the road,85.0,0.0
+2884,55-64,Democrat,3. Slightly liberal,0.0,15.0
+2885,35-44,Republican,5. Slightly conservative,65.0,0.0
+2887,35-44,Republican,6. Conservative,85.0,30.0
+2888,18-24,Democrat,1. Extremely liberal,0.0,60.0
+2890,35-44,Republican,5. Slightly conservative,70.0,30.0
+2893,55-64,Republican,7. Extremely conservative,100.0,0.0
+2894,55-64,Republican,6. Conservative,90.0,30.0
+2895,35-44,Democrat,2. Liberal,15.0,40.0
+2896,55-64,Democrat,1. Extremely liberal,0.0,95.0
+2899,45-54,Democrat,2. Liberal,0.0,70.0
+2901,55-64,Democrat,1. Extremely liberal,0.0,90.0
+2902,45-54,Republican,6. Conservative,70.0,0.0
+2904,45-54,Republican,4. Moderate; middle of the road,0.0,85.0
+2908,25-34,Republican,6. Conservative,100.0,0.0
+2911,25-34,Republican,6. Conservative,100.0,0.0
+2914,45-54,Democrat,2. Liberal,0.0,75.0
+2916,55-64,Independent,4. Moderate; middle of the road,0.0,30.0
+2917,18-24,Republican,6. Conservative,90.0,0.0
+2918,25-34,Republican,4. Moderate; middle of the road,60.0,20.0
+2919,35-44,Independent,4. Moderate; middle of the road,75.0,0.0
+2920,18-24,Republican,4. Moderate; middle of the road,60.0,30.0
+2923,45-54,Democrat,4. Moderate; middle of the road,15.0,50.0
+2925,35-44,Republican,6. Conservative,0.0,15.0
+2930,45-54,Democrat,1. Extremely liberal,0.0,100.0
+2931,18-24,Democrat,3. Slightly liberal,0.0,77.0
+2932,45-54,Republican,4. Moderate; middle of the road,75.0,0.0
+2934,35-44,Republican,6. Conservative,85.0,0.0
+2935,45-54,Democrat,3. Slightly liberal,20.0,70.0
+2939,25-34,Republican,7. Extremely conservative,87.0,1.0
+2940,35-44,Democrat,3. Slightly liberal,0.0,85.0
+2942,45-54,Democrat,4. Moderate; middle of the road,15.0,60.0
+2943,35-44,Republican,5. Slightly conservative,55.0,40.0
+2944,55-64,Republican,6. Conservative,45.0,50.0
+2946,65+,Republican,4. Moderate; middle of the road,15.0,50.0
+2947,55-64,Republican,6. Conservative,85.0,15.0
+2953,55-64,Republican,4. Moderate; middle of the road,70.0,0.0
+2955,45-54,Republican,4. Moderate; middle of the road,100.0,0.0
+2957,55-64,Republican,6. Conservative,85.0,0.0
+2960,45-54,Democrat,4. Moderate; middle of the road,50.0,50.0
+2962,35-44,Republican,5. Slightly conservative,70.0,20.0
+2963,55-64,Independent,6. Conservative,30.0,30.0
+2966,55-64,Republican,5. Slightly conservative,85.0,0.0
+2967,25-34,Republican,5. Slightly conservative,100.0,0.0
+2971,55-64,Republican,7. Extremely conservative,85.0,5.0
+2972,55-64,Republican,6. Conservative,85.0,0.0
+2974,45-54,Republican,6. Conservative,60.0,30.0
+2975,55-64,Republican,7. Extremely conservative,90.0,50.0
+2977,55-64,Independent,5. Slightly conservative,85.0,0.0
+2978,25-34,Republican,7. Extremely conservative,95.0,0.0
+2981,25-34,Democrat,2. Liberal,0.0,100.0
+2985,45-54,Democrat,4. Moderate; middle of the road,0.0,85.0
+2989,35-44,Republican,4. Moderate; middle of the road,60.0,15.0
+2997,55-64,Republican,6. Conservative,85.0,10.0
+2998,18-24,Republican,7. Extremely conservative,100.0,0.0
+3002,45-54,Republican,6. Conservative,100.0,0.0
+3005,35-44,Republican,5. Slightly conservative,60.0,15.0
+3006,25-34,Republican,4. Moderate; middle of the road,60.0,50.0
+3009,25-34,Democrat,4. Moderate; middle of the road,0.0,100.0
+3010,25-34,Republican,6. Conservative,85.0,0.0
+3011,55-64,Democrat,4. Moderate; middle of the road,0.0,60.0
+3014,25-34,Republican,3. Slightly liberal,50.0,75.0
+3016,25-34,Republican,2. Liberal,85.0,60.0
+3019,55-64,Republican,6. Conservative,100.0,0.0
+3021,25-34,Democrat,2. Liberal,0.0,85.0
+3023,45-54,Republican,6. Conservative,100.0,0.0
+3025,55-64,Democrat,5. Slightly conservative,0.0,100.0
+3026,35-44,Democrat,3. Slightly liberal,70.0,15.0
+3027,45-54,Republican,5. Slightly conservative,60.0,0.0
+3028,45-54,Independent,4. Moderate; middle of the road,60.0,15.0
+3030,35-44,Republican,5. Slightly conservative,60.0,40.0
+3031,25-34,Republican,6. Conservative,90.0,0.0
+3032,45-54,Republican,5. Slightly conservative,70.0,0.0
+3034,45-54,Republican,6. Conservative,100.0,0.0
+3036,45-54,Republican,7. Extremely conservative,100.0,0.0
+3040,35-44,Republican,7. Extremely conservative,100.0,0.0
+3042,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+3043,45-54,Democrat,4. Moderate; middle of the road,25.0,75.0
+3048,65+,Democrat,2. Liberal,0.0,70.0
+3050,45-54,Republican,4. Moderate; middle of the road,70.0,15.0
+3054,18-24,Republican,4. Moderate; middle of the road,50.0,0.0
+3055,18-24,Republican,6. Conservative,70.0,45.0
+3058,18-24,Independent,4. Moderate; middle of the road,0.0,0.0
+3060,55-64,Republican,6. Conservative,30.0,40.0
+3061,55-64,Republican,4. Moderate; middle of the road,15.0,60.0
+3063,45-54,Democrat,3. Slightly liberal,15.0,65.0
+3065,35-44,Republican,4. Moderate; middle of the road,75.0,30.0
+3066,35-44,Republican,5. Slightly conservative,70.0,0.0
+3069,55-64,Republican,7. Extremely conservative,100.0,0.0
+3070,45-54,Democrat,3. Slightly liberal,15.0,75.0
+3072,18-24,Republican,7. Extremely conservative,100.0,0.0
+3074,45-54,Republican,6. Conservative,100.0,0.0
+3076,45-54,Republican,6. Conservative,85.0,0.0
+3077,45-54,Republican,5. Slightly conservative,95.0,15.0
+3078,55-64,Republican,6. Conservative,100.0,0.0
+3082,35-44,Republican,6. Conservative,100.0,10.0
+3083,45-54,Republican,6. Conservative,100.0,0.0
+3084,35-44,Republican,6. Conservative,70.0,0.0
+3085,35-44,Republican,6. Conservative,70.0,0.0
+3086,45-54,Republican,6. Conservative,70.0,0.0
+3087,45-54,Republican,6. Conservative,95.0,0.0
+3088,18-24,Republican,7. Extremely conservative,95.0,0.0
+3090,65+,Republican,6. Conservative,85.0,0.0
+3091,25-34,Republican,5. Slightly conservative,60.0,15.0
+3093,45-54,Democrat,4. Moderate; middle of the road,0.0,70.0
+3095,35-44,Democrat,2. Liberal,0.0,70.0
+3097,35-44,Republican,5. Slightly conservative,99.0,5.0
+3098,25-34,Republican,4. Moderate; middle of the road,30.0,70.0
+3099,25-34,Democrat,3. Slightly liberal,0.0,70.0
+3101,55-64,Republican,6. Conservative,85.0,15.0
+3102,18-24,Republican,7. Extremely conservative,70.0,0.0
+3105,25-34,Republican,4. Moderate; middle of the road,90.0,2.0
+3106,18-24,Democrat,3. Slightly liberal,0.0,75.0
+3109,45-54,Republican,6. Conservative,30.0,15.0
+3111,25-34,Independent,4. Moderate; middle of the road,60.0,15.0
+3116,55-64,Democrat,1. Extremely liberal,0.0,100.0
+3117,55-64,Democrat,1. Extremely liberal,0.0,100.0
+3119,25-34,Democrat,3. Slightly liberal,10.0,40.0
+3125,35-44,Republican,6. Conservative,85.0,0.0
+3127,35-44,Republican,7. Extremely conservative,100.0,0.0
+3128,55-64,Democrat,3. Slightly liberal,0.0,100.0
+3130,35-44,Democrat,4. Moderate; middle of the road,0.0,100.0
+3132,35-44,Democrat,1. Extremely liberal,60.0,50.0
+3134,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+3135,35-44,Independent,4. Moderate; middle of the road,0.0,85.0
+3137,35-44,Democrat,3. Slightly liberal,15.0,60.0
+3139,35-44,Republican,6. Conservative,60.0,60.0
+3141,35-44,Democrat,6. Conservative,50.0,100.0
+3143,35-44,Democrat,2. Liberal,25.0,75.0
+3145,25-34,Democrat,4. Moderate; middle of the road,50.0,50.0
+3146,55-64,Republican,4. Moderate; middle of the road,45.0,35.0
+3147,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+3151,55-64,Democrat,2. Liberal,0.0,100.0
+3152,35-44,Democrat,4. Moderate; middle of the road,0.0,60.0
+3154,55-64,Democrat,4. Moderate; middle of the road,0.0,85.0
+3155,25-34,Republican,6. Conservative,100.0,0.0
+3156,18-24,Republican,7. Extremely conservative,100.0,0.0
+3158,25-34,Republican,6. Conservative,80.0,0.0
+3159,45-54,Democrat,4. Moderate; middle of the road,100.0,50.0
+3161,35-44,Democrat,3. Slightly liberal,0.0,90.0
+3162,35-44,Democrat,2. Liberal,0.0,75.0
+3163,25-34,Republican,6. Conservative,85.0,0.0
+3164,35-44,Republican,3. Slightly liberal,0.0,85.0
+3167,55-64,Republican,6. Conservative,85.0,0.0
+3171,65+,Republican,6. Conservative,85.0,15.0
+3172,45-54,Democrat,1. Extremely liberal,0.0,100.0
+3173,18-24,Democrat,1. Extremely liberal,0.0,70.0
+3174,25-34,Democrat,4. Moderate; middle of the road,0.0,85.0
+3175,35-44,Republican,5. Slightly conservative,85.0,0.0
+3177,35-44,Republican,1. Extremely liberal,70.0,60.0
+3178,25-34,Independent,4. Moderate; middle of the road,50.0,50.0
+3180,25-34,Republican,7. Extremely conservative,100.0,0.0
+3181,25-34,Democrat,3. Slightly liberal,0.0,60.0
+3182,25-34,Democrat,4. Moderate; middle of the road,100.0,15.0
+3183,25-34,Republican,5. Slightly conservative,60.0,40.0
+3184,25-34,Democrat,5. Slightly conservative,0.0,100.0
+3185,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+3186,55-64,Democrat,3. Slightly liberal,0.0,100.0
+3190,25-34,Democrat,2. Liberal,0.0,85.0
+3191,55-64,Democrat,2. Liberal,0.0,100.0
+3193,25-34,Democrat,2. Liberal,0.0,70.0
+3194,25-34,Republican,6. Conservative,85.0,15.0
+3195,45-54,Democrat,4. Moderate; middle of the road,15.0,60.0
+3197,55-64,Democrat,2. Liberal,30.0,85.0
+3198,18-24,Independent,4. Moderate; middle of the road,70.0,70.0
+3200,25-34,Independent,3. Slightly liberal,60.0,40.0
+3201,25-34,Democrat,4. Moderate; middle of the road,40.0,60.0
+3203,45-54,Republican,5. Slightly conservative,100.0,0.0
+3204,35-44,Republican,6. Conservative,100.0,15.0
+3205,35-44,Independent,4. Moderate; middle of the road,0.0,60.0
+3206,45-54,Democrat,4. Moderate; middle of the road,70.0,15.0
+3208,25-34,Democrat,2. Liberal,0.0,70.0
+3212,55-64,Democrat,2. Liberal,0.0,85.0
+3214,35-44,Republican,5. Slightly conservative,10.0,70.0
+3215,25-34,Democrat,3. Slightly liberal,0.0,75.0
+3217,45-54,Democrat,2. Liberal,40.0,70.0
+3219,25-34,Republican,5. Slightly conservative,50.0,60.0
+3220,18-24,Republican,5. Slightly conservative,85.0,15.0
+3221,35-44,Democrat,3. Slightly liberal,40.0,40.0
+3222,65+,Democrat,3. Slightly liberal,0.0,85.0
+3223,55-64,Republican,4. Moderate; middle of the road,15.0,85.0
+3226,45-54,Democrat,3. Slightly liberal,60.0,85.0
+3227,35-44,Democrat,2. Liberal,0.0,100.0
+3229,25-34,Democrat,3. Slightly liberal,0.0,70.0
+3230,25-34,Democrat,3. Slightly liberal,15.0,70.0
+3233,55-64,Republican,3. Slightly liberal,70.0,15.0
+3236,55-64,Democrat,2. Liberal,0.0,80.0
+3237,45-54,Democrat,3. Slightly liberal,0.0,100.0
+3238,25-34,Democrat,2. Liberal,0.0,85.0
+3239,35-44,Democrat,1. Extremely liberal,0.0,75.0
+3240,25-34,Democrat,2. Liberal,0.0,70.0
+3241,55-64,Democrat,4. Moderate; middle of the road,30.0,60.0
+3243,35-44,Democrat,4. Moderate; middle of the road,40.0,60.0
+3244,45-54,Democrat,2. Liberal,0.0,100.0
+3246,35-44,Democrat,3. Slightly liberal,0.0,85.0
+3247,25-34,Democrat,2. Liberal,10.0,85.0
+3249,18-24,Democrat,2. Liberal,15.0,60.0
+3250,25-34,Democrat,2. Liberal,0.0,85.0
+3251,35-44,Republican,2. Liberal,90.0,0.0
+3254,55-64,Democrat,4. Moderate; middle of the road,70.0,50.0
+3256,35-44,Democrat,4. Moderate; middle of the road,2.0,70.0
+3261,45-54,Democrat,4. Moderate; middle of the road,0.0,100.0
+3263,35-44,Democrat,5. Slightly conservative,15.0,60.0
+3264,45-54,Republican,6. Conservative,100.0,15.0
+3265,55-64,Democrat,3. Slightly liberal,0.0,90.0
+3270,35-44,Republican,5. Slightly conservative,70.0,30.0
+3274,25-34,Independent,4. Moderate; middle of the road,50.0,30.0
+3279,55-64,Democrat,4. Moderate; middle of the road,40.0,85.0
+3283,35-44,Democrat,4. Moderate; middle of the road,30.0,50.0
+3284,35-44,Republican,4. Moderate; middle of the road,20.0,60.0
+3285,35-44,Democrat,4. Moderate; middle of the road,0.0,0.0
+3287,45-54,Democrat,2. Liberal,50.0,100.0
+3288,35-44,Democrat,4. Moderate; middle of the road,70.0,85.0
+3290,55-64,Republican,5. Slightly conservative,100.0,0.0
+3292,45-54,Democrat,7. Extremely conservative,0.0,100.0
+3293,55-64,Democrat,4. Moderate; middle of the road,15.0,70.0
+3298,45-54,Democrat,2. Liberal,0.0,80.0
+3300,18-24,Democrat,4. Moderate; middle of the road,0.0,85.0
+3301,55-64,Independent,4. Moderate; middle of the road,85.0,60.0
+3302,25-34,Democrat,4. Moderate; middle of the road,0.0,70.0
+3303,55-64,Republican,5. Slightly conservative,50.0,50.0
+3304,55-64,Republican,7. Extremely conservative,100.0,0.0
+3306,35-44,Democrat,3. Slightly liberal,50.0,60.0
+3308,18-24,Democrat,2. Liberal,5.0,80.0
+3310,55-64,Democrat,4. Moderate; middle of the road,15.0,100.0
+3313,18-24,Democrat,4. Moderate; middle of the road,0.0,80.0
+3314,45-54,Democrat,7. Extremely conservative,100.0,100.0
+3315,35-44,Republican,7. Extremely conservative,85.0,15.0
+3316,18-24,Democrat,3. Slightly liberal,30.0,70.0
+3323,35-44,Independent,4. Moderate; middle of the road,20.0,70.0
+3325,35-44,Republican,2. Liberal,50.0,50.0
+3326,25-34,Independent,5. Slightly conservative,40.0,40.0
+3328,25-34,Republican,6. Conservative,60.0,0.0
+3330,25-34,Independent,4. Moderate; middle of the road,10.0,60.0
+3331,35-44,Republican,7. Extremely conservative,85.0,0.0
+3332,18-24,Republican,5. Slightly conservative,70.0,15.0
+3333,55-64,Republican,5. Slightly conservative,85.0,15.0
+3335,25-34,Republican,5. Slightly conservative,15.0,40.0
+3337,55-64,Democrat,6. Conservative,50.0,100.0
+3340,25-34,Republican,2. Liberal,100.0,0.0
+3341,45-54,Democrat,3. Slightly liberal,0.0,75.0
+3343,45-54,Democrat,2. Liberal,15.0,85.0
+3344,35-44,Democrat,3. Slightly liberal,15.0,70.0
+3347,55-64,Republican,6. Conservative,90.0,0.0
+3352,55-64,Republican,6. Conservative,60.0,0.0
+3353,55-64,Republican,6. Conservative,85.0,0.0
+3355,55-64,Democrat,2. Liberal,15.0,70.0
+3356,55-64,Republican,5. Slightly conservative,50.0,50.0
+3360,55-64,Democrat,1. Extremely liberal,0.0,100.0
+3364,45-54,Democrat,3. Slightly liberal,45.0,60.0
+3365,35-44,Democrat,1. Extremely liberal,0.0,70.0
+3366,45-54,Democrat,1. Extremely liberal,0.0,100.0
+3368,25-34,Democrat,2. Liberal,1.0,75.0
+3369,55-64,Republican,5. Slightly conservative,85.0,30.0
+3372,45-54,Democrat,6. Conservative,0.0,60.0
+3374,35-44,Republican,6. Conservative,75.0,35.0
+3379,45-54,Independent,4. Moderate; middle of the road,30.0,30.0
+3383,25-34,Democrat,4. Moderate; middle of the road,60.0,50.0
+3385,45-54,Republican,4. Moderate; middle of the road,85.0,0.0
+3386,25-34,Republican,6. Conservative,100.0,0.0
+3387,25-34,Republican,6. Conservative,85.0,0.0
+3388,45-54,Democrat,1. Extremely liberal,15.0,85.0
+3392,25-34,Democrat,3. Slightly liberal,0.0,90.0
+3394,35-44,Independent,4. Moderate; middle of the road,0.0,50.0
+3395,55-64,Democrat,5. Slightly conservative,70.0,15.0
+3396,35-44,Republican,6. Conservative,70.0,0.0
+3397,25-34,Democrat,4. Moderate; middle of the road,15.0,100.0
+3398,25-34,Democrat,1. Extremely liberal,0.0,73.0
+3400,55-64,Democrat,2. Liberal,0.0,100.0
+3405,55-64,Republican,6. Conservative,60.0,15.0
+3406,18-24,Democrat,3. Slightly liberal,0.0,100.0
+3408,55-64,Democrat,5. Slightly conservative,0.0,75.0
+3410,35-44,Democrat,3. Slightly liberal,0.0,85.0
+3416,45-54,Republican,4. Moderate; middle of the road,100.0,0.0
+3422,45-54,Democrat,4. Moderate; middle of the road,0.0,85.0
+3423,45-54,Democrat,2. Liberal,0.0,85.0
+3424,35-44,Democrat,2. Liberal,0.0,90.0
+3432,55-64,Democrat,3. Slightly liberal,0.0,100.0
+3434,35-44,Democrat,2. Liberal,15.0,90.0
+3435,45-54,Democrat,3. Slightly liberal,0.0,80.0
+3436,45-54,Democrat,3. Slightly liberal,2.0,85.0
+3438,45-54,Republican,5. Slightly conservative,75.0,30.0
+3440,55-64,Democrat,5. Slightly conservative,30.0,60.0
+3447,55-64,Republican,5. Slightly conservative,100.0,15.0
+3448,35-44,Republican,7. Extremely conservative,99.0,0.0
+3450,25-34,Democrat,3. Slightly liberal,15.0,85.0
+3451,45-54,Democrat,1. Extremely liberal,0.0,100.0
+3454,25-34,Democrat,4. Moderate; middle of the road,0.0,95.0
+3456,35-44,Democrat,7. Extremely conservative,0.0,0.0
+3457,25-34,Democrat,2. Liberal,15.0,100.0
+3459,25-34,Independent,4. Moderate; middle of the road,100.0,0.0
+3466,35-44,Democrat,3. Slightly liberal,0.0,60.0
+3467,45-54,Democrat,1. Extremely liberal,0.0,85.0
+3471,35-44,Democrat,1. Extremely liberal,50.0,100.0
+3472,45-54,Democrat,2. Liberal,0.0,85.0
+3474,55-64,Democrat,4. Moderate; middle of the road,30.0,99.0
+3477,25-34,Democrat,1. Extremely liberal,0.0,5.0
+3481,55-64,Republican,7. Extremely conservative,100.0,0.0
+3484,55-64,Republican,6. Conservative,90.0,0.0
+3486,55-64,Republican,6. Conservative,100.0,0.0
+3490,25-34,Republican,5. Slightly conservative,70.0,5.0
+3491,35-44,Democrat,2. Liberal,0.0,85.0
+3496,35-44,Democrat,4. Moderate; middle of the road,40.0,40.0
+3501,35-44,Republican,6. Conservative,70.0,0.0
+3503,35-44,Independent,4. Moderate; middle of the road,15.0,50.0
+3506,55-64,Republican,5. Slightly conservative,85.0,0.0
+3508,55-64,Republican,7. Extremely conservative,100.0,0.0
+3511,45-54,Independent,4. Moderate; middle of the road,50.0,50.0
+3514,35-44,Democrat,4. Moderate; middle of the road,30.0,100.0
+3515,25-34,Republican,3. Slightly liberal,70.0,60.0
+3516,25-34,Democrat,2. Liberal,0.0,85.0
+3517,45-54,Republican,1. Extremely liberal,70.0,0.0
+3518,35-44,Democrat,5. Slightly conservative,85.0,0.0
+3524,55-64,Republican,4. Moderate; middle of the road,100.0,0.0
+3525,35-44,Republican,5. Slightly conservative,50.0,0.0
+3526,45-54,Democrat,2. Liberal,0.0,80.0
+3532,45-54,Independent,3. Slightly liberal,60.0,50.0
+3536,45-54,Democrat,4. Moderate; middle of the road,15.0,40.0
+3540,55-64,Republican,6. Conservative,100.0,0.0
+3541,35-44,Republican,4. Moderate; middle of the road,100.0,0.0
+3542,55-64,Republican,6. Conservative,100.0,0.0
+3543,18-24,Republican,6. Conservative,80.0,5.0
+3545,35-44,Republican,6. Conservative,85.0,0.0
+3547,55-64,Republican,7. Extremely conservative,100.0,0.0
+3549,35-44,Democrat,1. Extremely liberal,0.0,60.0
+3558,35-44,Republican,6. Conservative,100.0,0.0
+3559,18-24,Democrat,4. Moderate; middle of the road,50.0,40.0
+3561,35-44,Republican,2. Liberal,85.0,15.0
+3564,35-44,Democrat,4. Moderate; middle of the road,0.0,30.0
+3566,55-64,Republican,6. Conservative,90.0,15.0
+3570,45-54,Republican,7. Extremely conservative,90.0,5.0
+3573,18-24,Democrat,1. Extremely liberal,0.0,70.0
+3575,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+3576,25-34,Democrat,3. Slightly liberal,60.0,30.0
+3580,35-44,Democrat,2. Liberal,60.0,0.0
+3585,25-34,Republican,5. Slightly conservative,70.0,0.0
+3586,45-54,Democrat,2. Liberal,15.0,85.0
+3589,35-44,Republican,6. Conservative,60.0,15.0
+3590,35-44,Republican,4. Moderate; middle of the road,15.0,50.0
+3592,18-24,Democrat,1. Extremely liberal,70.0,85.0
+3594,55-64,Democrat,2. Liberal,0.0,70.0
+3595,35-44,Democrat,5. Slightly conservative,0.0,60.0
+3597,55-64,Democrat,4. Moderate; middle of the road,0.0,10.0
+3598,35-44,Democrat,1. Extremely liberal,0.0,85.0
+3599,35-44,Independent,4. Moderate; middle of the road,75.0,60.0
+3602,25-34,Republican,4. Moderate; middle of the road,85.0,15.0
+3606,18-24,Independent,4. Moderate; middle of the road,70.0,70.0
+3607,25-34,Independent,4. Moderate; middle of the road,0.0,0.0
+3608,45-54,Republican,6. Conservative,60.0,0.0
+3610,45-54,Republican,6. Conservative,60.0,15.0
+3617,55-64,Democrat,1. Extremely liberal,0.0,100.0
+3619,45-54,Democrat,3. Slightly liberal,30.0,40.0
+3621,45-54,Democrat,2. Liberal,0.0,85.0
+3625,55-64,Republican,4. Moderate; middle of the road,100.0,0.0
+3630,45-54,Republican,7. Extremely conservative,100.0,0.0
+3633,55-64,Republican,6. Conservative,100.0,0.0
+3639,45-54,Democrat,1. Extremely liberal,0.0,100.0
+3641,35-44,Republican,7. Extremely conservative,100.0,0.0
+3644,35-44,Democrat,4. Moderate; middle of the road,0.0,85.0
+3647,25-34,Democrat,4. Moderate; middle of the road,100.0,0.0
+3648,25-34,Democrat,2. Liberal,0.0,70.0
+3652,45-54,Republican,6. Conservative,100.0,0.0
+3653,55-64,Republican,3. Slightly liberal,70.0,30.0
+3654,18-24,Democrat,2. Liberal,30.0,50.0
+3655,18-24,Democrat,3. Slightly liberal,0.0,85.0
+3657,45-54,Independent,5. Slightly conservative,70.0,50.0
+3660,25-34,Democrat,3. Slightly liberal,0.0,70.0
+3663,35-44,Republican,6. Conservative,85.0,0.0
+3664,35-44,Democrat,3. Slightly liberal,70.0,15.0
+3669,25-34,Democrat,2. Liberal,60.0,100.0
+3672,35-44,Republican,5. Slightly conservative,100.0,0.0
+3673,55-64,Republican,7. Extremely conservative,100.0,0.0
+3674,55-64,Republican,6. Conservative,90.0,0.0
+3676,45-54,Democrat,4. Moderate; middle of the road,15.0,60.0
+3678,45-54,Republican,7. Extremely conservative,100.0,0.0
+3681,35-44,Republican,5. Slightly conservative,100.0,40.0
+3682,55-64,Democrat,2. Liberal,40.0,100.0
+3685,55-64,Democrat,3. Slightly liberal,0.0,80.0
+3686,35-44,Republican,5. Slightly conservative,40.0,30.0
+3688,55-64,Democrat,4. Moderate; middle of the road,0.0,65.0
+3691,55-64,Democrat,4. Moderate; middle of the road,0.0,60.0
+3693,35-44,Republican,7. Extremely conservative,100.0,0.0
+3696,25-34,Republican,6. Conservative,80.0,0.0
+3698,45-54,Independent,4. Moderate; middle of the road,60.0,50.0
+3704,55-64,Independent,4. Moderate; middle of the road,40.0,70.0
+3705,18-24,Independent,7. Extremely conservative,100.0,0.0
+3709,45-54,Republican,5. Slightly conservative,85.0,0.0
+3710,35-44,Independent,5. Slightly conservative,0.0,0.0
+3711,18-24,Democrat,3. Slightly liberal,0.0,76.0
+3713,55-64,Republican,5. Slightly conservative,50.0,10.0
+3716,35-44,Republican,6. Conservative,100.0,50.0
+3720,45-54,Republican,5. Slightly conservative,85.0,15.0
+3722,35-44,Republican,5. Slightly conservative,15.0,15.0
+3724,25-34,Republican,7. Extremely conservative,85.0,0.0
+3726,35-44,Republican,5. Slightly conservative,80.0,40.0
+3728,45-54,Republican,6. Conservative,100.0,15.0
+3731,55-64,Democrat,3. Slightly liberal,0.0,85.0
+3732,45-54,Democrat,4. Moderate; middle of the road,0.0,85.0
+3735,25-34,Republican,5. Slightly conservative,15.0,25.0
+3737,35-44,Republican,5. Slightly conservative,15.0,15.0
+3738,55-64,Republican,6. Conservative,85.0,0.0
+3744,65+,Republican,6. Conservative,80.0,15.0
+3745,55-64,Republican,6. Conservative,85.0,0.0
+3746,35-44,Republican,7. Extremely conservative,100.0,0.0
+3747,55-64,Republican,6. Conservative,100.0,0.0
+3748,55-64,Republican,4. Moderate; middle of the road,70.0,30.0
+3750,55-64,Republican,6. Conservative,70.0,30.0
+3752,45-54,Independent,4. Moderate; middle of the road,50.0,50.0
+3753,35-44,Republican,4. Moderate; middle of the road,0.0,100.0
+3755,25-34,Republican,4. Moderate; middle of the road,85.0,0.0
+3760,55-64,Republican,6. Conservative,100.0,0.0
+3761,35-44,Democrat,2. Liberal,15.0,85.0
+3762,18-24,Democrat,2. Liberal,15.0,60.0
+3763,35-44,Democrat,3. Slightly liberal,50.0,50.0
+3764,45-54,Democrat,4. Moderate; middle of the road,0.0,90.0
+3766,65+,Democrat,4. Moderate; middle of the road,15.0,70.0
+3767,25-34,Democrat,3. Slightly liberal,0.0,100.0
+3768,25-34,Democrat,2. Liberal,20.0,70.0
+3769,55-64,Republican,6. Conservative,0.0,60.0
+3770,25-34,Democrat,4. Moderate; middle of the road,75.0,30.0
+3772,55-64,Republican,4. Moderate; middle of the road,85.0,40.0
+3777,45-54,Independent,4. Moderate; middle of the road,60.0,0.0
+3778,45-54,Republican,6. Conservative,60.0,30.0
+3782,25-34,Democrat,1. Extremely liberal,0.0,60.0
+3786,25-34,Republican,6. Conservative,100.0,0.0
+3799,55-64,Republican,4. Moderate; middle of the road,40.0,30.0
+3800,45-54,Republican,6. Conservative,100.0,0.0
+3802,35-44,Democrat,4. Moderate; middle of the road,15.0,60.0
+3803,55-64,Republican,4. Moderate; middle of the road,70.0,40.0
+3806,35-44,Republican,6. Conservative,85.0,0.0
+3808,18-24,Republican,7. Extremely conservative,75.0,0.0
+3817,35-44,Democrat,4. Moderate; middle of the road,85.0,15.0
+3823,25-34,Republican,4. Moderate; middle of the road,100.0,0.0
+3824,45-54,Republican,4. Moderate; middle of the road,45.0,15.0
+3827,25-34,Republican,5. Slightly conservative,85.0,30.0
+3834,35-44,Republican,7. Extremely conservative,100.0,0.0
+3835,55-64,Republican,3. Slightly liberal,85.0,0.0
+3836,45-54,Democrat,4. Moderate; middle of the road,0.0,85.0
+3837,35-44,Democrat,2. Liberal,0.0,85.0
+3839,25-34,Republican,6. Conservative,95.0,15.0
+3841,35-44,Republican,7. Extremely conservative,100.0,0.0
+3843,45-54,Republican,4. Moderate; middle of the road,90.0,0.0
+3845,18-24,Republican,7. Extremely conservative,70.0,0.0
+3846,35-44,Independent,3. Slightly liberal,70.0,15.0
+3848,45-54,Republican,6. Conservative,85.0,0.0
+3854,45-54,Republican,7. Extremely conservative,100.0,0.0
+3855,35-44,Republican,5. Slightly conservative,85.0,0.0
+3857,55-64,Republican,7. Extremely conservative,50.0,0.0
+3859,25-34,Republican,5. Slightly conservative,80.0,0.0
+3861,18-24,Republican,4. Moderate; middle of the road,100.0,0.0
+3862,55-64,Republican,7. Extremely conservative,96.0,1.0
+3864,25-34,Republican,4. Moderate; middle of the road,70.0,70.0
+3865,25-34,Republican,5. Slightly conservative,15.0,30.0
+3871,25-34,Democrat,4. Moderate; middle of the road,40.0,85.0
+3873,45-54,Republican,4. Moderate; middle of the road,70.0,30.0
+3877,18-24,Republican,5. Slightly conservative,20.0,20.0
+3878,25-34,Republican,4. Moderate; middle of the road,70.0,0.0
+3880,45-54,Democrat,4. Moderate; middle of the road,0.0,30.0
+3881,25-34,Republican,4. Moderate; middle of the road,50.0,50.0
+3882,55-64,Republican,4. Moderate; middle of the road,85.0,30.0
+3884,45-54,Republican,4. Moderate; middle of the road,85.0,15.0
+3885,35-44,Republican,2. Liberal,100.0,15.0
+3887,45-54,Democrat,4. Moderate; middle of the road,50.0,50.0
+3889,45-54,Republican,6. Conservative,70.0,30.0
+3894,18-24,Democrat,3. Slightly liberal,0.0,40.0
+3898,55-64,Independent,4. Moderate; middle of the road,50.0,50.0
+3901,45-54,Republican,2. Liberal,100.0,0.0
+3903,45-54,Republican,6. Conservative,100.0,0.0
+3904,55-64,Republican,6. Conservative,95.0,0.0
+3905,55-64,Republican,4. Moderate; middle of the road,100.0,0.0
+3907,35-44,Republican,6. Conservative,75.0,15.0
+3908,35-44,Republican,6. Conservative,85.0,0.0
+3909,55-64,Republican,5. Slightly conservative,75.0,0.0
+3910,55-64,Republican,6. Conservative,85.0,15.0
+3912,55-64,Republican,4. Moderate; middle of the road,40.0,40.0
+3913,35-44,Republican,7. Extremely conservative,100.0,0.0
+3916,55-64,Democrat,5. Slightly conservative,0.0,30.0
+3917,55-64,Republican,4. Moderate; middle of the road,0.0,75.0
+3919,55-64,Democrat,4. Moderate; middle of the road,5.0,85.0
+3921,55-64,Republican,7. Extremely conservative,100.0,0.0
+3922,55-64,Republican,6. Conservative,85.0,0.0
+3925,45-54,Republican,4. Moderate; middle of the road,70.0,0.0
+3927,25-34,Republican,5. Slightly conservative,60.0,0.0
+3929,55-64,Republican,6. Conservative,60.0,30.0
+3932,35-44,Republican,7. Extremely conservative,70.0,0.0
+3938,25-34,Republican,5. Slightly conservative,85.0,15.0
+3940,35-44,Republican,4. Moderate; middle of the road,50.0,50.0
+3941,25-34,Republican,4. Moderate; middle of the road,50.0,70.0
+3942,55-64,Republican,4. Moderate; middle of the road,100.0,50.0
+3949,45-54,Democrat,4. Moderate; middle of the road,0.0,85.0
+3950,25-34,Republican,7. Extremely conservative,100.0,0.0
+3951,55-64,Republican,4. Moderate; middle of the road,70.0,30.0
+3952,45-54,Republican,6. Conservative,100.0,0.0
+3954,35-44,Republican,4. Moderate; middle of the road,100.0,15.0
+3958,25-34,Republican,5. Slightly conservative,70.0,30.0
+3960,55-64,Republican,7. Extremely conservative,85.0,0.0
+3961,45-54,Republican,6. Conservative,85.0,15.0
+3962,35-44,Republican,6. Conservative,85.0,15.0
+3963,35-44,Democrat,3. Slightly liberal,15.0,85.0
+3964,25-34,Democrat,2. Liberal,25.0,60.0
+3967,45-54,Republican,4. Moderate; middle of the road,70.0,0.0
+3968,25-34,Democrat,2. Liberal,0.0,100.0
+3969,45-54,Republican,6. Conservative,70.0,30.0
+3971,55-64,Republican,3. Slightly liberal,40.0,75.0
+3972,65+,Independent,4. Moderate; middle of the road,60.0,40.0
+3976,18-24,Republican,6. Conservative,90.0,0.0
+3977,18-24,Republican,7. Extremely conservative,100.0,0.0
+3980,25-34,Democrat,3. Slightly liberal,0.0,70.0
+3982,55-64,Democrat,3. Slightly liberal,0.0,99.0
+3985,35-44,Republican,5. Slightly conservative,70.0,0.0
+3986,55-64,Independent,6. Conservative,0.0,50.0
+3988,25-34,Independent,3. Slightly liberal,10.0,25.0
+3992,25-34,Republican,7. Extremely conservative,100.0,0.0
+3998,35-44,Republican,6. Conservative,70.0,0.0
+3999,55-64,Republican,6. Conservative,60.0,0.0
+4001,18-24,Independent,4. Moderate; middle of the road,50.0,0.0
+4003,18-24,Democrat,1. Extremely liberal,0.0,100.0
+4004,18-24,Democrat,2. Liberal,0.0,70.0
+4006,65+,Democrat,4. Moderate; middle of the road,0.0,85.0
+4007,35-44,Democrat,2. Liberal,0.0,85.0
+4008,25-34,Democrat,2. Liberal,0.0,50.0
+4009,35-44,Democrat,4. Moderate; middle of the road,15.0,85.0
+4010,25-34,Democrat,5. Slightly conservative,60.0,40.0
+4011,35-44,Democrat,1. Extremely liberal,0.0,70.0
+4013,35-44,Democrat,1. Extremely liberal,0.0,90.0
+4015,35-44,Democrat,2. Liberal,0.0,90.0
+4018,18-24,Republican,3. Slightly liberal,85.0,70.0
+4019,25-34,Republican,4. Moderate; middle of the road,80.0,15.0
+4023,65+,Democrat,3. Slightly liberal,0.0,100.0
+4024,55-64,Democrat,2. Liberal,0.0,85.0
+4025,25-34,Democrat,1. Extremely liberal,0.0,44.0
+4026,18-24,Democrat,4. Moderate; middle of the road,30.0,85.0
+4030,45-54,Democrat,2. Liberal,0.0,90.0
+4033,45-54,Democrat,4. Moderate; middle of the road,0.0,60.0
+4034,55-64,Democrat,4. Moderate; middle of the road,40.0,90.0
+4035,65+,Democrat,2. Liberal,0.0,100.0
+4037,35-44,Republican,4. Moderate; middle of the road,100.0,0.0
+4038,25-34,Republican,5. Slightly conservative,70.0,15.0
+4040,25-34,Democrat,1. Extremely liberal,0.0,0.0
+4041,18-24,Democrat,2. Liberal,15.0,60.0
+4042,25-34,Democrat,1. Extremely liberal,0.0,40.0
+4043,25-34,Democrat,2. Liberal,0.0,80.0
+4044,18-24,Republican,4. Moderate; middle of the road,53.0,47.0
+4051,45-54,Democrat,2. Liberal,0.0,9.0
+4055,45-54,Republican,5. Slightly conservative,70.0,50.0
+4056,35-44,Democrat,1. Extremely liberal,0.0,100.0
+4057,25-34,Democrat,2. Liberal,0.0,30.0
+4058,25-34,Democrat,1. Extremely liberal,0.0,95.0
+4060,25-34,Democrat,3. Slightly liberal,0.0,95.0
+4062,45-54,Democrat,3. Slightly liberal,0.0,100.0
+4063,35-44,Democrat,3. Slightly liberal,0.0,70.0
+4064,45-54,Democrat,5. Slightly conservative,0.0,55.0
+4066,25-34,Democrat,2. Liberal,15.0,85.0
+4067,55-64,Democrat,4. Moderate; middle of the road,30.0,60.0
+4069,45-54,Democrat,4. Moderate; middle of the road,0.0,85.0
+4070,25-34,Republican,6. Conservative,100.0,0.0
+4072,25-34,Democrat,6. Conservative,60.0,50.0
+4073,18-24,Republican,5. Slightly conservative,70.0,30.0
+4076,55-64,Independent,3. Slightly liberal,0.0,55.0
+4080,55-64,Democrat,2. Liberal,0.0,85.0
+4082,65+,Democrat,1. Extremely liberal,0.0,100.0
+4083,55-64,Democrat,2. Liberal,10.0,80.0
+4089,35-44,Democrat,2. Liberal,0.0,70.0
+4090,18-24,Republican,4. Moderate; middle of the road,7.0,1.0
+4091,45-54,Democrat,4. Moderate; middle of the road,0.0,60.0
+4093,18-24,Independent,4. Moderate; middle of the road,51.0,30.0
+4094,35-44,Democrat,2. Liberal,0.0,100.0
+4095,18-24,Republican,4. Moderate; middle of the road,55.0,40.0
+4097,55-64,Independent,4. Moderate; middle of the road,40.0,85.0
+4099,25-34,Independent,5. Slightly conservative,1.0,1.0
+4101,45-54,Republican,6. Conservative,60.0,0.0
+4104,35-44,Democrat,3. Slightly liberal,0.0,95.0
+4107,25-34,Democrat,2. Liberal,0.0,85.0
+4109,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+4110,25-34,Democrat,2. Liberal,0.0,85.0
+4114,18-24,Democrat,2. Liberal,0.0,80.0
+4116,55-64,Democrat,2. Liberal,15.0,85.0
+4117,18-24,Democrat,2. Liberal,30.0,70.0
+4118,25-34,Democrat,4. Moderate; middle of the road,0.0,85.0
+4120,25-34,Democrat,2. Liberal,15.0,70.0
+4121,55-64,Democrat,4. Moderate; middle of the road,40.0,70.0
+4124,25-34,Republican,7. Extremely conservative,100.0,0.0
+4126,55-64,Republican,4. Moderate; middle of the road,0.0,60.0
+4127,18-24,Democrat,1. Extremely liberal,15.0,60.0
+4129,45-54,Democrat,1. Extremely liberal,0.0,0.0
+4135,45-54,Democrat,2. Liberal,0.0,95.0
+4136,35-44,Democrat,1. Extremely liberal,0.0,80.0
+4138,25-34,Democrat,3. Slightly liberal,0.0,60.0
+4144,25-34,Democrat,2. Liberal,0.0,55.0
+4147,55-64,Republican,4. Moderate; middle of the road,60.0,30.0
+4148,25-34,Republican,6. Conservative,70.0,0.0
+4151,25-34,Democrat,1. Extremely liberal,0.0,85.0
+4152,45-54,Independent,4. Moderate; middle of the road,60.0,0.0
+4155,25-34,Democrat,3. Slightly liberal,15.0,80.0
+4156,45-54,Democrat,2. Liberal,0.0,85.0
+4157,25-34,Democrat,4. Moderate; middle of the road,0.0,70.0
+4158,45-54,Republican,4. Moderate; middle of the road,80.0,50.0
+4159,35-44,Democrat,4. Moderate; middle of the road,0.0,100.0
+4161,55-64,Republican,4. Moderate; middle of the road,30.0,0.0
+4162,45-54,Republican,3. Slightly liberal,0.0,50.0
+4164,35-44,Democrat,2. Liberal,0.0,70.0
+4165,55-64,Democrat,3. Slightly liberal,0.0,85.0
+4169,45-54,Democrat,2. Liberal,0.0,85.0
+4170,35-44,Democrat,2. Liberal,0.0,60.0
+4173,35-44,Republican,5. Slightly conservative,85.0,0.0
+4175,55-64,Democrat,4. Moderate; middle of the road,0.0,50.0
+4176,45-54,Republican,6. Conservative,85.0,0.0
+4178,55-64,Republican,6. Conservative,60.0,15.0
+4179,55-64,Democrat,4. Moderate; middle of the road,30.0,40.0
+4180,55-64,Democrat,2. Liberal,0.0,90.0
+4183,35-44,Republican,4. Moderate; middle of the road,85.0,30.0
+4184,45-54,Republican,5. Slightly conservative,85.0,15.0
+4186,18-24,Democrat,4. Moderate; middle of the road,30.0,100.0
+4187,18-24,Democrat,2. Liberal,0.0,100.0
+4188,55-64,Democrat,7. Extremely conservative,0.0,100.0
+4189,25-34,Republican,4. Moderate; middle of the road,85.0,50.0
+4190,25-34,Republican,6. Conservative,100.0,0.0
+4193,45-54,Republican,5. Slightly conservative,100.0,30.0
+4195,25-34,Democrat,2. Liberal,0.0,40.0
+4196,55-64,Democrat,1. Extremely liberal,0.0,85.0
+4198,25-34,Democrat,5. Slightly conservative,0.0,70.0
+4200,55-64,Independent,3. Slightly liberal,0.0,100.0
+4201,25-34,Democrat,3. Slightly liberal,0.0,100.0
+4205,25-34,Democrat,1. Extremely liberal,0.0,90.0
+4206,25-34,Independent,4. Moderate; middle of the road,60.0,40.0
+4211,35-44,Democrat,4. Moderate; middle of the road,15.0,15.0
+4212,35-44,Democrat,3. Slightly liberal,0.0,85.0
+4215,45-54,Independent,5. Slightly conservative,20.0,20.0
+4216,55-64,Democrat,5. Slightly conservative,15.0,70.0
+4217,45-54,Republican,4. Moderate; middle of the road,70.0,60.0
+4218,18-24,Republican,7. Extremely conservative,85.0,0.0
+4219,45-54,Republican,6. Conservative,100.0,0.0
+4221,35-44,Democrat,1. Extremely liberal,0.0,85.0
+4222,35-44,Democrat,1. Extremely liberal,0.0,75.0
+4223,35-44,Democrat,4. Moderate; middle of the road,15.0,85.0
+4224,45-54,Democrat,2. Liberal,0.0,100.0
+4227,45-54,Democrat,2. Liberal,0.0,85.0
+4231,55-64,Independent,2. Liberal,50.0,70.0
+4233,35-44,Republican,6. Conservative,90.0,10.0
+4237,55-64,Republican,5. Slightly conservative,100.0,0.0
+4238,25-34,Democrat,2. Liberal,10.0,65.0
+4239,35-44,Democrat,4. Moderate; middle of the road,0.0,85.0
+4240,35-44,Democrat,4. Moderate; middle of the road,0.0,100.0
+4242,35-44,Independent,4. Moderate; middle of the road,0.0,0.0
+4243,35-44,Democrat,4. Moderate; middle of the road,70.0,15.0
+4244,18-24,Democrat,2. Liberal,30.0,75.0
+4245,55-64,Republican,7. Extremely conservative,100.0,0.0
+4246,35-44,Democrat,3. Slightly liberal,0.0,99.0
+4247,25-34,Democrat,3. Slightly liberal,0.0,100.0
+4248,55-64,Democrat,2. Liberal,0.0,70.0
+4250,18-24,Republican,5. Slightly conservative,60.0,0.0
+4254,25-34,Republican,5. Slightly conservative,100.0,0.0
+4255,55-64,Republican,6. Conservative,70.0,15.0
+4256,25-34,Republican,6. Conservative,100.0,0.0
+4257,55-64,Democrat,2. Liberal,0.0,85.0
+4259,55-64,Democrat,3. Slightly liberal,0.0,85.0
+4260,45-54,Democrat,4. Moderate; middle of the road,15.0,85.0
+4263,35-44,Independent,4. Moderate; middle of the road,0.0,60.0
+4264,45-54,Democrat,1. Extremely liberal,0.0,100.0
+4266,55-64,Independent,4. Moderate; middle of the road,55.0,55.0
+4268,25-34,Independent,4. Moderate; middle of the road,60.0,30.0
+4269,45-54,Independent,3. Slightly liberal,0.0,85.0
+4271,65+,Republican,4. Moderate; middle of the road,70.0,0.0
+4272,35-44,Independent,4. Moderate; middle of the road,0.0,0.0
+4273,55-64,Republican,6. Conservative,100.0,0.0
+4274,35-44,Republican,6. Conservative,100.0,0.0
+4277,55-64,Republican,7. Extremely conservative,95.0,0.0
+4278,35-44,Democrat,3. Slightly liberal,0.0,50.0
+4280,25-34,Republican,7. Extremely conservative,100.0,0.0
+4281,25-34,Democrat,4. Moderate; middle of the road,40.0,85.0
+4282,25-34,Democrat,4. Moderate; middle of the road,50.0,50.0
+4283,35-44,Republican,6. Conservative,60.0,40.0
+4284,35-44,Republican,6. Conservative,100.0,0.0
+4286,25-34,Democrat,3. Slightly liberal,15.0,85.0
+4291,25-34,Republican,5. Slightly conservative,0.0,100.0
+4292,25-34,Republican,6. Conservative,70.0,0.0
+4293,35-44,Democrat,2. Liberal,0.0,100.0
+4294,25-34,Democrat,4. Moderate; middle of the road,15.0,70.0
+4298,35-44,Republican,7. Extremely conservative,85.0,0.0
+4301,55-64,Republican,5. Slightly conservative,100.0,0.0
+4305,18-24,Democrat,2. Liberal,0.0,85.0
+4306,45-54,Democrat,4. Moderate; middle of the road,0.0,90.0
+4307,25-34,Republican,5. Slightly conservative,85.0,15.0
+4308,25-34,Independent,4. Moderate; middle of the road,70.0,15.0
+4312,25-34,Republican,5. Slightly conservative,75.0,30.0
+4314,45-54,Democrat,4. Moderate; middle of the road,40.0,50.0
+4315,55-64,Republican,5. Slightly conservative,85.0,0.0
+4316,45-54,Republican,5. Slightly conservative,85.0,15.0
+4317,55-64,Republican,7. Extremely conservative,95.0,0.0
+4318,25-34,Republican,7. Extremely conservative,85.0,15.0
+4319,25-34,Democrat,1. Extremely liberal,0.0,85.0
+4321,45-54,Democrat,4. Moderate; middle of the road,0.0,87.0
+4322,25-34,Democrat,3. Slightly liberal,0.0,75.0
+4325,25-34,Democrat,2. Liberal,0.0,100.0
+4327,45-54,Republican,4. Moderate; middle of the road,50.0,60.0
+4333,65+,Republican,6. Conservative,100.0,0.0
+4335,55-64,Democrat,4. Moderate; middle of the road,0.0,85.0
+4338,25-34,Republican,4. Moderate; middle of the road,40.0,70.0
+4342,55-64,Independent,4. Moderate; middle of the road,50.0,70.0
+4344,25-34,Democrat,2. Liberal,0.0,75.0
+4345,35-44,Democrat,4. Moderate; middle of the road,0.0,50.0
+4348,45-54,Independent,4. Moderate; middle of the road,60.0,50.0
+4349,45-54,Democrat,2. Liberal,0.0,85.0
+4351,45-54,Democrat,5. Slightly conservative,0.0,85.0
+4352,25-34,Republican,3. Slightly liberal,20.0,55.0
+4353,45-54,Democrat,4. Moderate; middle of the road,0.0,60.0
+4354,45-54,Democrat,2. Liberal,15.0,70.0
+4356,45-54,Republican,3. Slightly liberal,0.0,60.0
+4357,25-34,Republican,6. Conservative,60.0,5.0
+4358,45-54,Democrat,2. Liberal,0.0,75.0
+4359,25-34,Democrat,3. Slightly liberal,0.0,85.0
+4360,35-44,Democrat,4. Moderate; middle of the road,70.0,0.0
+4363,25-34,Republican,6. Conservative,100.0,0.0
+4364,35-44,Democrat,2. Liberal,0.0,70.0
+4365,25-34,Democrat,1. Extremely liberal,0.0,85.0
+4366,45-54,Democrat,2. Liberal,0.0,100.0
+4367,65+,Democrat,2. Liberal,0.0,100.0
+4368,25-34,Republican,6. Conservative,70.0,15.0
+4369,35-44,Democrat,4. Moderate; middle of the road,0.0,100.0
+4372,25-34,Democrat,2. Liberal,0.0,70.0
+4374,35-44,Republican,6. Conservative,90.0,0.0
+4375,18-24,Republican,5. Slightly conservative,65.0,30.0
+4377,45-54,Republican,6. Conservative,80.0,0.0
+4378,35-44,Republican,6. Conservative,60.0,15.0
+4380,18-24,Republican,7. Extremely conservative,85.0,0.0
+4381,45-54,Democrat,2. Liberal,0.0,85.0
+4382,25-34,Independent,4. Moderate; middle of the road,0.0,85.0
+4383,25-34,Democrat,4. Moderate; middle of the road,0.0,50.0
+4385,25-34,Democrat,6. Conservative,60.0,0.0
+4387,25-34,Independent,1. Extremely liberal,0.0,70.0
+4389,55-64,Democrat,4. Moderate; middle of the road,60.0,40.0
+4392,55-64,Republican,5. Slightly conservative,100.0,0.0
+4394,25-34,Democrat,3. Slightly liberal,15.0,70.0
+4395,45-54,Republican,6. Conservative,82.0,47.0
+4398,45-54,Democrat,4. Moderate; middle of the road,0.0,70.0
+4399,55-64,Democrat,4. Moderate; middle of the road,20.0,100.0
+4400,55-64,Democrat,4. Moderate; middle of the road,100.0,50.0
+4401,55-64,Democrat,4. Moderate; middle of the road,50.0,50.0
+4407,25-34,Democrat,2. Liberal,0.0,85.0
+4408,55-64,Republican,4. Moderate; middle of the road,100.0,0.0
+4409,45-54,Republican,5. Slightly conservative,60.0,0.0
+4410,55-64,Republican,6. Conservative,100.0,0.0
+4413,45-54,Republican,6. Conservative,65.0,30.0
+4414,45-54,Democrat,6. Conservative,70.0,15.0
+4418,45-54,Democrat,2. Liberal,0.0,80.0
+4419,45-54,Democrat,3. Slightly liberal,0.0,85.0
+4420,55-64,Democrat,3. Slightly liberal,15.0,70.0
+4421,35-44,Republican,5. Slightly conservative,10.0,10.0
+4422,25-34,Republican,6. Conservative,100.0,0.0
+4425,25-34,Republican,5. Slightly conservative,100.0,0.0
+4426,18-24,Republican,6. Conservative,85.0,0.0
+4429,55-64,Democrat,4. Moderate; middle of the road,0.0,85.0
+4432,55-64,Democrat,3. Slightly liberal,15.0,70.0
+4434,55-64,Republican,4. Moderate; middle of the road,40.0,0.0
+4435,35-44,Republican,5. Slightly conservative,65.0,5.0
+4440,45-54,Republican,3. Slightly liberal,0.0,85.0
+4443,18-24,Republican,7. Extremely conservative,100.0,0.0
+4444,25-34,Independent,4. Moderate; middle of the road,65.0,30.0
+4446,45-54,Republican,6. Conservative,100.0,0.0
+4448,45-54,Republican,4. Moderate; middle of the road,20.0,0.0
+4449,25-34,Democrat,4. Moderate; middle of the road,0.0,70.0
+4450,55-64,Democrat,2. Liberal,0.0,60.0
+4452,25-34,Democrat,2. Liberal,0.0,60.0
+4454,65+,Democrat,4. Moderate; middle of the road,0.0,100.0
+4457,45-54,Republican,6. Conservative,85.0,0.0
+4460,45-54,Republican,4. Moderate; middle of the road,90.0,15.0
+4461,25-34,Democrat,2. Liberal,0.0,70.0
+4467,55-64,Democrat,1. Extremely liberal,0.0,100.0
+4469,35-44,Democrat,3. Slightly liberal,15.0,20.0
+4471,25-34,Republican,6. Conservative,100.0,0.0
+4472,35-44,Republican,6. Conservative,65.0,35.0
+4473,45-54,Democrat,3. Slightly liberal,0.0,50.0
+4478,35-44,Republican,4. Moderate; middle of the road,15.0,50.0
+4480,45-54,Democrat,2. Liberal,0.0,70.0
+4485,55-64,Republican,6. Conservative,100.0,25.0
+4487,25-34,Republican,6. Conservative,60.0,10.0
+4490,25-34,Republican,6. Conservative,70.0,30.0
+4493,25-34,Republican,4. Moderate; middle of the road,85.0,40.0
+4494,25-34,Democrat,2. Liberal,0.0,70.0
+4496,25-34,Republican,5. Slightly conservative,90.0,10.0
+4500,45-54,Democrat,2. Liberal,0.0,85.0
+4501,25-34,Republican,5. Slightly conservative,40.0,40.0
+4503,35-44,Democrat,7. Extremely conservative,50.0,60.0
+4507,25-34,Republican,7. Extremely conservative,100.0,0.0
+4508,45-54,Democrat,3. Slightly liberal,0.0,85.0
+4509,25-34,Democrat,2. Liberal,15.0,60.0
+4511,55-64,Democrat,3. Slightly liberal,5.0,80.0
+4512,35-44,Democrat,3. Slightly liberal,10.0,80.0
+4515,55-64,Republican,7. Extremely conservative,100.0,1.0
+4518,35-44,Republican,6. Conservative,85.0,0.0
+4520,65+,Democrat,4. Moderate; middle of the road,0.0,100.0
+4521,25-34,Republican,4. Moderate; middle of the road,15.0,40.0
+4530,55-64,Democrat,3. Slightly liberal,0.0,100.0
+4534,55-64,Democrat,2. Liberal,0.0,85.0
+4536,25-34,Republican,3. Slightly liberal,85.0,50.0
+4538,25-34,Democrat,3. Slightly liberal,15.0,60.0
+4539,25-34,Democrat,2. Liberal,0.0,85.0
+4540,35-44,Democrat,4. Moderate; middle of the road,45.0,60.0
+4541,25-34,Republican,5. Slightly conservative,75.0,25.0
+4544,45-54,Republican,4. Moderate; middle of the road,0.0,100.0
+4545,35-44,Democrat,4. Moderate; middle of the road,0.0,50.0
+4549,18-24,Democrat,3. Slightly liberal,18.0,85.0
+4551,55-64,Republican,6. Conservative,100.0,0.0
+4559,35-44,Democrat,3. Slightly liberal,40.0,60.0
+4560,55-64,Republican,4. Moderate; middle of the road,60.0,65.0
+4562,35-44,Republican,7. Extremely conservative,60.0,100.0
+4563,45-54,Republican,3. Slightly liberal,70.0,15.0
+4564,18-24,Republican,4. Moderate; middle of the road,70.0,40.0
+4566,55-64,Democrat,6. Conservative,0.0,90.0
+4567,65+,Republican,4. Moderate; middle of the road,50.0,15.0
+4568,35-44,Republican,5. Slightly conservative,85.0,30.0
+4573,25-34,Republican,5. Slightly conservative,60.0,40.0
+4580,55-64,Republican,5. Slightly conservative,85.0,0.0
+4581,25-34,Democrat,3. Slightly liberal,2.0,45.0
+4582,35-44,Republican,5. Slightly conservative,80.0,30.0
+4583,45-54,Republican,5. Slightly conservative,90.0,10.0
+4585,25-34,Democrat,2. Liberal,0.0,70.0
+4588,55-64,Republican,6. Conservative,90.0,10.0
+4590,35-44,Democrat,2. Liberal,0.0,90.0
+4591,45-54,Democrat,4. Moderate; middle of the road,0.0,60.0
+4593,45-54,Democrat,2. Liberal,0.0,70.0
+4594,55-64,Republican,6. Conservative,85.0,30.0
+4595,35-44,Republican,5. Slightly conservative,60.0,40.0
+4597,45-54,Democrat,5. Slightly conservative,50.0,50.0
+4598,35-44,Republican,4. Moderate; middle of the road,85.0,100.0
+4600,35-44,Democrat,4. Moderate; middle of the road,10.0,85.0
+4602,35-44,Republican,4. Moderate; middle of the road,100.0,0.0
+4611,55-64,Republican,6. Conservative,60.0,30.0
+4614,55-64,Democrat,4. Moderate; middle of the road,80.0,30.0
+4619,25-34,Democrat,2. Liberal,0.0,75.0
+4621,35-44,Democrat,4. Moderate; middle of the road,0.0,70.0
+4623,25-34,Democrat,4. Moderate; middle of the road,0.0,60.0
+4627,55-64,Republican,6. Conservative,85.0,0.0
+4628,45-54,Republican,5. Slightly conservative,0.0,50.0
+4631,18-24,Republican,5. Slightly conservative,60.0,40.0
+4633,18-24,Independent,5. Slightly conservative,0.0,15.0
+4634,35-44,Democrat,3. Slightly liberal,60.0,85.0
+4636,25-34,Independent,4. Moderate; middle of the road,30.0,75.0
+4637,45-54,Democrat,2. Liberal,0.0,100.0
+4640,35-44,Democrat,2. Liberal,0.0,90.0
+4641,55-64,Republican,7. Extremely conservative,100.0,0.0
+4642,35-44,Democrat,2. Liberal,0.0,70.0
+4643,45-54,Democrat,2. Liberal,0.0,85.0
+4645,45-54,Republican,5. Slightly conservative,70.0,40.0
+4646,45-54,Republican,4. Moderate; middle of the road,60.0,15.0
+4647,45-54,Democrat,4. Moderate; middle of the road,85.0,40.0
+4648,35-44,Democrat,2. Liberal,0.0,70.0
+4650,45-54,Republican,4. Moderate; middle of the road,60.0,40.0
+4652,18-24,Democrat,3. Slightly liberal,0.0,85.0
+4653,55-64,Democrat,4. Moderate; middle of the road,0.0,85.0
+4654,55-64,Republican,4. Moderate; middle of the road,100.0,0.0
+4656,25-34,Democrat,2. Liberal,0.0,70.0
+4658,35-44,Republican,4. Moderate; middle of the road,60.0,35.0
+4659,35-44,Democrat,4. Moderate; middle of the road,50.0,50.0
+4660,18-24,Democrat,4. Moderate; middle of the road,15.0,60.0
+4661,25-34,Democrat,2. Liberal,0.0,100.0
+4663,25-34,Republican,6. Conservative,65.0,15.0
+4665,55-64,Republican,6. Conservative,100.0,0.0
+4667,55-64,Republican,4. Moderate; middle of the road,30.0,60.0
+4668,25-34,Democrat,1. Extremely liberal,0.0,50.0
+4671,45-54,Democrat,2. Liberal,30.0,70.0
+4676,55-64,Democrat,2. Liberal,0.0,100.0
+4677,45-54,Democrat,4. Moderate; middle of the road,45.0,40.0
+4681,35-44,Democrat,3. Slightly liberal,15.0,100.0
+4683,55-64,Democrat,5. Slightly conservative,85.0,50.0
+4685,35-44,Republican,6. Conservative,71.0,30.0
+4688,18-24,Democrat,3. Slightly liberal,50.0,60.0
+4689,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+4690,45-54,Democrat,6. Conservative,85.0,15.0
+4692,35-44,Democrat,4. Moderate; middle of the road,30.0,80.0
+4693,55-64,Republican,4. Moderate; middle of the road,70.0,50.0
+4694,55-64,Republican,6. Conservative,80.0,10.0
+4695,55-64,Republican,6. Conservative,100.0,50.0
+4696,45-54,Independent,4. Moderate; middle of the road,50.0,50.0
+4697,18-24,Democrat,3. Slightly liberal,0.0,60.0
+4700,25-34,Democrat,4. Moderate; middle of the road,15.0,100.0
+4702,25-34,Republican,4. Moderate; middle of the road,80.0,0.0
+4703,25-34,Republican,6. Conservative,85.0,15.0
+4708,18-24,Democrat,1. Extremely liberal,0.0,50.0
+4712,35-44,Democrat,4. Moderate; middle of the road,50.0,50.0
+4713,35-44,Democrat,1. Extremely liberal,0.0,100.0
+4718,25-34,Democrat,2. Liberal,0.0,90.0
+4720,65+,Republican,5. Slightly conservative,85.0,15.0
+4721,35-44,Democrat,1. Extremely liberal,0.0,80.0
+4722,45-54,Republican,6. Conservative,85.0,40.0
+4725,45-54,Democrat,1. Extremely liberal,0.0,60.0
+4727,25-34,Democrat,1. Extremely liberal,2.0,60.0
+4729,35-44,Democrat,2. Liberal,0.0,70.0
+4730,35-44,Democrat,4. Moderate; middle of the road,10.0,60.0
+4731,35-44,Democrat,4. Moderate; middle of the road,70.0,85.0
+4736,25-34,Democrat,4. Moderate; middle of the road,40.0,100.0
+4737,45-54,Republican,5. Slightly conservative,60.0,30.0
+4739,25-34,Republican,3. Slightly liberal,70.0,30.0
+4740,45-54,Democrat,3. Slightly liberal,0.0,60.0
+4741,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+4743,35-44,Republican,7. Extremely conservative,100.0,70.0
+4744,35-44,Republican,6. Conservative,80.0,30.0
+4745,25-34,Democrat,2. Liberal,0.0,60.0
+4747,25-34,Democrat,4. Moderate; middle of the road,40.0,80.0
+4750,55-64,Democrat,2. Liberal,30.0,70.0
+4753,25-34,Democrat,1. Extremely liberal,0.0,95.0
+4756,45-54,Republican,6. Conservative,90.0,5.0
+4758,55-64,Democrat,2. Liberal,0.0,85.0
+4759,45-54,Democrat,2. Liberal,50.0,50.0
+4762,35-44,Republican,4. Moderate; middle of the road,75.0,30.0
+4763,25-34,Democrat,2. Liberal,0.0,70.0
+4764,55-64,Democrat,4. Moderate; middle of the road,100.0,70.0
+4765,35-44,Independent,4. Moderate; middle of the road,85.0,0.0
+4766,35-44,Republican,5. Slightly conservative,70.0,0.0
+4767,55-64,Republican,5. Slightly conservative,60.0,30.0
+4769,55-64,Republican,6. Conservative,85.0,40.0
+4774,55-64,Republican,7. Extremely conservative,90.0,0.0
+4776,25-34,Republican,5. Slightly conservative,70.0,2.0
+4777,45-54,Democrat,1. Extremely liberal,0.0,85.0
+4779,45-54,Republican,6. Conservative,100.0,0.0
+4780,55-64,Republican,4. Moderate; middle of the road,100.0,15.0
+4782,25-34,Democrat,2. Liberal,15.0,70.0
+4783,25-34,Democrat,4. Moderate; middle of the road,50.0,50.0
+4784,55-64,Democrat,2. Liberal,0.0,95.0
+4786,35-44,Democrat,4. Moderate; middle of the road,85.0,0.0
+4787,35-44,Republican,5. Slightly conservative,50.0,50.0
+4788,35-44,Republican,4. Moderate; middle of the road,10.0,2.0
+4789,35-44,Democrat,2. Liberal,0.0,100.0
+4790,35-44,Republican,6. Conservative,95.0,20.0
+4791,55-64,Republican,7. Extremely conservative,100.0,5.0
+4793,45-54,Democrat,4. Moderate; middle of the road,15.0,30.0
+4795,55-64,Republican,5. Slightly conservative,60.0,30.0
+4797,45-54,Democrat,4. Moderate; middle of the road,30.0,50.0
+4798,25-34,Republican,6. Conservative,40.0,15.0
+4799,55-64,Republican,6. Conservative,100.0,0.0
+4800,45-54,Democrat,3. Slightly liberal,0.0,85.0
+4801,45-54,Democrat,3. Slightly liberal,10.0,90.0
+4802,55-64,Republican,6. Conservative,70.0,15.0
+4803,45-54,Democrat,3. Slightly liberal,10.0,95.0
+4807,45-54,Democrat,3. Slightly liberal,0.0,85.0
+4808,65+,Republican,6. Conservative,90.0,30.0
+4809,35-44,Republican,5. Slightly conservative,100.0,15.0
+4812,18-24,Republican,7. Extremely conservative,100.0,0.0
+4813,45-54,Independent,3. Slightly liberal,25.0,50.0
+4814,55-64,Democrat,7. Extremely conservative,0.0,100.0
+4816,35-44,Republican,4. Moderate; middle of the road,85.0,60.0
+4817,25-34,Democrat,2. Liberal,0.0,75.0
+4818,18-24,Independent,4. Moderate; middle of the road,40.0,30.0
+4819,25-34,Republican,4. Moderate; middle of the road,80.0,20.0
+4820,45-54,Republican,4. Moderate; middle of the road,99.0,0.0
+4821,35-44,Democrat,4. Moderate; middle of the road,40.0,45.0
+4823,55-64,Democrat,3. Slightly liberal,50.0,85.0
+4828,18-24,Democrat,1. Extremely liberal,0.0,80.0
+4829,45-54,Democrat,3. Slightly liberal,0.0,70.0
+4830,35-44,Democrat,2. Liberal,25.0,85.0
+4832,35-44,Republican,4. Moderate; middle of the road,69.0,0.0
+4833,55-64,Republican,6. Conservative,70.0,60.0
+4834,65+,Republican,7. Extremely conservative,100.0,0.0
+4835,55-64,Republican,5. Slightly conservative,85.0,0.0
+4836,35-44,Republican,6. Conservative,60.0,40.0
+4837,65+,Republican,5. Slightly conservative,40.0,0.0
+4839,45-54,Democrat,2. Liberal,0.0,85.0
+4841,45-54,Republican,6. Conservative,100.0,0.0
+4845,25-34,Republican,5. Slightly conservative,7.0,4.0
+4847,25-34,Democrat,7. Extremely conservative,0.0,80.0
+4848,55-64,Democrat,3. Slightly liberal,0.0,50.0
+4849,45-54,Democrat,3. Slightly liberal,0.0,85.0
+4851,55-64,Republican,6. Conservative,100.0,0.0
+4856,25-34,Democrat,2. Liberal,15.0,70.0
+4857,55-64,Democrat,3. Slightly liberal,0.0,70.0
+4859,45-54,Democrat,2. Liberal,15.0,85.0
+4862,45-54,Republican,6. Conservative,60.0,30.0
+4863,25-34,Democrat,4. Moderate; middle of the road,60.0,65.0
+4865,55-64,Democrat,6. Conservative,60.0,70.0
+4868,45-54,Republican,6. Conservative,0.0,60.0
+4869,55-64,Democrat,3. Slightly liberal,0.0,100.0
+4870,55-64,Republican,6. Conservative,100.0,0.0
+4871,25-34,Democrat,1. Extremely liberal,0.0,55.0
+4875,35-44,Democrat,4. Moderate; middle of the road,30.0,70.0
+4876,55-64,Democrat,3. Slightly liberal,0.0,85.0
+4878,55-64,Republican,5. Slightly conservative,85.0,15.0
+4879,35-44,Democrat,5. Slightly conservative,50.0,70.0
+4880,55-64,Republican,4. Moderate; middle of the road,80.0,30.0
+4881,35-44,Republican,5. Slightly conservative,15.0,5.0
+4884,55-64,Republican,7. Extremely conservative,100.0,0.0
+4885,55-64,Republican,3. Slightly liberal,100.0,0.0
+4886,35-44,Republican,4. Moderate; middle of the road,100.0,15.0
+4887,45-54,Republican,4. Moderate; middle of the road,85.0,30.0
+4888,45-54,Democrat,1. Extremely liberal,0.0,80.0
+4889,35-44,Democrat,4. Moderate; middle of the road,30.0,50.0
+4890,25-34,Democrat,2. Liberal,0.0,65.0
+4892,25-34,Democrat,4. Moderate; middle of the road,30.0,70.0
+4894,55-64,Republican,6. Conservative,90.0,5.0
+4896,35-44,Republican,4. Moderate; middle of the road,0.0,85.0
+4898,25-34,Democrat,3. Slightly liberal,0.0,85.0
+4899,25-34,Democrat,3. Slightly liberal,15.0,70.0
+4902,35-44,Democrat,2. Liberal,0.0,70.0
+4903,35-44,Democrat,2. Liberal,0.0,95.0
+4904,35-44,Republican,6. Conservative,85.0,15.0
+4907,18-24,Democrat,2. Liberal,15.0,70.0
+4908,35-44,Democrat,4. Moderate; middle of the road,0.0,40.0
+4909,45-54,Republican,4. Moderate; middle of the road,60.0,15.0
+4912,55-64,Democrat,2. Liberal,5.0,75.0
+4913,45-54,Democrat,2. Liberal,0.0,50.0
+4915,55-64,Democrat,2. Liberal,15.0,100.0
+4916,35-44,Democrat,2. Liberal,10.0,70.0
+4918,45-54,Democrat,2. Liberal,0.0,100.0
+4922,35-44,Democrat,1. Extremely liberal,0.0,75.0
+4924,45-54,Democrat,2. Liberal,0.0,75.0
+4925,25-34,Democrat,3. Slightly liberal,0.0,80.0
+4926,55-64,Republican,6. Conservative,80.0,30.0
+4928,25-34,Democrat,4. Moderate; middle of the road,15.0,50.0
+4930,35-44,Republican,7. Extremely conservative,95.0,15.0
+4931,25-34,Democrat,2. Liberal,0.0,85.0
+4932,45-54,Democrat,3. Slightly liberal,0.0,90.0
+4933,35-44,Democrat,3. Slightly liberal,10.0,80.0
+4936,25-34,Democrat,4. Moderate; middle of the road,50.0,50.0
+4937,55-64,Republican,6. Conservative,100.0,0.0
+4941,45-54,Democrat,5. Slightly conservative,70.0,70.0
+4944,35-44,Democrat,5. Slightly conservative,15.0,60.0
+4946,18-24,Democrat,1. Extremely liberal,0.0,50.0
+4947,25-34,Democrat,4. Moderate; middle of the road,60.0,70.0
+4948,45-54,Independent,4. Moderate; middle of the road,50.0,50.0
+4949,45-54,Republican,6. Conservative,70.0,0.0
+4950,18-24,Democrat,3. Slightly liberal,30.0,100.0
+4953,18-24,Democrat,4. Moderate; middle of the road,0.0,50.0
+4956,65+,Republican,6. Conservative,100.0,15.0
+4957,25-34,Republican,6. Conservative,90.0,0.0
+4958,55-64,Republican,4. Moderate; middle of the road,30.0,70.0
+4959,55-64,Democrat,4. Moderate; middle of the road,0.0,100.0
+4962,55-64,Democrat,4. Moderate; middle of the road,25.0,90.0
+4964,45-54,Democrat,2. Liberal,0.0,95.0
+4966,18-24,Democrat,2. Liberal,0.0,90.0
+4968,35-44,Democrat,4. Moderate; middle of the road,30.0,85.0
+4969,45-54,Republican,5. Slightly conservative,20.0,25.0
+4971,18-24,Republican,6. Conservative,60.0,30.0
+4972,55-64,Democrat,4. Moderate; middle of the road,30.0,60.0
+4974,55-64,Democrat,6. Conservative,0.0,75.0
+4980,18-24,Democrat,1. Extremely liberal,0.0,70.0
+4981,35-44,Democrat,4. Moderate; middle of the road,30.0,50.0
+4982,55-64,Independent,1. Extremely liberal,0.0,85.0
+4983,18-24,Democrat,3. Slightly liberal,20.0,60.0
+4987,45-54,Republican,7. Extremely conservative,100.0,0.0
+4989,25-34,Independent,4. Moderate; middle of the road,80.0,70.0
+4991,55-64,Republican,6. Conservative,80.0,40.0
+4994,25-34,Democrat,3. Slightly liberal,15.0,85.0
+4997,25-34,Republican,5. Slightly conservative,10.0,10.0
+4998,18-24,Democrat,2. Liberal,20.0,65.0
+4999,18-24,Independent,4. Moderate; middle of the road,100.0,50.0
+5001,35-44,Republican,6. Conservative,85.0,0.0
+5002,45-54,Democrat,2. Liberal,0.0,75.0
+5003,65+,Democrat,4. Moderate; middle of the road,0.0,70.0
+5006,18-24,Democrat,1. Extremely liberal,0.0,90.0
+5008,18-24,Democrat,3. Slightly liberal,20.0,85.0
+5009,55-64,Democrat,4. Moderate; middle of the road,50.0,80.0
+5011,55-64,Republican,6. Conservative,100.0,0.0
+5012,18-24,Democrat,2. Liberal,30.0,85.0
+5017,55-64,Republican,6. Conservative,80.0,20.0
+5018,18-24,Republican,4. Moderate; middle of the road,70.0,50.0
+5019,35-44,Democrat,1. Extremely liberal,0.0,75.0
+5020,45-54,Independent,4. Moderate; middle of the road,100.0,15.0
+5022,18-24,Democrat,2. Liberal,0.0,85.0
+5024,25-34,Republican,5. Slightly conservative,40.0,30.0
+5025,18-24,Democrat,2. Liberal,15.0,100.0
+5028,25-34,Democrat,3. Slightly liberal,0.0,100.0
+5031,55-64,Democrat,3. Slightly liberal,0.0,85.0
+5032,65+,Democrat,3. Slightly liberal,0.0,100.0
+5034,35-44,Democrat,2. Liberal,0.0,65.0
+5035,35-44,Republican,6. Conservative,70.0,15.0
+5036,25-34,Republican,4. Moderate; middle of the road,50.0,40.0
+5037,45-54,Republican,4. Moderate; middle of the road,85.0,60.0
+5041,25-34,Democrat,2. Liberal,15.0,70.0
+5043,35-44,Democrat,1. Extremely liberal,0.0,100.0
+5044,25-34,Republican,5. Slightly conservative,70.0,75.0
+5048,18-24,Democrat,1. Extremely liberal,0.0,70.0
+5049,35-44,Democrat,4. Moderate; middle of the road,50.0,50.0
+5056,35-44,Democrat,2. Liberal,0.0,90.0
+5057,45-54,Republican,6. Conservative,90.0,50.0
+5060,35-44,Democrat,4. Moderate; middle of the road,30.0,60.0
+5061,45-54,Democrat,2. Liberal,0.0,65.0
+5062,45-54,Republican,6. Conservative,60.0,40.0
+5063,55-64,Republican,6. Conservative,15.0,0.0
+5064,35-44,Republican,5. Slightly conservative,80.0,20.0
+5066,55-64,Democrat,1. Extremely liberal,0.0,85.0
+5067,55-64,Democrat,2. Liberal,0.0,90.0
+5070,45-54,Democrat,3. Slightly liberal,0.0,85.0
+5072,45-54,Republican,6. Conservative,85.0,40.0
+5075,55-64,Democrat,4. Moderate; middle of the road,0.0,75.0
+5076,25-34,Democrat,3. Slightly liberal,30.0,70.0
+5077,25-34,Democrat,2. Liberal,0.0,100.0
+5078,35-44,Democrat,2. Liberal,0.0,100.0
+5080,55-64,Republican,6. Conservative,100.0,0.0
+5082,25-34,Democrat,4. Moderate; middle of the road,50.0,85.0
+5084,65+,Republican,5. Slightly conservative,60.0,15.0
+5086,55-64,Democrat,2. Liberal,0.0,95.0
+5090,45-54,Democrat,2. Liberal,1.0,80.0
+5091,18-24,Independent,4. Moderate; middle of the road,0.0,15.0
+5093,18-24,Republican,5. Slightly conservative,70.0,35.0
+5094,55-64,Republican,6. Conservative,60.0,0.0
+5095,55-64,Democrat,3. Slightly liberal,0.0,85.0
+5096,55-64,Republican,7. Extremely conservative,100.0,0.0
+5097,55-64,Republican,4. Moderate; middle of the road,100.0,0.0
+5098,25-34,Republican,4. Moderate; middle of the road,40.0,70.0
+5103,35-44,Democrat,2. Liberal,0.0,70.0
+5105,35-44,Republican,3. Slightly liberal,85.0,15.0
+5106,25-34,Democrat,2. Liberal,0.0,80.0
+5107,55-64,Republican,4. Moderate; middle of the road,70.0,50.0
+5108,18-24,Democrat,3. Slightly liberal,0.0,60.0
+5110,55-64,Democrat,5. Slightly conservative,0.0,100.0
+5112,25-34,Democrat,2. Liberal,0.0,85.0
+5113,25-34,Democrat,4. Moderate; middle of the road,10.0,75.0
+5114,45-54,Republican,5. Slightly conservative,100.0,0.0
+5115,35-44,Republican,4. Moderate; middle of the road,60.0,60.0
+5119,35-44,Democrat,2. Liberal,0.0,85.0
+5120,45-54,Democrat,2. Liberal,0.0,90.0
+5121,35-44,Democrat,5. Slightly conservative,85.0,15.0
+5124,25-34,Republican,5. Slightly conservative,60.0,40.0
+5127,45-54,Democrat,4. Moderate; middle of the road,40.0,70.0
+5129,25-34,Democrat,2. Liberal,0.0,70.0
+5130,65+,Democrat,2. Liberal,0.0,85.0
+5131,25-34,Republican,4. Moderate; middle of the road,50.0,50.0
+5132,25-34,Republican,6. Conservative,60.0,15.0
+5133,45-54,Republican,5. Slightly conservative,1.0,15.0
+5134,55-64,Republican,4. Moderate; middle of the road,70.0,15.0
+5137,55-64,Republican,6. Conservative,100.0,0.0
+5138,25-34,Democrat,1. Extremely liberal,0.0,85.0
+5143,25-34,Democrat,5. Slightly conservative,0.0,63.0
+5144,35-44,Independent,4. Moderate; middle of the road,50.0,50.0
+5146,35-44,Democrat,2. Liberal,0.0,50.0
+5148,35-44,Democrat,3. Slightly liberal,0.0,15.0
+5151,45-54,Democrat,3. Slightly liberal,70.0,100.0
+5153,45-54,Democrat,5. Slightly conservative,2.0,60.0
+5154,45-54,Democrat,1. Extremely liberal,15.0,85.0
+5155,25-34,Democrat,2. Liberal,40.0,75.0
+5156,18-24,Independent,4. Moderate; middle of the road,20.0,20.0
+5157,35-44,Democrat,4. Moderate; middle of the road,1.0,60.0
+5163,25-34,Republican,5. Slightly conservative,60.0,12.0
+5164,35-44,Republican,6. Conservative,80.0,0.0
+5168,55-64,Independent,4. Moderate; middle of the road,50.0,50.0
+5169,45-54,Republican,5. Slightly conservative,60.0,30.0
+5171,55-64,Republican,5. Slightly conservative,70.0,15.0
+5175,55-64,Democrat,4. Moderate; middle of the road,100.0,0.0
+5176,35-44,Democrat,2. Liberal,0.0,100.0
+5179,55-64,Democrat,6. Conservative,0.0,95.0
+5180,45-54,Republican,6. Conservative,100.0,0.0
+5181,55-64,Republican,5. Slightly conservative,100.0,50.0
+5185,25-34,Democrat,2. Liberal,0.0,70.0
+5187,55-64,Democrat,4. Moderate; middle of the road,0.0,55.0
+5189,25-34,Democrat,2. Liberal,40.0,60.0
+5191,45-54,Republican,5. Slightly conservative,50.0,60.0
+5192,18-24,Republican,5. Slightly conservative,100.0,10.0
+5194,55-64,Democrat,4. Moderate; middle of the road,90.0,0.0
+5199,45-54,Republican,4. Moderate; middle of the road,50.0,60.0
+5202,35-44,Democrat,4. Moderate; middle of the road,50.0,40.0
+5206,45-54,Democrat,3. Slightly liberal,0.0,100.0
+5207,55-64,Democrat,5. Slightly conservative,30.0,85.0
+5208,45-54,Democrat,4. Moderate; middle of the road,70.0,50.0
+5209,55-64,Democrat,2. Liberal,0.0,85.0
+5210,35-44,Democrat,2. Liberal,0.0,80.0
+5214,18-24,Republican,6. Conservative,70.0,50.0
+5216,55-64,Republican,4. Moderate; middle of the road,100.0,0.0
+5217,25-34,Republican,4. Moderate; middle of the road,30.0,60.0
+5218,55-64,Democrat,3. Slightly liberal,0.0,85.0
+5219,35-44,Republican,6. Conservative,100.0,0.0
+5220,55-64,Republican,6. Conservative,55.0,10.0
+5221,25-34,Republican,4. Moderate; middle of the road,85.0,0.0
+5223,45-54,Republican,6. Conservative,90.0,15.0
+5224,55-64,Republican,6. Conservative,95.0,0.0
+5227,35-44,Democrat,2. Liberal,0.0,85.0
+5230,35-44,Republican,5. Slightly conservative,85.0,10.0
+5234,45-54,Republican,5. Slightly conservative,85.0,15.0
+5236,35-44,Democrat,3. Slightly liberal,0.0,80.0
+5238,55-64,Republican,6. Conservative,85.0,30.0
+5240,18-24,Democrat,4. Moderate; middle of the road,50.0,50.0
+5244,55-64,Democrat,3. Slightly liberal,60.0,85.0
+5245,35-44,Republican,7. Extremely conservative,85.0,75.0
+5247,55-64,Republican,6. Conservative,100.0,0.0
+5248,18-24,Republican,4. Moderate; middle of the road,100.0,50.0
+5249,18-24,Democrat,2. Liberal,0.0,96.0
+5250,35-44,Republican,4. Moderate; middle of the road,70.0,50.0
+5251,18-24,Republican,5. Slightly conservative,60.0,30.0
+5254,55-64,Democrat,4. Moderate; middle of the road,30.0,30.0
+5257,45-54,Republican,4. Moderate; middle of the road,70.0,15.0
+5259,45-54,Republican,6. Conservative,85.0,30.0
+5260,45-54,Democrat,4. Moderate; middle of the road,60.0,50.0
+5261,25-34,Democrat,4. Moderate; middle of the road,70.0,60.0
+5264,45-54,Republican,6. Conservative,75.0,50.0
+5266,55-64,Republican,7. Extremely conservative,100.0,0.0
+5269,65+,Republican,6. Conservative,100.0,0.0
+5270,25-34,Democrat,2. Liberal,0.0,70.0
+5278,35-44,Republican,6. Conservative,70.0,30.0
+5284,45-54,Democrat,6. Conservative,70.0,15.0
+5286,35-44,Democrat,2. Liberal,0.0,85.0
+5291,55-64,Independent,5. Slightly conservative,80.0,50.0
+5293,35-44,Republican,4. Moderate; middle of the road,85.0,15.0
+5294,45-54,Republican,5. Slightly conservative,65.0,30.0
+5296,55-64,Republican,4. Moderate; middle of the road,70.0,0.0
+5304,55-64,Democrat,3. Slightly liberal,0.0,60.0
+5305,35-44,Democrat,1. Extremely liberal,0.0,100.0
+5308,35-44,Democrat,4. Moderate; middle of the road,30.0,60.0
+5312,55-64,Republican,6. Conservative,90.0,0.0
+5314,55-64,Democrat,2. Liberal,5.0,90.0
+5317,55-64,Republican,6. Conservative,75.0,25.0
+5318,55-64,Republican,6. Conservative,70.0,30.0
+5324,55-64,Republican,5. Slightly conservative,60.0,40.0
+5329,55-64,Republican,4. Moderate; middle of the road,60.0,15.0
+5331,25-34,Democrat,4. Moderate; middle of the road,15.0,50.0
+5333,55-64,Democrat,2. Liberal,0.0,85.0
+5334,45-54,Democrat,4. Moderate; middle of the road,40.0,70.0
+5336,25-34,Republican,6. Conservative,80.0,0.0
+5339,45-54,Republican,6. Conservative,85.0,30.0
+5340,35-44,Republican,4. Moderate; middle of the road,60.0,40.0
+5341,35-44,Republican,4. Moderate; middle of the road,60.0,50.0
+5342,35-44,Republican,5. Slightly conservative,95.0,15.0
+5344,25-34,Republican,7. Extremely conservative,100.0,0.0
+5345,55-64,Democrat,2. Liberal,15.0,70.0
+5346,35-44,Republican,6. Conservative,60.0,0.0
+5349,25-34,Republican,5. Slightly conservative,50.0,0.0
+5350,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+5351,45-54,Independent,5. Slightly conservative,50.0,75.0
+5352,45-54,Democrat,4. Moderate; middle of the road,65.0,30.0
+5357,45-54,Republican,6. Conservative,85.0,0.0
+5358,35-44,Republican,5. Slightly conservative,50.0,60.0
+5361,35-44,Democrat,4. Moderate; middle of the road,50.0,40.0
+5362,45-54,Democrat,2. Liberal,0.0,85.0
+5364,35-44,Democrat,2. Liberal,15.0,85.0
+5365,55-64,Democrat,2. Liberal,0.0,85.0
+5366,35-44,Republican,4. Moderate; middle of the road,60.0,40.0
+5368,55-64,Republican,6. Conservative,85.0,30.0
+5370,18-24,Democrat,1. Extremely liberal,5.0,60.0
+5371,25-34,Republican,6. Conservative,60.0,5.0
+5372,45-54,Democrat,2. Liberal,0.0,100.0
+5375,25-34,Republican,5. Slightly conservative,85.0,15.0
+5378,45-54,Republican,5. Slightly conservative,60.0,30.0
+5379,45-54,Democrat,4. Moderate; middle of the road,0.0,100.0
+5385,18-24,Democrat,1. Extremely liberal,0.0,25.0
+5386,35-44,Democrat,2. Liberal,0.0,85.0
+5387,45-54,Independent,5. Slightly conservative,50.0,50.0
+5388,45-54,Democrat,3. Slightly liberal,70.0,30.0
+5389,65+,Republican,6. Conservative,60.0,15.0
+5390,65+,Democrat,4. Moderate; middle of the road,75.0,50.0
+5391,25-34,Republican,4. Moderate; middle of the road,40.0,0.0
+5394,25-34,Republican,7. Extremely conservative,100.0,0.0
+5395,55-64,Republican,7. Extremely conservative,100.0,0.0
+5398,65+,Democrat,2. Liberal,0.0,90.0
+5399,55-64,Republican,7. Extremely conservative,85.0,0.0
+5400,45-54,Republican,6. Conservative,70.0,50.0
+5402,55-64,Democrat,2. Liberal,0.0,100.0
+5406,55-64,Democrat,3. Slightly liberal,0.0,85.0
+5407,55-64,Republican,7. Extremely conservative,85.0,0.0
+5409,18-24,Republican,5. Slightly conservative,80.0,30.0
+5410,18-24,Republican,5. Slightly conservative,65.0,20.0
+5414,45-54,Democrat,2. Liberal,0.0,85.0
+5418,55-64,Republican,6. Conservative,70.0,15.0
+5419,65+,Republican,4. Moderate; middle of the road,60.0,40.0
+5421,55-64,Republican,6. Conservative,85.0,5.0
+5423,45-54,Democrat,6. Conservative,60.0,60.0
+5425,55-64,Republican,7. Extremely conservative,100.0,0.0
+5430,18-24,Republican,5. Slightly conservative,60.0,30.0
+5431,35-44,Democrat,2. Liberal,40.0,70.0
+5432,25-34,Democrat,1. Extremely liberal,0.0,70.0
+5435,55-64,Democrat,4. Moderate; middle of the road,0.0,70.0
+5436,55-64,Republican,6. Conservative,85.0,15.0
+5437,45-54,Republican,5. Slightly conservative,62.0,21.0
+5442,45-54,Republican,6. Conservative,100.0,0.0
+5443,18-24,Republican,6. Conservative,80.0,10.0
+5444,25-34,Republican,5. Slightly conservative,50.0,40.0
+5446,55-64,Independent,6. Conservative,60.0,20.0
+5449,25-34,Democrat,4. Moderate; middle of the road,70.0,15.0
+5450,55-64,Republican,6. Conservative,70.0,40.0
+5452,55-64,Democrat,2. Liberal,0.0,85.0
+5453,35-44,Democrat,1. Extremely liberal,0.0,95.0
+5454,45-54,Democrat,3. Slightly liberal,5.0,85.0
+5455,55-64,Democrat,3. Slightly liberal,0.0,85.0
+5457,35-44,Democrat,2. Liberal,0.0,70.0
+5458,35-44,Democrat,4. Moderate; middle of the road,10.0,80.0
+5460,35-44,Republican,4. Moderate; middle of the road,90.0,20.0
+5463,45-54,Democrat,4. Moderate; middle of the road,15.0,70.0
+5464,35-44,Independent,4. Moderate; middle of the road,60.0,40.0
+5465,18-24,Democrat,3. Slightly liberal,40.0,70.0
+5467,25-34,Democrat,2. Liberal,0.0,85.0
+5470,55-64,Democrat,4. Moderate; middle of the road,50.0,100.0
+5471,45-54,Republican,5. Slightly conservative,55.0,50.0
+5474,35-44,Democrat,2. Liberal,0.0,85.0
+5478,35-44,Democrat,5. Slightly conservative,30.0,70.0
+5479,18-24,Democrat,1. Extremely liberal,0.0,70.0
+5480,25-34,Democrat,3. Slightly liberal,30.0,40.0
+5483,18-24,Independent,4. Moderate; middle of the road,50.0,50.0
+5484,25-34,Democrat,5. Slightly conservative,15.0,60.0
+5485,55-64,Democrat,3. Slightly liberal,20.0,80.0
+5487,18-24,Republican,4. Moderate; middle of the road,40.0,100.0
+5488,25-34,Democrat,2. Liberal,15.0,50.0
+5489,18-24,Democrat,4. Moderate; middle of the road,0.0,50.0
+5491,55-64,Republican,6. Conservative,85.0,15.0
+5493,35-44,Republican,6. Conservative,70.0,40.0
+5496,45-54,Republican,4. Moderate; middle of the road,70.0,15.0
+5500,25-34,Republican,7. Extremely conservative,100.0,0.0
+5504,55-64,Republican,6. Conservative,80.0,10.0
+5505,45-54,Democrat,2. Liberal,0.0,100.0
+5506,55-64,Democrat,3. Slightly liberal,0.0,70.0
+5507,45-54,Democrat,4. Moderate; middle of the road,70.0,50.0
+5508,25-34,Republican,5. Slightly conservative,60.0,40.0
+5513,45-54,Democrat,3. Slightly liberal,70.0,15.0
+5514,35-44,Republican,4. Moderate; middle of the road,60.0,40.0
+5519,25-34,Democrat,1. Extremely liberal,10.0,80.0
+5520,35-44,Republican,5. Slightly conservative,85.0,15.0
